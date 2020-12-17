@@ -1,101 +1,334 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T13:13:45.426Z" agent="5.0 (X11)" etag="-HhwQjqwyZIvmmMmqjBh" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T15:34:32.341Z" agent="5.0 (X11)" etag="0XIzWpNOeiXq563x3yA0" version="14.0.4" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-1" target="dGn6QkftWstA0BSSHZ_h-2">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-1" target="dGn6QkftWstA0BSSHZ_h-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-1" value="Automated Business Processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-1" value="Automated Business Processes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-4">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-5">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-10">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-2" value="Business&amp;nbsp; Process&amp;nbsp; Automation&amp;nbsp; (BPA)&amp;nbsp; is&amp;nbsp; the&amp;nbsp; technology-enabled&amp;nbsp; automation&amp;nbsp; of&amp;nbsp; activities or services that accomplish a specific function and can be implemented for many different functions of company activities, including sales, management, operations,&amp;nbsp; supply&amp;nbsp; chain,&amp;nbsp; human&amp;nbsp; resources,&amp;nbsp; information&amp;nbsp; technology,&amp;nbsp; etc. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-2" value="Business&amp;nbsp; Process&amp;nbsp; Automation&amp;nbsp; (BPA)&amp;nbsp; is&amp;nbsp; the&amp;nbsp; technology-enabled&amp;nbsp; automation&amp;nbsp; of&amp;nbsp; activities or services that accomplish a specific function and can be implemented for many different functions of company activities, including sales, management, operations,&amp;nbsp; supply&amp;nbsp; chain,&amp;nbsp; human&amp;nbsp; resources,&amp;nbsp; information&amp;nbsp; technology,&amp;nbsp; etc. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="60" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-4" value="Factors" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-4" value="Factors" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="70" y="85" width="120" height="40" as="geometry">
             <mxRectangle x="70" y="85" width="140" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-6" value="&lt;div&gt;1. Confidentiality&lt;/div&gt;&lt;div&gt;2. Integrity&lt;/div&gt;&lt;div&gt;3. Availability&lt;/div&gt;&lt;div&gt;4. Timeliness&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dGn6QkftWstA0BSSHZ_h-4">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-6" value="&lt;div&gt;1. Confidentiality&lt;/div&gt;&lt;div&gt;2. Integrity&lt;/div&gt;&lt;div&gt;3. Availability&lt;/div&gt;&lt;div&gt;4. Timeliness&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dGn6QkftWstA0BSSHZ_h-4" vertex="1">
           <mxGeometry y="40" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-5" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-5" value="Benefits" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="650" y="85" width="120" height="40" as="geometry">
             <mxRectangle x="650" y="85" width="210" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-9" value="&lt;div&gt;1. Quality and Consistency&lt;/div&gt;&lt;div&gt;2. Time Saving&lt;/div&gt;&lt;div&gt;3. Visibility&lt;/div&gt;&lt;div&gt;4. Improved Operational Efficiency&lt;/div&gt;&lt;div&gt;5. Governance &amp;amp; Reliability&lt;/div&gt;&lt;div&gt;6. Reduced Turnaround Time&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Reduced Costs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dGn6QkftWstA0BSSHZ_h-5">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-9" value="&lt;div&gt;1. Quality and Consistency&lt;/div&gt;&lt;div&gt;2. Time Saving&lt;/div&gt;&lt;div&gt;3. Visibility&lt;/div&gt;&lt;div&gt;4. Improved Operational Efficiency&lt;/div&gt;&lt;div&gt;5. Governance &amp;amp; Reliability&lt;/div&gt;&lt;div&gt;6. Reduced Turnaround Time&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Reduced Costs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dGn6QkftWstA0BSSHZ_h-5" vertex="1">
           <mxGeometry y="40" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-10" target="dGn6QkftWstA0BSSHZ_h-11" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-10" target="dGn6QkftWstA0BSSHZ_h-11" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Implementation" treeRoot="1" id="dGn6QkftWstA0BSSHZ_h-10">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="360" y="170" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-11" target="dGn6QkftWstA0BSSHZ_h-12" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-11" target="dGn6QkftWstA0BSSHZ_h-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-11" value="Step 1: Define why we plan to implement a BPA?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-11" value="Step 1: Define why we plan to implement a BPA?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="330" y="230" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-12" target="dGn6QkftWstA0BSSHZ_h-19" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-12" target="dGn6QkftWstA0BSSHZ_h-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-12" value="Step 2: Understand the rules / regulation under which enterprise needs to comply with? " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-12" value="Step 2: Understand the rules / regulation under which enterprise needs to comply with? " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-19" target="dGn6QkftWstA0BSSHZ_h-20" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-19" target="dGn6QkftWstA0BSSHZ_h-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-19" value="Step 3: Document the process, we wish to automate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-19" value="Step 3: Document the process, we wish to automate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="380" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-20" target="dGn6QkftWstA0BSSHZ_h-21" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-20" target="dGn6QkftWstA0BSSHZ_h-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-20" value="&amp;nbsp; Step 4: Define the objectives/goals to be achieved by implementing BPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-20" value="&amp;nbsp; Step 4: Define the objectives/goals to be achieved by implementing BPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="440" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-21" target="dGn6QkftWstA0BSSHZ_h-22" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-21" target="dGn6QkftWstA0BSSHZ_h-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-21" target="dGn6QkftWstA0BSSHZ_h-36" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-21" target="dGn6QkftWstA0BSSHZ_h-36" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-21" value="Step 5: Engage the business process consultant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-21" value="Step 5: Engage the business process consultant" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="500" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-22" target="dGn6QkftWstA0BSSHZ_h-24" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-22" target="dGn6QkftWstA0BSSHZ_h-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-22" value="Step 6: Calculate the Return on Investment for project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-22" value="Step 6: Calculate the Return on Investment for project" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="560" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-24" target="dGn6QkftWstA0BSSHZ_h-25" visible="0">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-24" target="dGn6QkftWstA0BSSHZ_h-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-24" value="Step 7: Developing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-24" value="Step 7: Developing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="620" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-25" value="&amp;nbsp;Step 8: Testing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-25" value="&amp;nbsp;Step 8: Testing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dGn6QkftWstA0BSSHZ_h-36" value="Get help from a consultant who has experience in that matter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-36" value="Get help from a consultant who has experience in that matter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="540" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzliCnT5QZ5cCRzD74QY-1" target="xzliCnT5QZ5cCRzD74QY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="80" />
+              <mxPoint x="1220" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzliCnT5QZ5cCRzD74QY-1" target="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-1" value="&lt;div&gt;Risk management&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1000" width="160" height="40" as="geometry">
+            <mxRectangle x="1000" width="260" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-2" value="Risk is any event that may result in a significant deviation from a planned objective resulting in an unwanted negative consequence." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-1">
+          <mxGeometry y="40" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzliCnT5QZ5cCRzD74QY-5" target="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="180" />
+              <mxPoint x="1080" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-5" value="&amp;nbsp;Data related risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzliCnT5QZ5cCRzD74QY-4" target="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-4" value="&lt;div&gt;Technology&lt;/div&gt;&lt;div&gt; Risks&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1020" y="120" width="120" height="40" as="geometry">
+            <mxRectangle x="880" y="110" width="490" height="540" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry y="40" width="490" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-34" value="Downtime&amp;nbsp; due&amp;nbsp; to&amp;nbsp; technology&amp;nbsp; failure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-34" target="xzliCnT5QZ5cCRzD74QY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-35" value="Frequent&amp;nbsp; changes&amp;nbsp; or&amp;nbsp; obsolescence&amp;nbsp; of&amp;nbsp; technology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="110" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-35" target="xzliCnT5QZ5cCRzD74QY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-36" value="Complexity of systems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="170" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-36" target="xzliCnT5QZ5cCRzD74QY-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-37" value="Different types of controls for different types of technologies/systems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="230" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-37" target="xzliCnT5QZ5cCRzD74QY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-38" value="Dependence on vendors due to outsourcing of IT services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="300" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-38" target="xzliCnT5QZ5cCRzD74QY-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-39" value="Vendor&amp;nbsp; related&amp;nbsp; concentration&amp;nbsp; risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-39" target="xzliCnT5QZ5cCRzD74QY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-40" value="Segregation&amp;nbsp; of&amp;nbsp; Duties " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="430" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-40" target="xzliCnT5QZ5cCRzD74QY-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-41" value="External threats leading to cyber frauds/ crime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="10" y="490" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-4" source="xzliCnT5QZ5cCRzD74QY-40" target="xzliCnT5QZ5cCRzD74QY-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-50" value="Single employee can initiate,&amp;nbsp; authorize&amp;nbsp; and&amp;nbsp; disburse&amp;nbsp; a&amp;nbsp; loan,&amp;nbsp; the&amp;nbsp; possibility&amp;nbsp; of&amp;nbsp; misuse&amp;nbsp; cannot&amp;nbsp; be&amp;nbsp; ignored." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry x="210" y="430" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzliCnT5QZ5cCRzD74QY-3" target="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="180" />
+              <mxPoint x="1080" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-3" value="&lt;div&gt;Business &lt;br&gt;&lt;/div&gt;&lt;div&gt;Risks&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="880" y="120" width="120" height="40" as="geometry">
+            <mxRectangle x="1020" y="110" width="430" height="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry y="40" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-15" value="Strategic Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="10" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-15" target="xzliCnT5QZ5cCRzD74QY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-16" value="Ex. strategy, political, economic relationship issues with suppliers and global market" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="185" y="50" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-15" target="xzliCnT5QZ5cCRzD74QY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-14" value="Financial Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="10" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-14" target="xzliCnT5QZ5cCRzD74QY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-13" value="Regulatory&amp;nbsp; (Compliance)&amp;nbsp; Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="10" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-13" target="xzliCnT5QZ5cCRzD74QY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-12" value="Operational Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="10" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-12" target="xzliCnT5QZ5cCRzD74QY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-11" value="Hazard Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="10" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-11" target="xzliCnT5QZ5cCRzD74QY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-10" value="Residual&amp;nbsp; Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="10" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-10" target="xzliCnT5QZ5cCRzD74QY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-21" value="risk&amp;nbsp; remaining&amp;nbsp; even&amp;nbsp; after&amp;nbsp; the&amp;nbsp; counter&amp;nbsp; measures are analyzed and implemented" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="160" y="350" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-11" target="xzliCnT5QZ5cCRzD74QY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-20" value="Ex.&amp;nbsp; natural&amp;nbsp; disasters; various insurable liabilities; impairment of physical assets; terrorism etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="150" y="290" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-12" target="xzliCnT5QZ5cCRzD74QY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-19" value="breakdown&amp;nbsp; in&amp;nbsp; internal processes, people and systems." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="150" y="230" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-13" target="xzliCnT5QZ5cCRzD74QY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-18" value="Ex. fines&amp;nbsp; and&amp;nbsp; penalties due&amp;nbsp; to&amp;nbsp; non-compliance with laws and regulations." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="150" y="170" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-3" source="xzliCnT5QZ5cCRzD74QY-14" target="xzliCnT5QZ5cCRzD74QY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-17" value="Ex. volatility&amp;nbsp; in&amp;nbsp; foreign&amp;nbsp; currencies,&amp;nbsp; interest&amp;nbsp; rates,&amp;nbsp; and&amp;nbsp; commodities;&amp;nbsp; credit risk, liquidity risk, and market risk." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-3">
+          <mxGeometry x="150" y="110" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-62" value="Types of Risk" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzliCnT5QZ5cCRzD74QY-1" target="xzliCnT5QZ5cCRzD74QY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-65" value="Risk &#xa;Management&#xa; Strategies" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1020" y="200" width="120" height="50" as="geometry">
+            <mxRectangle x="1020" y="200" width="350" height="350" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry y="50" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-70" target="xzliCnT5QZ5cCRzD74QY-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-70" value="Tolerate/Accept&amp;nbsp; the&amp;nbsp; risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="110" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-71" target="xzliCnT5QZ5cCRzD74QY-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-71" value="Terminate/Eliminate the risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="110" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-72" target="xzliCnT5QZ5cCRzD74QY-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-72" target="xzliCnT5QZ5cCRzD74QY-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-72" value="Transfer/Share&amp;nbsp; the&amp;nbsp; risk." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="110" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-73" target="xzliCnT5QZ5cCRzD74QY-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-73" target="xzliCnT5QZ5cCRzD74QY-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-73" value="Treat/Mitigate the risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="110" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xzliCnT5QZ5cCRzD74QY-65" source="xzliCnT5QZ5cCRzD74QY-74" target="xzliCnT5QZ5cCRzD74QY-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-74" value="Turn&amp;nbsp; back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="110" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-75" value="with Ex. suppliers and producers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="250" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-77" value="Prevent it even before starting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="250" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xzliCnT5QZ5cCRzD74QY-79" value="Ignore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xzliCnT5QZ5cCRzD74QY-65">
+          <mxGeometry x="250" y="300" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
