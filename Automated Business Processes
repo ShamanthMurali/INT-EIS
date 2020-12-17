@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T12:57:40.326Z" agent="5.0 (X11)" version="14.0.4" etag="iEUh7_AhOR14kZedZM-U" type="github"><diagram id="tqu1Byeb49FfLhgSseQx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T13:08:56.259Z" agent="5.0 (X11)" etag="Lj3wZ6NGXECyS6IF8x7Z" version="14.0.4" type="github">
+  <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
+    <mxGraphModel dx="97" dy="47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-1" target="dGn6QkftWstA0BSSHZ_h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-1" value="Automated Business Processes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-2" value="Business&amp;nbsp; Process&amp;nbsp; Automation&amp;nbsp; (BPA)&amp;nbsp; is&amp;nbsp; the&amp;nbsp; technology-enabled&amp;nbsp; automation&amp;nbsp; of&amp;nbsp; activities or services that accomplish a specific function and can be implemented for many different functions of company activities, including sales, management, operations,&amp;nbsp; supply&amp;nbsp; chain,&amp;nbsp; human&amp;nbsp; resources,&amp;nbsp; information&amp;nbsp; technology,&amp;nbsp; etc. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="60" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-4" value="Factors" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="70" y="85" width="120" height="40" as="geometry">
+            <mxRectangle x="70" y="85" width="140" height="115" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-6" value="&lt;div&gt;1. Confidentiality&lt;/div&gt;&lt;div&gt;2. Integrity&lt;/div&gt;&lt;div&gt;3. Availability&lt;/div&gt;&lt;div&gt;4. Timeliness&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dGn6QkftWstA0BSSHZ_h-4">
+          <mxGeometry y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-5" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="650" y="85" width="120" height="40" as="geometry">
+            <mxRectangle x="650" y="85" width="210" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-9" value="&lt;div&gt;1. Quality and Consistency&lt;/div&gt;&lt;div&gt;2. Time Saving&lt;/div&gt;&lt;div&gt;3. Visibility&lt;/div&gt;&lt;div&gt;4. Improved Operational Efficiency&lt;/div&gt;&lt;div&gt;5. Governance &amp;amp; Reliability&lt;/div&gt;&lt;div&gt;6. Reduced Turnaround Time&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Reduced Costs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dGn6QkftWstA0BSSHZ_h-5">
+          <mxGeometry y="40" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-10" target="dGn6QkftWstA0BSSHZ_h-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Implementation" treeRoot="1" id="dGn6QkftWstA0BSSHZ_h-10">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="360" y="170" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-11" target="dGn6QkftWstA0BSSHZ_h-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-11" value="Step 1: Define why we plan to implement a BPA?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-12" target="dGn6QkftWstA0BSSHZ_h-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-12" value="Step 2: Understand the rules / regulation under which enterprise needs to comply with? " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-19" target="dGn6QkftWstA0BSSHZ_h-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-19" value="Step 3: Document the process, we wish to automate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-20" target="dGn6QkftWstA0BSSHZ_h-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-20" value="&amp;nbsp; Step 4: Define the objectives/goals to be achieved by implementing BPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-21" target="dGn6QkftWstA0BSSHZ_h-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-21" value="Step 5: Engage the business process consultant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-22" target="dGn6QkftWstA0BSSHZ_h-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-22" value="Step 6: Calculate the Return on Investment for project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dGn6QkftWstA0BSSHZ_h-24" target="dGn6QkftWstA0BSSHZ_h-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-24" value="Step 7: Developing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dGn6QkftWstA0BSSHZ_h-25" value="&amp;nbsp;Step 8: Testing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
