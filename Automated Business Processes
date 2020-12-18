@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T14:54:25.561Z" agent="5.0 (X11)" etag="240XDiKhJzJU1sNh7KXp" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T15:16:10.329Z" agent="5.0 (X11)" etag="v8i3d--zzK0LaZ19EW9Q" version="14.0.5" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="1055" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-1" value="Automated Business Processes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="-200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-2" target="dGn6QkftWstA0BSSHZ_h-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-2" value="Business&amp;nbsp; Process&amp;nbsp; Automation&amp;nbsp; (BPA)&amp;nbsp; is&amp;nbsp; the&amp;nbsp; technology-enabled&amp;nbsp; automation&amp;nbsp; of&amp;nbsp; activities or services that accomplish a specific function and can be implemented for many different functions of company activities, including sales, management, operations,&amp;nbsp; supply&amp;nbsp; chain,&amp;nbsp; human&amp;nbsp; resources,&amp;nbsp; information&amp;nbsp; technology,&amp;nbsp; etc. " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="60" width="410" height="90" as="geometry" />
+          <mxGeometry x="165" y="-140" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-4" value="Factors" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="70" y="85" width="120" height="40" as="geometry">
-            <mxRectangle x="70" y="85" width="140" height="120" as="alternateBounds" />
+          <mxGeometry x="20" y="-115" width="120" height="40" as="geometry">
+            <mxRectangle x="20" y="-195" width="140" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-6" value="&lt;div&gt;1. Confidentiality&lt;/div&gt;&lt;div&gt;2. Integrity&lt;/div&gt;&lt;div&gt;3. Availability&lt;/div&gt;&lt;div&gt;4. Timeliness&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dGn6QkftWstA0BSSHZ_h-4" vertex="1">
           <mxGeometry y="40" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-5" value="Benefits" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="650" y="85" width="120" height="40" as="geometry">
-            <mxRectangle x="650" y="85" width="210" height="160" as="alternateBounds" />
+          <mxGeometry x="600" y="-115" width="120" height="40" as="geometry">
+            <mxRectangle x="600" y="-115" width="210" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-9" value="&lt;div&gt;1. Quality and Consistency&lt;/div&gt;&lt;div&gt;2. Time Saving&lt;/div&gt;&lt;div&gt;3. Visibility&lt;/div&gt;&lt;div&gt;4. Improved Operational Efficiency&lt;/div&gt;&lt;div&gt;5. Governance &amp;amp; Reliability&lt;/div&gt;&lt;div&gt;6. Reduced Turnaround Time&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Reduced Costs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dGn6QkftWstA0BSSHZ_h-5" vertex="1">
@@ -43,32 +43,32 @@
         </mxCell>
         <UserObject label="Implementation" treeRoot="1" id="dGn6QkftWstA0BSSHZ_h-10">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="360" y="170" width="120" height="40" as="geometry" />
+            <mxGeometry x="310" y="-30" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-11" target="dGn6QkftWstA0BSSHZ_h-12" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-11" value="Step 1: Define why we plan to implement a BPA?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="330" y="230" width="180" height="50" as="geometry" />
+          <mxGeometry x="280" y="30" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-12" target="dGn6QkftWstA0BSSHZ_h-19" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-12" value="Step 2: Understand the rules / regulation under which enterprise needs to comply with? " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="300" width="200" height="60" as="geometry" />
+          <mxGeometry x="270" y="100" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-19" target="dGn6QkftWstA0BSSHZ_h-20" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-19" value="Step 3: Document the process, we wish to automate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="380" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="180" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-20" target="dGn6QkftWstA0BSSHZ_h-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-20" value="&amp;nbsp; Step 4: Define the objectives/goals to be achieved by implementing BPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="440" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-21" target="dGn6QkftWstA0BSSHZ_h-22" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -77,25 +77,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-21" value="Step 5: Engage the business process consultant" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="500" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="300" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-22" target="dGn6QkftWstA0BSSHZ_h-24" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-22" value="Step 6: Calculate the Return on Investment for project" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="560" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dGn6QkftWstA0BSSHZ_h-24" target="dGn6QkftWstA0BSSHZ_h-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-24" value="Step 7: Developing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="620" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="420" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-25" value="&amp;nbsp;Step 8: Testing the BPA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="680" width="200" height="40" as="geometry" />
+          <mxGeometry x="270" y="480" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-36" value="Get help from a consultant who has experience in that matter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="540" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xzliCnT5QZ5cCRzD74QY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xzliCnT5QZ5cCRzD74QY-1" target="xzliCnT5QZ5cCRzD74QY-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -505,8 +505,8 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-2" value="Control" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1480" width="120" height="40" as="geometry">
-            <mxRectangle x="1480" width="320" height="110" as="alternateBounds" />
+          <mxGeometry x="1380" width="120" height="40" as="geometry">
+            <mxRectangle x="1380" width="320" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-3" value="&amp;nbsp;policies, procedures, practices and organization structure that are designed to provide reasonable assurance that business objectives are achieved and undesired events are prevented or detected and corrected." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ugsaZSBgh6wG8CtXnDV5-2">
@@ -517,11 +517,11 @@
         </mxCell>
         <UserObject label="&lt;div&gt;Benefits&lt;/div&gt;" treeRoot="1" id="ugsaZSBgh6wG8CtXnDV5-4">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="1400" y="80" width="120" height="40" as="geometry" />
+            <mxGeometry x="1300" y="80" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-5" value="&lt;div&gt;(i)&amp;nbsp; They enable enterprise to achieve objectives; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)They help in mitigating risks.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1400" y="140" width="120" height="100" as="geometry" />
+          <mxGeometry x="1300" y="140" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-8" target="ugsaZSBgh6wG8CtXnDV5-9" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -531,18 +531,18 @@
         </mxCell>
         <UserObject label="Application" treeRoot="1" id="ugsaZSBgh6wG8CtXnDV5-8">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="1560" y="80" width="120" height="40" as="geometry" />
+            <mxGeometry x="1460" y="80" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-9" target="ugsaZSBgh6wG8CtXnDV5-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-9" value="Information Technology General Controls (ITGC)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="1480" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-10" value="&lt;div&gt;Application &lt;br&gt;&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="1640" y="160" width="110" height="50" as="geometry">
-            <mxRectangle x="1640" y="160" width="290" height="170" as="alternateBounds" />
+          <mxGeometry x="1540" y="160" width="110" height="50" as="geometry">
+            <mxRectangle x="1540" y="160" width="290" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-51" value="&amp;nbsp;controls&amp;nbsp; which&amp;nbsp; are&amp;nbsp; implemented&amp;nbsp; in&amp;nbsp; an&amp;nbsp; application&amp;nbsp; to&amp;nbsp; prevent or detect and correct errors. These controls are in-built in the application software to ensure accurate and reliable processing. These are designed to ensure completeness, accuracy, authorization and validity of data capture and transaction processing." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ugsaZSBgh6wG8CtXnDV5-10">
@@ -555,7 +555,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-14" value="Information Security Policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="1380" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-15" target="ugsaZSBgh6wG8CtXnDV5-26" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -564,7 +564,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-15" value="Administration, Access,&amp;nbsp; and&amp;nbsp; Authentication:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="290" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-16" target="ugsaZSBgh6wG8CtXnDV5-27" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -573,7 +573,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-16" value="Separation&amp;nbsp; of&amp;nbsp; key&amp;nbsp; IT&amp;nbsp; functions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="360" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-18" target="ugsaZSBgh6wG8CtXnDV5-28" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -582,7 +582,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-18" value="&lt;div&gt;Change &lt;br&gt;&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="430" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="430" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-19" target="ugsaZSBgh6wG8CtXnDV5-29" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -591,7 +591,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-19" value="Backup,&amp;nbsp; Recovery&amp;nbsp; and&amp;nbsp; Business&amp;nbsp; Continuity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="500" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-20" target="ugsaZSBgh6wG8CtXnDV5-30" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -600,19 +600,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-20" value="Proper&amp;nbsp;&amp;nbsp; Development&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; Implementation&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; Application&amp;nbsp;&amp;nbsp; Software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="570" width="120" height="70" as="geometry" />
+          <mxGeometry x="1380" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-21" target="ugsaZSBgh6wG8CtXnDV5-22" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-21" value="Confidentiality, Integrity and Availability of Software and data files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="1380" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-22" target="ugsaZSBgh6wG8CtXnDV5-23" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-22" value="&lt;div&gt;Incident response &lt;br&gt;&lt;/div&gt;&lt;div&gt;and management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="760" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-23" target="ugsaZSBgh6wG8CtXnDV5-31" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -621,31 +621,78 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-23" value="Monitoring&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; Applications&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; supporting&amp;nbsp;&amp;nbsp; Servers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="830" width="120" height="50" as="geometry" />
+          <mxGeometry x="1380" y="830" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-24" value="&lt;div&gt;User&amp;nbsp; training&amp;nbsp; and&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;qualification&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;of&amp;nbsp; Operations&amp;nbsp; personnel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1480" y="900" width="120" height="70" as="geometry" />
+          <mxGeometry x="1380" y="900" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-25" value="how&amp;nbsp; to&amp;nbsp; protect&amp;nbsp; a&amp;nbsp; company’s&amp;nbsp; information assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1620" y="230" width="260" height="40" as="geometry" />
+          <mxGeometry x="1520" y="230" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-26" value="authorized persons have access to the system and the&amp;nbsp; actions&amp;nbsp; they&amp;nbsp; can&amp;nbsp; take." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1620" y="295" width="260" height="40" as="geometry" />
+          <mxGeometry x="1520" y="295" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-27" value="no Segregation of Duties (SoD) conflicts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1620" y="365" width="260" height="40" as="geometry" />
+          <mxGeometry x="1520" y="365" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-28" value="&amp;nbsp;changing&amp;nbsp; needs&amp;nbsp; as&amp;nbsp; per&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; technology&amp;nbsp; environment,&amp;nbsp; business&amp;nbsp; processes,&amp;nbsp; regulatory,&amp;nbsp; compliance&amp;nbsp; requirements&amp;nbsp; and changing needs of the users." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1620" y="435" width="260" height="40" as="geometry" />
+          <mxGeometry x="1520" y="435" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-29" value="backup, recovery&amp;nbsp; and&amp;nbsp; off-site&amp;nbsp; data&amp;nbsp; center." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1620" y="505" width="260" height="40" as="geometry" />
+          <mxGeometry x="1520" y="505" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-30" value="systems&amp;nbsp; are&amp;nbsp; developed&amp;nbsp; within&amp;nbsp; budgets,&amp;nbsp; within&amp;nbsp; budgeted&amp;nbsp; time,&amp;nbsp; security&amp;nbsp; measures&amp;nbsp; are&amp;nbsp; duly&amp;nbsp; incorporated,&amp;nbsp; and&amp;nbsp; quality&amp;nbsp; and&amp;nbsp; documentation requirements are maintained." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1630" y="585" width="260" height="40" as="geometry" />
+          <mxGeometry x="1530" y="585" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-31" value="ensure&amp;nbsp; that&amp;nbsp; servers,&amp;nbsp; network&amp;nbsp; connections&amp;nbsp; and&amp;nbsp; application&amp;nbsp; software&amp;nbsp; along&amp;nbsp; with&amp;nbsp; the&amp;nbsp; interfaces&amp;nbsp; are&amp;nbsp; working&amp;nbsp; continuously." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1620" y="835" width="260" height="40" as="geometry" />
+          <mxGeometry x="1520" y="835" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;strokeColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-52" target="ugsaZSBgh6wG8CtXnDV5-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Framework&lt;/div&gt;" treeRoot="1" id="ugsaZSBgh6wG8CtXnDV5-52">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="1380" y="-200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-53" value="&lt;div&gt;&lt;b&gt;SA315&lt;/b&gt;&lt;/div&gt;(Standard of auditing)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="-160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-56" target="xzliCnT5QZ5cCRzD74QY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-56" value="Risk Assessment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-57" target="ugsaZSBgh6wG8CtXnDV5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-57" value="Control Activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-58" value="Information and Communication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-59" value="Control Environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-60" value="Monitoring of Controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
