@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T15:16:34.021Z" agent="5.0 (X11)" etag="lKezfLjOQP4hQut643Hy" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T15:50:39.763Z" agent="5.0 (X11)" etag="WIasupAhTbFP1e4Ng-RN" version="14.0.5" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="1266" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,9 +284,6 @@
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-4" target="ugsaZSBgh6wG8CtXnDV5-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ugsaZSBgh6wG8CtXnDV5-5" value="&lt;div&gt;(i)&amp;nbsp; They enable enterprise to achieve objectives; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)They help in mitigating risks.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1300" y="140" width="120" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-8" target="ugsaZSBgh6wG8CtXnDV5-9" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -295,9 +292,6 @@
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-9" target="ugsaZSBgh6wG8CtXnDV5-14" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ugsaZSBgh6wG8CtXnDV5-9" value="Information Technology General Controls (ITGC)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
-          <mxGeometry x="1380" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-10" value="&lt;div&gt;Application &lt;br&gt;&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="swimlane;startSize=50;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
           <mxGeometry x="1540" y="160" width="110" height="50" as="geometry">
@@ -330,9 +324,6 @@
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-16" target="ugsaZSBgh6wG8CtXnDV5-18" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ugsaZSBgh6wG8CtXnDV5-16" value="Separation&amp;nbsp; of&amp;nbsp; key&amp;nbsp; IT&amp;nbsp; functions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1380" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-18" target="ugsaZSBgh6wG8CtXnDV5-28" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -386,10 +377,10 @@
           <mxGeometry x="1380" y="900" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-25" value="how&amp;nbsp; to&amp;nbsp; protect&amp;nbsp; a&amp;nbsp; company’s&amp;nbsp; information assets." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1520" y="230" width="260" height="40" as="geometry" />
+          <mxGeometry x="1540" y="230" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-26" value="authorized persons have access to the system and the&amp;nbsp; actions&amp;nbsp; they&amp;nbsp; can&amp;nbsp; take." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="1520" y="295" width="260" height="40" as="geometry" />
+          <mxGeometry x="1540" y="295" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-27" value="no Segregation of Duties (SoD) conflicts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1520" y="365" width="260" height="40" as="geometry" />
@@ -409,9 +400,9 @@
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;strokeColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-52" target="ugsaZSBgh6wG8CtXnDV5-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;Framework&lt;/div&gt;" treeRoot="1" id="ugsaZSBgh6wG8CtXnDV5-52">
+        <UserObject label="Internal Control System&lt;div&gt;[Framework]&lt;/div&gt;" treeRoot="1" id="ugsaZSBgh6wG8CtXnDV5-52">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
-            <mxGeometry x="1380" y="-200" width="120" height="40" as="geometry" />
+            <mxGeometry x="1380" y="-210" width="120" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-57">
@@ -427,6 +418,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-53" target="ugsaZSBgh6wG8CtXnDV5-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ugsaZSBgh6wG8CtXnDV5-53" value="&lt;div&gt;&lt;b&gt;SA315&lt;/b&gt;&lt;/div&gt;(Standard of auditing)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -693,6 +687,269 @@
         </mxCell>
         <mxCell id="dGn6QkftWstA0BSSHZ_h-6" value="&lt;div&gt;1. Confidentiality&lt;/div&gt;&lt;div&gt;2. Integrity&lt;/div&gt;&lt;div&gt;3. Availability&lt;/div&gt;&lt;div&gt;4. Timeliness&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dGn6QkftWstA0BSSHZ_h-4" vertex="1">
           <mxGeometry y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-68" target="ugsaZSBgh6wG8CtXnDV5-70" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-68" value="&lt;div&gt;Limitation of &lt;br&gt;&lt;/div&gt;&lt;div&gt;Internal Control System&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1920" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-70" value="&lt;div&gt;♦Management’s&amp;nbsp; consideration&amp;nbsp; that&amp;nbsp; the&amp;nbsp; cost&amp;nbsp; of&amp;nbsp; an&amp;nbsp; internal&amp;nbsp; control&amp;nbsp; does&amp;nbsp; not&amp;nbsp; exceed the expected benefits to be derived. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦The fact that most internal controls do not tend to be directed at transactions of unusual nature. The potential for human error, such as, due to carelessness, distraction, mistakes of judgment and misunderstanding of instructions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦The&amp;nbsp; possibility&amp;nbsp; of&amp;nbsp; circumvention&amp;nbsp; of&amp;nbsp; internal&amp;nbsp; controls&amp;nbsp; through&amp;nbsp; collusion&amp;nbsp; with&amp;nbsp; employees or with parties outside the entity. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦The&amp;nbsp; possibility&amp;nbsp; that&amp;nbsp; a&amp;nbsp; person&amp;nbsp; responsible&amp;nbsp; for&amp;nbsp; exercising&amp;nbsp; an&amp;nbsp; internal&amp;nbsp; control&amp;nbsp; could&amp;nbsp; abuse&amp;nbsp; that&amp;nbsp; responsibility,&amp;nbsp; for&amp;nbsp; example,&amp;nbsp; a&amp;nbsp; member&amp;nbsp; of&amp;nbsp; management&amp;nbsp; overriding an internal control. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Manipulations by management with respect to transactions or estimates and judgments required in the preparation of financial statements. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1760" width="440" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72" target="ugsaZSBgh6wG8CtXnDV5-78" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72" target="ugsaZSBgh6wG8CtXnDV5-77" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72" target="ugsaZSBgh6wG8CtXnDV5-76" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72" target="ugsaZSBgh6wG8CtXnDV5-79" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72" target="ugsaZSBgh6wG8CtXnDV5-80" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72" target="ugsaZSBgh6wG8CtXnDV5-81" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Risks and &lt;br&gt;&lt;/div&gt;&lt;div&gt;controls for specific &lt;br&gt;&lt;/div&gt;&lt;div&gt;business process&lt;/div&gt;" treeRoot="1" id="ugsaZSBgh6wG8CtXnDV5-72">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1380" y="360" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-16" value="Separation&amp;nbsp; of&amp;nbsp; key&amp;nbsp; IT&amp;nbsp; functions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1380" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-73" value="" style="endArrow=none;dashed=1;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="320" as="sourcePoint" />
+            <mxPoint x="1360" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="340" />
+              <mxPoint x="1360" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-74" value="" style="endArrow=none;dashed=1;html=1;fillColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1443.8461538461538" y="370" as="sourcePoint" />
+            <mxPoint x="1520" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="340" />
+              <mxPoint x="1520" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-75" value="" style="endArrow=none;dashed=1;html=1;fillColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1443.8461538461538" y="370" as="sourcePoint" />
+            <mxPoint x="1080" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="340" />
+              <mxPoint x="1080" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-5" value="&lt;div&gt;(i)&amp;nbsp; They enable enterprise to achieve objectives; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii)They help in mitigating risks.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1300" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-9" value="Information Technology General Controls (ITGC)" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1380" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-76" target="ugsaZSBgh6wG8CtXnDV5-88" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-76" value="&lt;div&gt;Procure to Pay&lt;/div&gt;&lt;div&gt; (P2P)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1030" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-77" target="ugsaZSBgh6wG8CtXnDV5-90" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-77" value="&lt;div&gt;Order to Cash &lt;br&gt;&lt;/div&gt;&lt;div&gt;(O2C)&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1170" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-78" target="ugsaZSBgh6wG8CtXnDV5-104" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-78" value="Inventory Cycle" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1310" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-79" target="ugsaZSBgh6wG8CtXnDV5-112" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-79" value="Human Resources" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1450" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-80" target="ugsaZSBgh6wG8CtXnDV5-126" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-80" value="Fixed Assets" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1590" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-81" target="ugsaZSBgh6wG8CtXnDV5-134" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-81" value="General Ledger " style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1730" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-88" value="process&amp;nbsp; of&amp;nbsp; obtaining&amp;nbsp; and&amp;nbsp; managing&amp;nbsp; the&amp;nbsp; raw&amp;nbsp; materials&amp;nbsp; needed&amp;nbsp; for&amp;nbsp; manufacturing&amp;nbsp; a&amp;nbsp; product&amp;nbsp; or&amp;nbsp; providing&amp;nbsp; a&amp;nbsp; service." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="950" y="510" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-90" target="ugsaZSBgh6wG8CtXnDV5-92" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-90" value="processes that involve receiving and&amp;nbsp; fulfilling&amp;nbsp; customer&amp;nbsp; requests&amp;nbsp; for&amp;nbsp; goods&amp;nbsp; or&amp;nbsp; services. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1130" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-92" target="ugsaZSBgh6wG8CtXnDV5-97" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-92" value="Customer Order: Customer order received is documented" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1135" y="590" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-93" value="Accounting: Payment is recorded in general ledger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1135" y="890" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-94" target="ugsaZSBgh6wG8CtXnDV5-93" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-94" value="Collections: Customer sends payment /Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1135" y="830" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-95" target="ugsaZSBgh6wG8CtXnDV5-94" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-95" value="Invoicing: Invoice is created and sent to customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1135" y="770" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-96" target="ugsaZSBgh6wG8CtXnDV5-95" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-96" value="Delivery Note: Order is shipped to customer or service is performed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1135" y="710" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-97" target="ugsaZSBgh6wG8CtXnDV5-96" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-97" value="Order fulfillment: Order is fulfilled or service is scheduled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1135" y="650" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-104" target="ugsaZSBgh6wG8CtXnDV5-106" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-104" value="&amp;nbsp;process&amp;nbsp; of&amp;nbsp; accurately&amp;nbsp; tracking&amp;nbsp; the&amp;nbsp; on-hand&amp;nbsp; inventory&amp;nbsp; levels for an enterprise." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1280" y="510" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-106" target="ugsaZSBgh6wG8CtXnDV5-108" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-106" value="&lt;u&gt;The Ordering phase:&lt;/u&gt; The amount of time it takes to order and receive raw materials. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1240" y="590" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-107" value="&lt;u&gt;The finished goods and delivery phase: &lt;/u&gt;The finished goods that remain in stock and the delivery time to the customer. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1240" y="730" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-108" target="ugsaZSBgh6wG8CtXnDV5-107" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-108" value="&lt;u&gt;The Production phase:&lt;/u&gt; The work in progress phase relates to time it takes to convert the raw material to finished goods ready for use by customer. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1240" y="650" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-112" target="ugsaZSBgh6wG8CtXnDV5-114" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-112" value="Recruiting&amp;nbsp; and&amp;nbsp; On-boarding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1435" y="510" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-113" target="ugsaZSBgh6wG8CtXnDV5-115" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-113" value="Career Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1435" y="630" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-114" target="ugsaZSBgh6wG8CtXnDV5-113" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-114" value="Orientation&amp;nbsp; and&amp;nbsp; Career&amp;nbsp; Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1435" y="570" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-115" value="Termination&amp;nbsp; or&amp;nbsp; Transition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1435" y="690" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-120" target="ugsaZSBgh6wG8CtXnDV5-121" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-120" value="Procuring an asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-121" target="ugsaZSBgh6wG8CtXnDV5-122" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-121" value="Registering or Adding an asset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-122" target="ugsaZSBgh6wG8CtXnDV5-123" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-122" value="Adjusting the Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-123" target="ugsaZSBgh6wG8CtXnDV5-124" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-123" value="Transferring&amp;nbsp; the&amp;nbsp; Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-124" target="ugsaZSBgh6wG8CtXnDV5-125" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-124" value="Depreciating the Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-125" value="Disposing the Assets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1590" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-126" target="ugsaZSBgh6wG8CtXnDV5-120" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-126" value="&amp;nbsp;process ensures that all fixed assets are tracked and fixed asset record maintains details of location, quantity, condition, and maintenance and depreciation status." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1495" y="510" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-134" target="ugsaZSBgh6wG8CtXnDV5-136" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-134" value="process refers to the process of recording the transactions in the system to finally generating the reports from financial transactions entered in the&amp;nbsp; system. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1635" y="510" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-136" target="ugsaZSBgh6wG8CtXnDV5-137" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-136" value="Entering financial transactions into the system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1730" y="590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-137" target="ugsaZSBgh6wG8CtXnDV5-138" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-137" value="Reviewing Transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1730" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-138" target="ugsaZSBgh6wG8CtXnDV5-139" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-138" value="Approving Transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1730" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=none;" edge="1" parent="1" source="ugsaZSBgh6wG8CtXnDV5-139" target="ugsaZSBgh6wG8CtXnDV5-140" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-139" value="Posting of Transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1730" y="780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ugsaZSBgh6wG8CtXnDV5-140" value="Generating Financial Reports" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1730" y="840" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
