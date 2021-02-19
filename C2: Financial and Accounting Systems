@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T21:41:29.087Z" agent="5.0 (X11)" etag="Gq6pvj5IGHmVqLlx5Bq6" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T22:39:17.763Z" agent="5.0 (X11)" etag="P49tZZKGBCtW8M6Lhhz9" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="1562" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,17 +127,37 @@
         <mxCell id="9793Lbm1YJeIaBY72TY8-27" value="Non-permanent data and expected to change frequently." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9793Lbm1YJeIaBY72TY8-30" value="Accounting Master Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="9793Lbm1YJeIaBY72TY8-33" value="&lt;div&gt;Statutory &lt;br&gt;&lt;/div&gt;&lt;div&gt;Master Data&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="200" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="200" y="560" width="200" height="150" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9793Lbm1YJeIaBY72TY8-31" value="&lt;div&gt;Inventory Master &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="9793Lbm1YJeIaBY72TY8-42" value="Goods&amp;nbsp; and&amp;nbsp; Service&amp;nbsp; Tax&amp;nbsp; (GST),&amp;nbsp; Nature of Payments for Tax Deducted at Source (TDS), Tax Collected at Source (TCS)&amp;nbsp; etc.&amp;nbsp; This&amp;nbsp; data&amp;nbsp; also&amp;nbsp; shall&amp;nbsp; be&amp;nbsp; relatively&amp;nbsp; permanent. " style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9793Lbm1YJeIaBY72TY8-33">
+          <mxGeometry y="40" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9793Lbm1YJeIaBY72TY8-32" value="&lt;div&gt;Payroll Master &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="9793Lbm1YJeIaBY72TY8-30" value="&lt;div&gt;Accounting &lt;br&gt;&lt;/div&gt;&lt;div&gt;Master Data&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-220" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="-220" y="560" width="170" height="160" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9793Lbm1YJeIaBY72TY8-33" value="&lt;div&gt;Statutory Master &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="9793Lbm1YJeIaBY72TY8-39" value="&amp;nbsp;includes&amp;nbsp; names&amp;nbsp; of&amp;nbsp; ledgers,&amp;nbsp; groups,&amp;nbsp; cost&amp;nbsp; centres,&amp;nbsp; accounting&amp;nbsp; voucher&amp;nbsp; types,&amp;nbsp; etc.&amp;nbsp; E.g.&amp;nbsp; Capital&amp;nbsp; Ledger&amp;nbsp; is&amp;nbsp; created&amp;nbsp; once&amp;nbsp; and not expected to change frequently. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9793Lbm1YJeIaBY72TY8-30">
+          <mxGeometry y="40" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9793Lbm1YJeIaBY72TY8-31" value="&lt;div&gt;Inventory &lt;br&gt;&lt;/div&gt;&lt;div&gt;Master Data&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-80" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="-80" y="560" width="200" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9793Lbm1YJeIaBY72TY8-40" value="includes stock items, stock groups, godowns, inventory voucher types etc. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9793Lbm1YJeIaBY72TY8-31">
+          <mxGeometry y="40" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9793Lbm1YJeIaBY72TY8-32" value="&lt;div&gt;Payroll &lt;br&gt;&lt;/div&gt;&lt;div&gt;Master Data&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="60" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="60" y="560" width="230" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9793Lbm1YJeIaBY72TY8-41" value="Payroll&amp;nbsp; is&amp;nbsp; a&amp;nbsp; system&amp;nbsp; for&amp;nbsp; calculation&amp;nbsp; of&amp;nbsp; salary&amp;nbsp; and&amp;nbsp; recording&amp;nbsp; of&amp;nbsp; transactions&amp;nbsp; relating&amp;nbsp; to&amp;nbsp; employees.&amp;nbsp; Master&amp;nbsp; data&amp;nbsp; in&amp;nbsp; case&amp;nbsp; of&amp;nbsp; payroll&amp;nbsp; can&amp;nbsp; be&amp;nbsp; names&amp;nbsp; of&amp;nbsp; employees,&amp;nbsp; group&amp;nbsp; of&amp;nbsp; employees,&amp;nbsp; salary&amp;nbsp; structure,&amp;nbsp; pay&amp;nbsp; heads,&amp;nbsp; etc.&amp;nbsp; These data are not expected to change frequently. " style="rounded=0;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="9793Lbm1YJeIaBY72TY8-32">
+          <mxGeometry y="40" width="230" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
