@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T17:22:51.398Z" agent="5.0 (X11)" etag="Ab8F6-3bIuo6aCfd2WIV" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T17:28:24.649Z" agent="5.0 (X11)" etag="kUAjSFDy9zjSWyHzxoQf" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
-    <mxGraphModel dx="2328" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2644" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-76" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2710" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-75" target="TYDcUvgCNEwYeSrHQ-7N-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2710" width="240" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="9793Lbm1YJeIaBY72TY8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9793Lbm1YJeIaBY72TY8-1" target="9793Lbm1YJeIaBY72TY8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -421,6 +430,9 @@
             <mxRectangle x="400" y="2400" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-16" target="TYDcUvgCNEwYeSrHQ-7N-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-16" value="Integrated System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="2560" width="120" height="40" as="geometry" />
         </mxCell>
@@ -439,14 +451,14 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-20" value="Types of system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="2480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-23" target="TYDcUvgCNEwYeSrHQ-7N-30">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-23" target="TYDcUvgCNEwYeSrHQ-7N-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-23" value="the&amp;nbsp;&amp;nbsp; departments are working independently and using their own set of data. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2620" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="2620" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-26" value="&lt;div&gt;&lt;b&gt;Enterprise Resource Planning Systems&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(ERP) &lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" width="200" height="80" as="geometry" />
+          <mxGeometry x="200" y="3000" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-29" target="TYDcUvgCNEwYeSrHQ-7N-30">
           <mxGeometry relative="1" as="geometry" />
@@ -483,6 +495,51 @@
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-32" value="&lt;div&gt;sales&lt;/div&gt;&lt;div&gt;dep.&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="2880" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-48" target="TYDcUvgCNEwYeSrHQ-7N-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-48" value="&lt;div&gt;HR&lt;/div&gt;&lt;div&gt;dep.&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="2800" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-51" target="TYDcUvgCNEwYeSrHQ-7N-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-51" value="&lt;div&gt;accounts&lt;/div&gt;&lt;div&gt;dep.&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2720" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-54" target="TYDcUvgCNEwYeSrHQ-7N-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-54" value="&lt;div&gt;Marketing&lt;/div&gt;&lt;div&gt;dep.&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="2800" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-57" target="TYDcUvgCNEwYeSrHQ-7N-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-57" value="&lt;div&gt;sales&lt;/div&gt;&lt;div&gt;dep.&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2880" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-61" target="TYDcUvgCNEwYeSrHQ-7N-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-61" target="TYDcUvgCNEwYeSrHQ-7N-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-61" target="TYDcUvgCNEwYeSrHQ-7N-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-61" target="TYDcUvgCNEwYeSrHQ-7N-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-61" value="&lt;div&gt;Central&lt;/div&gt;&lt;div&gt;DB.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2810" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-70" target="TYDcUvgCNEwYeSrHQ-7N-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-70" value="All information is integratered into 1 unified database, from which all dep. share data." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2620" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
