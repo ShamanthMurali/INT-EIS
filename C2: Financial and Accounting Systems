@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T22:32:54.269Z" agent="5.0 (X11)" etag="fa4bPcqzDiRrg7tn3xMj" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T22:44:38.440Z" agent="5.0 (X11)" etag="_LO9TmWtzikROR9c0B-O" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1070,11 +1070,66 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-267" value="Further seperations " style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="443.75" y="4770" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-271" target="TYDcUvgCNEwYeSrHQ-7N-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-271" value="Qualitative Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="4850" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-272" target="TYDcUvgCNEwYeSrHQ-7N-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-272" value="Quantitative&amp;nbsp; Data&amp;nbsp; Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="4850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-285">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="4970" />
+              <mxPoint x="365" y="4970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-284">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="4970" />
+              <mxPoint x="640" y="4970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-276" value="Uses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="4930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-282" target="TYDcUvgCNEwYeSrHQ-7N-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-282" value="Predictive Analytics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="4990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-284" target="TYDcUvgCNEwYeSrHQ-7N-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-284" value="Machine&amp;nbsp; Learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="4990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-285" target="TYDcUvgCNEwYeSrHQ-7N-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-285" value="Data&amp;nbsp; Mining" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="4990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-288" value="sorting&amp;nbsp; through&amp;nbsp; large&amp;nbsp; data&amp;nbsp; sets&amp;nbsp; to&amp;nbsp; identify&amp;nbsp; trends, patterns and relationships" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="5050" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-290" value="predict customer behaviour, equipment failures and other future events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="5050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-292" value="&amp;nbsp;artificial&amp;nbsp; intelligence&amp;nbsp; technique&amp;nbsp; that&amp;nbsp; uses&amp;nbsp; automated&amp;nbsp; algorithms to churn through data sets more quickly " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="5050" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
