@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T17:55:39.903Z" agent="5.0 (X11)" etag="OOy6U1u5Ej3xO3EVasm9" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T18:07:22.046Z" agent="5.0 (X11)" etag="2K9_X1Wz0C1gFs8S8kYB" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
-    <mxGraphModel dx="2644" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,6 +544,9 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-70" value="All information is integratered into 1 unified database, from which all dep. share data." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="2620" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-80" target="TYDcUvgCNEwYeSrHQ-7N-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-80" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="240" y="3230" width="120" height="40" as="geometry">
             <mxRectangle x="240" y="3230" width="450" height="430" as="alternateBounds" />
@@ -557,6 +560,34 @@
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-83" value="Enterprise resource planning (ERP) is defined as the ability to deliver an integrated suite of business applications. ERP tools share a common process and data model, covering broad and deep operational end-to-end processes, such as those found in finance, HR, distribution, manufacturing, service and the supply chain. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="3100" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-86" value="Risks" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="240" y="3290" width="120" height="40" as="geometry">
+            <mxRectangle x="240" y="3290" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-87" value="&lt;div&gt;1. Excess information: &lt;br&gt;&lt;/div&gt;&lt;div&gt;E.g.&amp;nbsp; A&amp;nbsp; person&amp;nbsp; from sales department checking salary of a person in production. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Incorrect data: &lt;br&gt;&lt;/div&gt;&lt;div&gt;a. omission&lt;/div&gt;&lt;div&gt;b. wrong entry etc.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-86">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <UserObject label="Implementation barriers" treeRoot="1" id="TYDcUvgCNEwYeSrHQ-7N-89">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="240" y="3350" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-90" value="People issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="3440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-91" value="Process issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-92" value="Technological issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-93" value="other implementation issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-94" value="post implementation issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
