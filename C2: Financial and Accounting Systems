@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T21:08:56.721Z" agent="5.0 (X11)" etag="CY7UJqua6H8HAoma5u5h" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T21:27:53.648Z" agent="5.0 (X11)" etag="mkM8cEh7HQxB8_Rv80p9" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
-    <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -862,10 +862,16 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-179" value="2. Controlling" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-33.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-180" value="11. CRM" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-180" target="TYDcUvgCNEwYeSrHQ-7N-243" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-180" value="11. CRM" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1053.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-181" value="10. Supply Chain" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-181" target="TYDcUvgCNEwYeSrHQ-7N-235" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-181" value="10. Supply Chain" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="933.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-182" target="TYDcUvgCNEwYeSrHQ-7N-226" visible="0">
@@ -960,6 +966,30 @@
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-232" value="project&#xa;completion" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-226">
           <mxGeometry x="450" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-235" value="Process" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="703.75" y="4100" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-236" value="Raw &#xa;materials" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-235">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-237" value="supplier" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-235">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-238" value="manufacturing" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-235">
+          <mxGeometry x="186" y="33" width="124" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-240" value="   Distibution" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-235">
+          <mxGeometry x="298" y="33" width="92" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-241" value="Retailer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-235">
+          <mxGeometry x="378" y="33" width="92" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-242" value="  Customer" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-235">
+          <mxGeometry x="458" y="33" width="92" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-243" value="&lt;div&gt;Benefits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Improved&amp;nbsp; customer&amp;nbsp; relations&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Increase customer revenues&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Maximize&amp;nbsp; up-selling&amp;nbsp; and&amp;nbsp; cross-selling&lt;/div&gt;&lt;div&gt;(up-selling=20% extra in tooth paste&lt;/div&gt;&lt;div&gt;cross-selling = shampoo free with toothpaste&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.Better internal communication&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Optimize marketing&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="973.75" y="4100" width="260" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
