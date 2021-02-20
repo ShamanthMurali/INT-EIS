@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T17:06:18.359Z" agent="5.0 (X11)" etag="pPKRB-rJYe4b-qeEmlH6" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T17:06:35.381Z" agent="5.0 (X11)" etag="GkFxDHAzkJHJ_ARdSFVq" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="2106" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -404,8 +404,14 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-5" value="&lt;div&gt;Installed &lt;br&gt;&lt;/div&gt;&lt;div&gt;applications&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="2160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-8" target="TYDcUvgCNEwYeSrHQ-7N-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-8" value="These are&amp;nbsp; programs&amp;nbsp; that&amp;nbsp; are installed&amp;nbsp; on&amp;nbsp; the&amp;nbsp; hard&amp;nbsp; disc of the user’s computer. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="2240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-9" target="TYDcUvgCNEwYeSrHQ-7N-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-9" value="Web&amp;nbsp; Applications&amp;nbsp; are&amp;nbsp; not&amp;nbsp; installed&amp;nbsp; on&amp;nbsp; the&amp;nbsp; hard&amp;nbsp; disc&amp;nbsp; of&amp;nbsp; the user’s computer and are installed on a web server and accessed using a browser&amp;nbsp; and&amp;nbsp; internet&amp;nbsp; connection." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="2240" width="120" height="120" as="geometry" />
