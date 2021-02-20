@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T20:16:35.622Z" agent="5.0 (X11)" etag="KKlqXL-1x5ed_cfSNwD2" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T20:20:54.434Z" agent="5.0 (X11)" etag="oHFxtm2ygRhBqJiuuilu" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
-    <mxGraphModel dx="1524" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2265" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,7 +775,7 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-149" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-148">
           <mxGeometry width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-150" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-149">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-150" value="Type of business" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-149">
           <mxGeometry width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-151" value="&lt;div&gt;Accounting&lt;/div&gt;&lt;div&gt;module&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-149">
