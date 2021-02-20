@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T21:08:47.445Z" agent="5.0 (X11)" etag="uj4-s2HGryrzjsc74Efo" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T21:08:56.721Z" agent="5.0 (X11)" etag="CY7UJqua6H8HAoma5u5h" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="1568" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -868,10 +868,10 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-181" value="10. Supply Chain" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="933.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-182" target="TYDcUvgCNEwYeSrHQ-7N-226">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-182" target="TYDcUvgCNEwYeSrHQ-7N-226" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-182" value="9. Project Systems" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-182" value="9. Project Systems" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="813.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-183" target="TYDcUvgCNEwYeSrHQ-7N-218" visible="0">
@@ -940,7 +940,7 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-220" value="&lt;u&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Equipment Master is a repository of the standard information that one needs related to a specific piece of equipment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Equipment/Plant Maintenance&amp;nbsp; provides&amp;nbsp; a&amp;nbsp; variety&amp;nbsp; of&amp;nbsp; reports&amp;nbsp; to&amp;nbsp; help&amp;nbsp; us&amp;nbsp; to&amp;nbsp; review and manage information about our equipment and its maintenance.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Plant&amp;nbsp;&amp;nbsp; Maintenance&amp;nbsp;&amp;nbsp; (PM)&amp;nbsp;&amp;nbsp; Reports&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; used&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; review&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; manage&amp;nbsp;&amp;nbsp; information about preventive maintenance schedules and service types within any maintenance organization. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;________________________________________&lt;br&gt;&lt;/div&gt;&lt;div&gt;Different PM reports are required to review PM information, such as:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Status of service types for a piece of equipment;♦Maintenance messages;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦The frequency of occurrence for selected service types; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦All equipment transactions.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="550.63" y="4320" width="386.25" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-226" value="Process " style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;html=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-226" value="Process " style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="583.75" y="4100" width="560" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-227" value="Create&#xa;template " style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-226">
