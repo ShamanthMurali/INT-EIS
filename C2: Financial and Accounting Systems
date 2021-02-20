@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T19:38:41.341Z" agent="5.0 (X11)" etag="Vh3BOcw7J2m5aoAjYY0I" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T20:08:06.516Z" agent="5.0 (X11)" etag="D3u_JHBNKIrF0IDNvlFl" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
-    <mxGraphModel dx="3680" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -742,6 +742,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-146" target="TYDcUvgCNEwYeSrHQ-7N-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="4000" />
+              <mxPoint x="864" y="4000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-146" target="TYDcUvgCNEwYeSrHQ-7N-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="4000" />
+              <mxPoint x="984" y="4000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-146" target="TYDcUvgCNEwYeSrHQ-7N-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="4000" />
+              <mxPoint x="1104" y="4000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-146" value="Business Process Modules (BPM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="3880" width="120" height="40" as="geometry" />
         </mxCell>
@@ -808,38 +832,68 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-168" value="NO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-164">
           <mxGeometry x="233" width="77" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-175" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-175" target="TYDcUvgCNEwYeSrHQ-7N-197" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-175" value="1. Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-153.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-176" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-176" target="TYDcUvgCNEwYeSrHQ-7N-203" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-176" value="3. Sales &amp;amp; Distribution" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="93.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-177" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-177" value="4. Human Resource" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="213.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-178" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-178" value="5. Production Planning" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="333.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-179" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-179" target="TYDcUvgCNEwYeSrHQ-7N-199" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-179" value="2. Controlling" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-33.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-180" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-180" value="11. CRM" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="1053.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-181" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-181" value="10. Supply Chain" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="933.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-182" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-182" value="9. Project Systems" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="813.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-183" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-183" value="8. Plant Maintenance" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="693.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-184" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-184" value="7.Quality Management" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="573.75" y="4040" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-185" value="Financial Accounting" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-185" value="6.Materials Management" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
           <mxGeometry x="453.75" y="4040" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-197" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Features&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;♦Tracking of flow of financial data across the organization in a controlled manner and integrating all the information for effective strategic decision making.&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Creation&amp;nbsp; of&amp;nbsp; Organizational&amp;nbsp; Structure&amp;nbsp; (Defining&amp;nbsp; Company,&amp;nbsp; Company&amp;nbsp; Codes,&amp;nbsp; business Areas, Functional Areas, Credit Control, Assignment of Company Codes to Credit Controls).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Financial&amp;nbsp; Accounting&amp;nbsp; Global&amp;nbsp; Settings&amp;nbsp; (Maintenance&amp;nbsp; of&amp;nbsp; Fiscal&amp;nbsp; Year,&amp;nbsp; Posting&amp;nbsp; Periods, defining Document types, posting keys, Number ranges for documents).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦General&amp;nbsp; Ledger&amp;nbsp; Accounting&amp;nbsp; (Creation&amp;nbsp; of&amp;nbsp; Chart&amp;nbsp; of&amp;nbsp; Accounts,&amp;nbsp; Account&amp;nbsp; groups,&amp;nbsp; defining data transfer rules, creation of General Ledger Account).♦Tax Configuration &amp;amp; Creation and Maintenance of House of Banks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Account&amp;nbsp; Payables, accounts&amp;nbsp; receivable,&amp;nbsp; fixed&amp;nbsp; assets,&amp;nbsp; general&amp;nbsp; ledger&amp;nbsp; and&amp;nbsp; cash&amp;nbsp; management, etc. (Creation of Vendor Master data and vendor-related finance attributes like account groups and payment terms).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Account&amp;nbsp; Receivables&amp;nbsp; (Creation&amp;nbsp; of&amp;nbsp; Customer&amp;nbsp; Master&amp;nbsp; data&amp;nbsp; and&amp;nbsp; customer-relatedfinance attributes like account groups and payment terms).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Asset Accounting.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Integration with Sales and Distribution and Materials Management.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-313.75" y="4100" width="420" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-199" target="TYDcUvgCNEwYeSrHQ-7N-201" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-199" value="This module facilitates coordinating, monitoring, and optimizing all the processes in an organization. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-78.75" y="4100" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-201" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Features&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Cost Element Accounting:&lt;/b&gt;&lt;/u&gt; overview of the costs andrevenues that occur in an organization. &lt;br&gt;&lt;/div&gt;&lt;div&gt;eg: cost of running all the dep. of jk shah&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Cost Centre Accounting:&lt;/b&gt;&lt;/u&gt; Cost of individual dep.&lt;/div&gt;&lt;div&gt;eg: cost of running the teaching staff in jk shah.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Activity-Based-Accounting:&lt;/b&gt;&lt;/u&gt; costing process shows you which overhead costs you might be able to cut back on. &lt;br&gt;&lt;/div&gt;&lt;div&gt;eg: you make soap. Soap A requires more overhead, like testing,&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Internal Orders:&lt;/b&gt;&lt;/u&gt; cost of a specific task&lt;/div&gt;&lt;div&gt;eg: cost of one book of jk shah material.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Product&amp;nbsp; Cost&amp;nbsp; Controlling:&lt;/b&gt;&lt;/u&gt; This&amp;nbsp; calculates&amp;nbsp; the&amp;nbsp; costs&amp;nbsp; that&amp;nbsp; occur&amp;nbsp; during&amp;nbsp; the manufacture of a product &lt;br&gt;&lt;/div&gt;&lt;div&gt;eg: cost of manufacturing jk shah books&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Profitability Analysis:&lt;/b&gt;&lt;/u&gt; is the company making profit or loss&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Profit&amp;nbsp; Centre&amp;nbsp; Accounting:&lt;/b&gt;&lt;/u&gt; This&amp;nbsp; evaluates&amp;nbsp; the&amp;nbsp; profit&amp;nbsp; or&amp;nbsp; loss&amp;nbsp; of&amp;nbsp; individual,independent areas within an organization.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-193.75" y="4180" width="420" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-203" target="TYDcUvgCNEwYeSrHQ-7N-205" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-203" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Features&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Setting up Organization Structure: &lt;/b&gt;&lt;/u&gt;Creation of new company, company codes,sales&amp;nbsp; organization,&amp;nbsp; distribution&amp;nbsp; channels,&amp;nbsp; divisions,&amp;nbsp; business&amp;nbsp; area,&amp;nbsp; plants,&amp;nbsp; salesarea, maintaining sales offices, storage location;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Assigning Organizational Units:&lt;/b&gt;&lt;/u&gt; Assignment of individual components created in the above activities with each other per design like company code to company, sales organization to company code, distribution channel to sales organization, etc.;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Defining&amp;nbsp; Pricing&amp;nbsp; Components:&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Defining condition&amp;nbsp; tables,&amp;nbsp; condition&amp;nbsp; types,&amp;nbsp; condition sequences;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Setting up sales document types, billing types, and tax-related components;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Setting up Customer master data records and configuration. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-66.25" y="4100" width="420" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-205" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Process&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Pre-Sales Activities:&lt;/b&gt;&lt;/u&gt; Include prospecting of customers, identifying prospective customers, gathering data, contacting them and fixing appointments, showing demo, discussion, submission of quotations, etc.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Sales&amp;nbsp; Order:&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Sales&amp;nbsp; order&amp;nbsp; is&amp;nbsp; recorded&amp;nbsp; in&amp;nbsp; our&amp;nbsp; books&amp;nbsp; after&amp;nbsp; getting&amp;nbsp; a&amp;nbsp; confirmed&amp;nbsp; purchased&amp;nbsp; order&amp;nbsp; from&amp;nbsp; our&amp;nbsp; customer.&amp;nbsp; Sales&amp;nbsp; order&amp;nbsp; shall&amp;nbsp; contain&amp;nbsp; details&amp;nbsp; just&amp;nbsp; like&amp;nbsp; purchase&amp;nbsp; order.&amp;nbsp; E.g.&amp;nbsp; Stock&amp;nbsp; Item&amp;nbsp; Details,&amp;nbsp; Quantity,&amp;nbsp; Rate,&amp;nbsp; Due&amp;nbsp; Date&amp;nbsp; of&amp;nbsp; Delivery,&amp;nbsp; Place of Delivery, etc. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Inventory Sourcing:&lt;/b&gt;&lt;/u&gt; It includes making arrangements before delivery of goods;ensuring goods are ready and available for delivery. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Material Delivery:&lt;/b&gt;&lt;/u&gt; Material is delivered to the customer as per sales order. All inventory&amp;nbsp; details&amp;nbsp; are&amp;nbsp; copied&amp;nbsp; from&amp;nbsp; Sales&amp;nbsp; Order&amp;nbsp; to&amp;nbsp; Material&amp;nbsp; Delivery&amp;nbsp; for&amp;nbsp; saving&amp;nbsp; user’s&amp;nbsp; time&amp;nbsp; and&amp;nbsp; efforts.&amp;nbsp; This&amp;nbsp; transaction&amp;nbsp; shall&amp;nbsp; have&amp;nbsp; a&amp;nbsp; linking&amp;nbsp; with&amp;nbsp; Sales&amp;nbsp; Order.&amp;nbsp; Stock balance shall be reduced on recording of this transaction.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Billing:&lt;/b&gt;&lt;/u&gt; This is a transaction of raising an invoice against the delivery of material to customer. This transaction shall have a linking with Material Delivery and all the details shall be copied from it. Stock balance shall not affect again. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&lt;u&gt;&lt;b&gt;Receipt from Customer / Payment:&lt;/b&gt;&lt;/u&gt; This is a transaction of receiving amount from customer against sales invoice and shall have a linking with sales invoice.&lt;br&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-64.37" y="4380" width="416.25" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
