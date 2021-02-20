@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T22:31:17.601Z" agent="5.0 (X11)" etag="iJD4B3HCBEEQ6MPhIElQ" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T22:32:54.269Z" agent="5.0 (X11)" etag="fa4bPcqzDiRrg7tn3xMj" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="1565" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1049,14 +1049,32 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-258" value="Exploratory Data Analysis (EDA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="4610" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-269" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-261" target="TYDcUvgCNEwYeSrHQ-7N-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-261" value="&amp;nbsp;find&amp;nbsp; patterns&amp;nbsp; and&amp;nbsp; relationships&amp;nbsp; in&amp;nbsp; data," style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="4670" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-270" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-263" target="TYDcUvgCNEwYeSrHQ-7N-267">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-263" value="determine&amp;nbsp; whether&amp;nbsp; hypotheses about a data set are True or False." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="4670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-267" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="443.75" y="4760" width="120" height="40" as="geometry" />
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-267" target="TYDcUvgCNEwYeSrHQ-7N-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-267" target="TYDcUvgCNEwYeSrHQ-7N-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-267" value="Further seperations " style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="443.75" y="4770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-271" value="Qualitative Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="4850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-272" value="Quantitative&amp;nbsp; Data&amp;nbsp; Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4850" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
