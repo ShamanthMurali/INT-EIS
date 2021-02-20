@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T17:28:24.649Z" agent="5.0 (X11)" etag="kUAjSFDy9zjSWyHzxoQf" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T17:55:39.903Z" agent="5.0 (X11)" etag="OOy6U1u5Ej3xO3EVasm9" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="2644" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -457,6 +457,9 @@
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-23" value="the&amp;nbsp;&amp;nbsp; departments are working independently and using their own set of data. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="2620" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-26" target="TYDcUvgCNEwYeSrHQ-7N-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-26" value="&lt;div&gt;&lt;b&gt;Enterprise Resource Planning Systems&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(ERP) &lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="3000" width="200" height="80" as="geometry" />
         </mxCell>
@@ -540,6 +543,20 @@
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-70" value="All information is integratered into 1 unified database, from which all dep. share data." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="2620" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-80" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="240" y="3230" width="120" height="40" as="geometry">
+            <mxRectangle x="240" y="3230" width="450" height="430" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-81" value="&lt;div&gt;1. Information&amp;nbsp; integration: all information is available in under one data warehouse&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reduction&amp;nbsp; of&amp;nbsp; Lead-time: (&lt;u&gt;Lead time&lt;/u&gt; refers to the time that is required to procure the materials and resources required for the functioning of the business)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. On-time&amp;nbsp; Shipment: timely&amp;nbsp; delivery&amp;nbsp; of&amp;nbsp; the&amp;nbsp; finished&amp;nbsp; goods&amp;nbsp; to&amp;nbsp; the&amp;nbsp; customers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Reduction in Cycle Time: (&lt;u&gt;Cycle time&lt;/u&gt; is the time between placement of the order and delivery of the product.)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Improved&amp;nbsp; Resource&amp;nbsp; utilization&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Better&amp;nbsp; Customer&amp;nbsp; Satisfaction&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Improved&amp;nbsp; Supplier&amp;nbsp; Performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. Increased Flexibility: information&amp;nbsp; available&amp;nbsp; across&amp;nbsp; the&amp;nbsp; departmental&amp;nbsp; barriers&amp;nbsp; and&amp;nbsp; automating&amp;nbsp; most&amp;nbsp; of&amp;nbsp; the&amp;nbsp; processes&amp;nbsp; and&amp;nbsp; procedures&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Reduced Quality Costs&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. Better Analysis and Planning Capabilities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;11. Improved&amp;nbsp; information&amp;nbsp; accuracy&amp;nbsp; and&amp;nbsp; decision-making&amp;nbsp; capability&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;12. Use&amp;nbsp; of&amp;nbsp; Latest&amp;nbsp; Technology&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TYDcUvgCNEwYeSrHQ-7N-80">
+          <mxGeometry y="40" width="450" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-83" target="TYDcUvgCNEwYeSrHQ-7N-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-83" value="Enterprise resource planning (ERP) is defined as the ability to deliver an integrated suite of business applications. ERP tools share a common process and data model, covering broad and deep operational end-to-end processes, such as those found in finance, HR, distribution, manufacturing, service and the supply chain. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="3100" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
