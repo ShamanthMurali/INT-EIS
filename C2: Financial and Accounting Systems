@@ -1,14 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T15:14:27.482Z" agent="5.0 (X11)" etag="HCYh4h0PFkS5WFIobs7s" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T16:09:26.202Z" agent="5.0 (X11)" etag="4DVpkcJAtaa4iEdjvIsq" version="14.4.2" type="github">
   <diagram id="6Qd0ho9YmM7BCXgF2waj" name="Page-1">
     <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-250" target="TYDcUvgCNEwYeSrHQ-7N-251" edge="1">
+        <mxCell id="55IPU84EXPAdCvhksEoc-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55IPU84EXPAdCvhksEoc-8" target="55IPU84EXPAdCvhksEoc-10" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55IPU84EXPAdCvhksEoc-8" value="it is a technology-driven process for analysing&amp;nbsp; data and presenting actionable information to help corporate executives, business managers and&amp;nbsp; other&amp;nbsp; end&amp;nbsp; users&amp;nbsp; make&amp;nbsp; more&amp;nbsp; informed&amp;nbsp; business&amp;nbsp; decisions.&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="360" y="4360" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="55IPU84EXPAdCvhksEoc-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55IPU84EXPAdCvhksEoc-7" target="55IPU84EXPAdCvhksEoc-8" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Business&lt;br&gt;&lt;/div&gt;&lt;div&gt;Intellegence&lt;/div&gt;" treeRoot="1" id="55IPU84EXPAdCvhksEoc-7">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="440" y="4300" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-250" target="TYDcUvgCNEwYeSrHQ-7N-251" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;Data analytics&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="TYDcUvgCNEwYeSrHQ-7N-250">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
             <mxGeometry x="440" y="4240" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1011,81 +1025,81 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-246" value="An MIS&amp;nbsp; report&amp;nbsp; is&amp;nbsp; a&amp;nbsp; tool&amp;nbsp; that&amp;nbsp; managers&amp;nbsp; use&amp;nbsp; to&amp;nbsp; evaluate&amp;nbsp; business&amp;nbsp; processes&amp;nbsp; and&amp;nbsp; operations. There are different kinds of MIS reports and that may be used to visually present different kinds of information." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="360" y="4240" width="280" height="80" as="geometry" />
+          <mxGeometry x="360" y="4240" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-248" value="&lt;div&gt;♦Relevant - MIS reports need to be specific to the business area they address. This&amp;nbsp; is&amp;nbsp; important&amp;nbsp; because&amp;nbsp; a&amp;nbsp; report&amp;nbsp; that&amp;nbsp; includes&amp;nbsp; unnecessary&amp;nbsp; information&amp;nbsp; might be ignored.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Timely - Managers need to know what’s happening now or in the recent past to make decisions about the future. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Accurate - It’s critical that numbers add up and that dates and times are correct.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Structured - Try to break long passages of information into more readable blocks or chunks and give these chunks meaningful headings.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="295" y="4340" width="410" height="210" as="geometry" />
+          <mxGeometry x="295" y="4360" width="410" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-251" target="TYDcUvgCNEwYeSrHQ-7N-253" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-251" target="TYDcUvgCNEwYeSrHQ-7N-253" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-251" value="Data Analytics&amp;nbsp; is&amp;nbsp; the&amp;nbsp; process&amp;nbsp; of&amp;nbsp; examining&amp;nbsp; data&amp;nbsp; sets&amp;nbsp; to&amp;nbsp; draw&amp;nbsp; conclusions&amp;nbsp; about&amp;nbsp; the information they contain, increasingly with the aid of specialized systems and software." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-251" value="Data Analytics&amp;nbsp; is&amp;nbsp; the&amp;nbsp; process&amp;nbsp; of&amp;nbsp; examining&amp;nbsp; data&amp;nbsp; sets&amp;nbsp; to&amp;nbsp; draw&amp;nbsp; conclusions&amp;nbsp; about&amp;nbsp; the information they contain, increasingly with the aid of specialized systems and software." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="320" y="4300" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-253" target="TYDcUvgCNEwYeSrHQ-7N-255" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-253" target="TYDcUvgCNEwYeSrHQ-7N-255" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-253" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;benefits&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; increase&amp;nbsp;&amp;nbsp; revenues&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &amp;gt; improve&amp;nbsp;&amp;nbsp; operational efficiency&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; optimize marketing campaigns&lt;/div&gt;&lt;div&gt; &amp;gt; customer service efforts&lt;/div&gt;&lt;div&gt;&amp;gt; respond more quickly to emerging market trends&lt;br&gt;&lt;/div&gt;&lt;div&gt; &amp;gt; gain a competitive edge over rivals &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-253" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;benefits&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; increase&amp;nbsp;&amp;nbsp; revenues&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &amp;gt; improve&amp;nbsp;&amp;nbsp; operational efficiency&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; optimize marketing campaigns&lt;/div&gt;&lt;div&gt; &amp;gt; customer service efforts&lt;/div&gt;&lt;div&gt;&amp;gt; respond more quickly to emerging market trends&lt;br&gt;&lt;/div&gt;&lt;div&gt; &amp;gt; gain a competitive edge over rivals &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" parent="1" vertex="1" visible="0">
           <mxGeometry x="360" y="4380" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-255" target="TYDcUvgCNEwYeSrHQ-7N-258" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-255" target="TYDcUvgCNEwYeSrHQ-7N-258" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-255" target="TYDcUvgCNEwYeSrHQ-7N-257" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-255" target="TYDcUvgCNEwYeSrHQ-7N-257" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-255" value="Types of data analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-255" value="Types of data analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="450" y="4540" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-257" target="TYDcUvgCNEwYeSrHQ-7N-263" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-257" target="TYDcUvgCNEwYeSrHQ-7N-263" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-257" value="Confirmatory Data&amp;nbsp; Analysis&amp;nbsp; (CDA)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-257" value="Confirmatory Data&amp;nbsp; Analysis&amp;nbsp; (CDA)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="520" y="4610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-258" target="TYDcUvgCNEwYeSrHQ-7N-261" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-258" target="TYDcUvgCNEwYeSrHQ-7N-261" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-258" value="Exploratory Data Analysis (EDA)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-258" value="Exploratory Data Analysis (EDA)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="360" y="4610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-269" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-261" target="TYDcUvgCNEwYeSrHQ-7N-267" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-269" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-261" target="TYDcUvgCNEwYeSrHQ-7N-267" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-261" value="&amp;nbsp;find&amp;nbsp; patterns&amp;nbsp; and&amp;nbsp; relationships&amp;nbsp; in&amp;nbsp; data," style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-261" value="&amp;nbsp;find&amp;nbsp; patterns&amp;nbsp; and&amp;nbsp; relationships&amp;nbsp; in&amp;nbsp; data," style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="360" y="4670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-270" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-263" target="TYDcUvgCNEwYeSrHQ-7N-267" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-263" value="determine&amp;nbsp; whether&amp;nbsp; hypotheses about a data set are True or False." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-263" value="determine&amp;nbsp; whether&amp;nbsp; hypotheses about a data set are True or False." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="520" y="4670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-267" target="TYDcUvgCNEwYeSrHQ-7N-272" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-267" target="TYDcUvgCNEwYeSrHQ-7N-272" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-267" target="TYDcUvgCNEwYeSrHQ-7N-271" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-267" target="TYDcUvgCNEwYeSrHQ-7N-271" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-267" value="Further seperations " style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-267" value="Further seperations " style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" parent="1" vertex="1" visible="0">
           <mxGeometry x="443.75" y="4770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TYDcUvgCNEwYeSrHQ-7N-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-271" target="TYDcUvgCNEwYeSrHQ-7N-276" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-271" value="Qualitative Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-271" value="Qualitative Data Analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="520" y="4850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-272" target="TYDcUvgCNEwYeSrHQ-7N-276" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-272" target="TYDcUvgCNEwYeSrHQ-7N-276" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-272" value="Quantitative&amp;nbsp; Data&amp;nbsp; Analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-272" value="Quantitative&amp;nbsp; Data&amp;nbsp; Analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="360" y="4850" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-282" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-282" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-285" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-285" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="4970" />
@@ -1093,7 +1107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-284" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-276" target="TYDcUvgCNEwYeSrHQ-7N-284" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="4970" />
@@ -1101,52 +1115,72 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-276" value="Uses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-276" value="Uses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="480" y="4930" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-282" target="TYDcUvgCNEwYeSrHQ-7N-290" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-282" target="TYDcUvgCNEwYeSrHQ-7N-290" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-282" value="Predictive Analytics" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-282" value="Predictive Analytics" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="440" y="4990" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-284" target="TYDcUvgCNEwYeSrHQ-7N-292" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-284" target="TYDcUvgCNEwYeSrHQ-7N-292" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-284" value="Machine&amp;nbsp; Learning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-284" value="Machine&amp;nbsp; Learning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="4990" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-285" target="TYDcUvgCNEwYeSrHQ-7N-288" edge="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-285" target="TYDcUvgCNEwYeSrHQ-7N-288" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-285" value="Data&amp;nbsp; Mining" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-285" value="Data&amp;nbsp; Mining" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="305" y="4990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="55IPU84EXPAdCvhksEoc-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-288" target="55IPU84EXPAdCvhksEoc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-288" value="sorting&amp;nbsp; through&amp;nbsp; large&amp;nbsp; data&amp;nbsp; sets&amp;nbsp; to&amp;nbsp; identify&amp;nbsp; trends, patterns and relationships" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-288" value="sorting&amp;nbsp; through&amp;nbsp; large&amp;nbsp; data&amp;nbsp; sets&amp;nbsp; to&amp;nbsp; identify&amp;nbsp; trends, patterns and relationships" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="307.5" y="5050" width="115" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="55IPU84EXPAdCvhksEoc-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-290" target="55IPU84EXPAdCvhksEoc-1">
+        <mxCell id="55IPU84EXPAdCvhksEoc-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-290" target="55IPU84EXPAdCvhksEoc-1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-290" value="predict customer behaviour, equipment failures and other future events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-290" value="predict customer behaviour, equipment failures and other future events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="440" y="5050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="55IPU84EXPAdCvhksEoc-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TYDcUvgCNEwYeSrHQ-7N-292" target="55IPU84EXPAdCvhksEoc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-292" value="&amp;nbsp;artificial&amp;nbsp; intelligence&amp;nbsp; technique&amp;nbsp; that&amp;nbsp; uses&amp;nbsp; automated&amp;nbsp; algorithms to churn through data sets more quickly " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TYDcUvgCNEwYeSrHQ-7N-292" value="&amp;nbsp;artificial&amp;nbsp; intelligence&amp;nbsp; technique&amp;nbsp; that&amp;nbsp; uses&amp;nbsp; automated&amp;nbsp; algorithms to churn through data sets more quickly " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="580" y="5050" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="55IPU84EXPAdCvhksEoc-1" value="Applications" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="55IPU84EXPAdCvhksEoc-1" value="Applications" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
           <mxGeometry x="440" y="5190" width="120" height="40" as="geometry">
             <mxRectangle x="440" y="5190" width="470" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="55IPU84EXPAdCvhksEoc-2" value="&lt;div&gt;♦Data Analytics initiatives support a wide variety of business uses. For example, banks and credit card companies analyse withdrawal and spending patterns to prevent fraud and identity theft.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦E-&amp;nbsp; commerce&amp;nbsp; companies&amp;nbsp; and&amp;nbsp; marketing&amp;nbsp; services&amp;nbsp; providers&amp;nbsp; do&amp;nbsp; click streamanalysis to identify website visitors who are more likely to buy a product or service based on navigation and page-viewing patterns.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Mobile network operators examine customer data to forecast so they can take steps to prevent defections to business rivals; to boost customer relationship management&amp;nbsp; efforts.&amp;nbsp; Other&amp;nbsp; companies&amp;nbsp; also&amp;nbsp; engage&amp;nbsp; in&amp;nbsp; CRM&amp;nbsp; analytics&amp;nbsp; to&amp;nbsp; segment customers for marketing campaigns and equip call centre workerswith up-to -date information about callers. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Healthcare organizations mine patient data to&amp;nbsp; evaluate the effectiveness of treatments for cancer and other diseases.&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="55IPU84EXPAdCvhksEoc-1">
           <mxGeometry y="40" width="470" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="55IPU84EXPAdCvhksEoc-10" value="&lt;div&gt;Benefits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦BI improves the overall performance of the company using it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦BI systems can also help companies identify market trends and spot business problems that need to be addressed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦BI&amp;nbsp; systems&amp;nbsp; help&amp;nbsp; in&amp;nbsp; enhancing&amp;nbsp; customer&amp;nbsp; experience,&amp;nbsp; allowing&amp;nbsp; for&amp;nbsp; the&amp;nbsp; timely&amp;nbsp; and appropriate response to customer problems and priorities.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="320" y="4460" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="55IPU84EXPAdCvhksEoc-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55IPU84EXPAdCvhksEoc-12" target="55IPU84EXPAdCvhksEoc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business Reporting&lt;/div&gt;&lt;div&gt;and&lt;/div&gt;&lt;div&gt;XBRL&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="55IPU84EXPAdCvhksEoc-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="440" y="4380" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="55IPU84EXPAdCvhksEoc-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55IPU84EXPAdCvhksEoc-13" target="55IPU84EXPAdCvhksEoc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="55IPU84EXPAdCvhksEoc-13" value="&lt;div&gt;eXtensible Business Reporting Language (XBRL)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="4460" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="55IPU84EXPAdCvhksEoc-15" value="Different countries have different accounting formats so in order to convert them to a native format XBRL is used." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4520" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
