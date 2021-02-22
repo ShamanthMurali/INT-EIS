@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T17:34:08.763Z" agent="5.0 (X11)" etag="K6ERcry7F2qZm_jQFoQ2" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T17:45:32.543Z" agent="5.0 (X11)" etag="gk6xbT_NDaMnwLoA29_K" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="1878" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,6 +472,19 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-175" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-168" target="Ey4r-H4vn8UC1I1c0Usx-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-184" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-168" target="Ey4r-H4vn8UC1I1c0Usx-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="1420" />
+              <mxPoint x="1380" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-187" value="For net banking users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ey4r-H4vn8UC1I1c0Usx-184">
+          <mxGeometry x="0.6594" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-168" value="Proxy server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1160" y="1440" width="120" height="60" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
@@ -479,6 +492,22 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-169" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-168">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-180" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-173" target="Ey4r-H4vn8UC1I1c0Usx-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-181" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-173" target="Ey4r-H4vn8UC1I1c0Usx-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="1310" />
+              <mxPoint x="1060" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-188" value="For atm users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ey4r-H4vn8UC1I1c0Usx-181">
+          <mxGeometry x="0.8698" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-173" value="Application server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1080" y="1340" width="120" height="60" as="geometry">
@@ -488,12 +517,28 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-173">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-176" value="" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1170" y="1240" width="120" height="60" as="geometry">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-176" value="Database server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1160" y="1220" width="120" height="60" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-177" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-176">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-178" value="ATM server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1000" y="1220" width="120" height="60" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-179" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-178">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-182" value="Internet banking&#xa; channel/database server&#xa;(IBCS)" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1320" y="1220" width="120" height="60" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-183" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-182">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
