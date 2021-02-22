@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T15:36:23.774Z" agent="5.0 (X11)" etag="BdeQwhH4C9GbkY9NYeyg" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T15:36:46.017Z" agent="5.0 (X11)" etag="DDAKlYQPJVI9P2Xutu-7" version="14.4.2" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="1108" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1008,6 +1008,9 @@
         </mxCell>
         <mxCell id="m0vWJceQbexZmneH7YKo-2" value="REGULATORY AND COMPLIANCE REQUIREMENTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2640" y="-200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0vWJceQbexZmneH7YKo-4" value="Still pending" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="2670" y="-80" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
