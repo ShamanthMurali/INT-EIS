@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T16:36:09.742Z" agent="5.0 (X11)" etag="4XfMPKe6WeXVeiFujqfn" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T16:54:25.714Z" agent="5.0 (X11)" etag="TJxqnpoho55RTxktmB0N" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="1551" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,9 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-23" value="Non-Life Insurance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="680" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-24" target="Ey4r-H4vn8UC1I1c0Usx-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-24" value="Underwriting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="680" width="120" height="40" as="geometry" />
         </mxCell>
@@ -269,6 +272,80 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-86" value="A Letter of Credit (LC) is an undertaking by a bank to the payee (the&amp;nbsp; supplier&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; and/&amp;nbsp; or&amp;nbsp; services)&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; to&amp;nbsp; him,&amp;nbsp; on&amp;nbsp; behalf&amp;nbsp; of&amp;nbsp; the&amp;nbsp; applicant&amp;nbsp; (the&amp;nbsp; buyer)&amp;nbsp; any&amp;nbsp; amount&amp;nbsp; up&amp;nbsp; to&amp;nbsp; the&amp;nbsp; limit&amp;nbsp; specified&amp;nbsp; in&amp;nbsp; the&amp;nbsp; LC, provided the terms and conditions mentioned in the LC are complied with." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-10">
           <mxGeometry y="40" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-87" value="it is the&amp;nbsp; calculation of credit worthiness or risk of a&amp;nbsp; potential&amp;nbsp; borrower.&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-90" target="Ey4r-H4vn8UC1I1c0Usx-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-90" value="&lt;font style=&quot;font-size: 23px&quot;&gt;CBS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-91" target="Ey4r-H4vn8UC1I1c0Usx-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-91" value="Core banking services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-93" target="Ey4r-H4vn8UC1I1c0Usx-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-93" value="Core&amp;nbsp; Banking&amp;nbsp; System/Solution&amp;nbsp; (CBS)&amp;nbsp; refers&amp;nbsp; to&amp;nbsp; a&amp;nbsp; common&amp;nbsp; IT&amp;nbsp; solution&amp;nbsp; wherein&amp;nbsp; a&amp;nbsp; central&amp;nbsp; shared&amp;nbsp; database&amp;nbsp; supports&amp;nbsp; the&amp;nbsp; entire&amp;nbsp; banking&amp;nbsp; application.&amp;nbsp; It&amp;nbsp; allows&amp;nbsp; the&amp;nbsp; customers&amp;nbsp; to&amp;nbsp; use&amp;nbsp; various&amp;nbsp; banking&amp;nbsp; facilities&amp;nbsp; irrespective&amp;nbsp; of&amp;nbsp; the&amp;nbsp; bank&amp;nbsp; branch&amp;nbsp; location. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1020" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-95" target="Ey4r-H4vn8UC1I1c0Usx-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-95" target="Ey4r-H4vn8UC1I1c0Usx-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1160" />
+              <mxPoint x="320" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-95" target="Ey4r-H4vn8UC1I1c0Usx-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1160" />
+              <mxPoint x="180" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-95" target="Ey4r-H4vn8UC1I1c0Usx-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1160" />
+              <mxPoint x="600" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-95" target="Ey4r-H4vn8UC1I1c0Usx-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1160" />
+              <mxPoint x="740" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-95" value="CBS software" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-97" value="Finacle by infosys" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-98" value="bankMate by IBM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-99" value="FinnOne " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-100" value="BaNCS by TCS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-101" value="Flexcube by oracle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
