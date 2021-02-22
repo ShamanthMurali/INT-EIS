@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T17:08:41.788Z" agent="5.0 (X11)" etag="zUkgKu-XG4RjWr-KAmTL" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T17:11:05.555Z" agent="5.0 (X11)" etag="uZkYeWlTtng-Lfzp33qr" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="1551" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -390,27 +390,45 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-108" value="&lt;div&gt;•On-line real-time processing.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Transactions are posted immediately. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•All databases updated simultaneously.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Centralized&amp;nbsp;&amp;nbsp; Operations&amp;nbsp;&amp;nbsp; (All&amp;nbsp;&amp;nbsp; transactions&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; stored&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; one&amp;nbsp;&amp;nbsp; common&amp;nbsp;&amp;nbsp; database/server). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Real&amp;nbsp; time&amp;nbsp; seamless&amp;nbsp; merging&amp;nbsp; of&amp;nbsp; data&amp;nbsp; from&amp;nbsp; the&amp;nbsp; back&amp;nbsp; office&amp;nbsp; and&amp;nbsp; self-service operations.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Significant&amp;nbsp; reduction&amp;nbsp; in&amp;nbsp; the&amp;nbsp; errors&amp;nbsp; which&amp;nbsp; occurred&amp;nbsp; due&amp;nbsp; to&amp;nbsp; duplication&amp;nbsp; of&amp;nbsp; entries.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Separate hierarchy for business and operations.•Business and Services are productized.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Remote interaction with customers.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Reliance on transaction balancing.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Highly dependent system-based controls.•Authorizations occur within the application.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Increased access by staff at various levels based on authorization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Daily, half yearly and annual closing. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Lesser operational cost due to less manpower usage.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Automatic processing of standing instructions. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Centralized interest applications for all accounts and account types. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Anytime, anywhere access to customers and vendors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Banking access through multiple channels like mobile, web etc.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-107">
           <mxGeometry y="40" width="440" height="580" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-121" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-114" target="Ey4r-H4vn8UC1I1c0Usx-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-122" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-114" target="Ey4r-H4vn8UC1I1c0Usx-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-123" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-114" target="Ey4r-H4vn8UC1I1c0Usx-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-124" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-114" target="Ey4r-H4vn8UC1I1c0Usx-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-125" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-114" target="Ey4r-H4vn8UC1I1c0Usx-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-114" target="Ey4r-H4vn8UC1I1c0Usx-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Components of CBS" treeRoot="1" id="Ey4r-H4vn8UC1I1c0Usx-114">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="400" y="1440" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-115" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-115" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Enterprise Security Architecture &amp;amp; Security Solution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="1410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-116" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-116" value="Application&amp;nbsp; environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-117" value="Database&amp;nbsp; Environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-118" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-118" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Connectivity&amp;nbsp; to&amp;nbsp; the&amp;nbsp; Corporate&amp;nbsp; Network&amp;nbsp; and&amp;nbsp; the&amp;nbsp; Internet&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
           <mxGeometry x="560" y="1470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-119" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-119" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Data&amp;nbsp; Centre&amp;nbsp; and&amp;nbsp; Disaster&amp;nbsp; Recovery&amp;nbsp; Centre&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-120" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-120" value="Fraud&amp;nbsp;&amp;nbsp; risk&amp;nbsp;&amp;nbsp; management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1590" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
