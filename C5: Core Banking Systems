@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T18:44:56.620Z" agent="5.0 (X11)" etag="65GewhvVoDIw5r4mU0H0" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T18:56:24.624Z" agent="5.0 (X11)" etag="dRo1dkQl-RjE59CmC1lM" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
     <mxGraphModel dx="1699" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -644,20 +644,174 @@
             <mxGeometry x="400" y="1680" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-224" value="Operational&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-235" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-224" target="Ey4r-H4vn8UC1I1c0Usx-234" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-224" value="Operational&amp;nbsp; Risk" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;startSize=60;strokeColor=#000000;fillColor=#ffffff;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="600" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-264" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-226" target="Ey4r-H4vn8UC1I1c0Usx-262">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-226" value="IT&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="600" y="1800" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-261" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-227" target="Ey4r-H4vn8UC1I1c0Usx-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-227" value="Strategic Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="600" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-259" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-228" target="Ey4r-H4vn8UC1I1c0Usx-258">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-228" value="Market&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="600" y="1680" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-257" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-229" target="Ey4r-H4vn8UC1I1c0Usx-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-229" value="Credit&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="600" y="1620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-241" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-234" target="Ey4r-H4vn8UC1I1c0Usx-239" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-242" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-234" target="Ey4r-H4vn8UC1I1c0Usx-237" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-243" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-234" target="Ey4r-H4vn8UC1I1c0Usx-238" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-244" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-234" target="Ey4r-H4vn8UC1I1c0Usx-240" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-245" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-234" target="Ey4r-H4vn8UC1I1c0Usx-236" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-234" value="It&amp;nbsp; is&amp;nbsp; defined&amp;nbsp; as&amp;nbsp; a&amp;nbsp; risk&amp;nbsp; arising&amp;nbsp; from&amp;nbsp; direct&amp;nbsp; or&amp;nbsp; indirect&amp;nbsp; loss&amp;nbsp; to&amp;nbsp; the&amp;nbsp; bank&amp;nbsp; which&amp;nbsp; could&amp;nbsp; be&amp;nbsp; associated&amp;nbsp; with&amp;nbsp; inadequate&amp;nbsp; or&amp;nbsp; failed&amp;nbsp; internal&amp;nbsp; process,&amp;nbsp; people&amp;nbsp; and&amp;nbsp; systems. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="740" y="1560" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-247" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-236" target="Ey4r-H4vn8UC1I1c0Usx-246" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-236" value="Transaction&amp;nbsp;&amp;nbsp; Processing&amp;nbsp;&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1140" y="1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-249" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-237" target="Ey4r-H4vn8UC1I1c0Usx-248" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-237" value="Information&amp;nbsp; Security&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1140" y="1500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-253" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-238" target="Ey4r-H4vn8UC1I1c0Usx-252" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-238" value="Compliance&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1140" y="1620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-251" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-239" target="Ey4r-H4vn8UC1I1c0Usx-250" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-239" value="Legal&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1140" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-255" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-240" target="Ey4r-H4vn8UC1I1c0Usx-254" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-240" value="People Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1140" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-246" value="occur&amp;nbsp;&amp;nbsp; due&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; errors&amp;nbsp;&amp;nbsp; in&amp;nbsp;&amp;nbsp; entry&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1280" y="1440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-248" value="Data&amp;nbsp; breaches can cost a bank its reputation, customers can lose time and money and above all their confidential information." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1280" y="1500" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-250" value="Banks can be taken into court if customer feels wrongly treated." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1280" y="1560" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-252" value="&amp;nbsp;legal&amp;nbsp; penalties,&amp;nbsp; financial&amp;nbsp; penalty&amp;nbsp; and&amp;nbsp; material&amp;nbsp; loss&amp;nbsp; an&amp;nbsp; organization&amp;nbsp; faces&amp;nbsp; when&amp;nbsp; it&amp;nbsp; fails&amp;nbsp; to&amp;nbsp; act&amp;nbsp; in&amp;nbsp; accordance&amp;nbsp; with industry laws and regulations, internal policies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1280" y="1620" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-254" value="&amp;nbsp;lack&amp;nbsp; of&amp;nbsp; trained&amp;nbsp; key&amp;nbsp; personnel,&amp;nbsp; tampering&amp;nbsp; of&amp;nbsp; records,&amp;nbsp; unauthorized&amp;nbsp; access&amp;nbsp; to&amp;nbsp; dealing&amp;nbsp; rooms&amp;nbsp; and&amp;nbsp; nexus&amp;nbsp; between&amp;nbsp; front and back end offices." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1280" y="1680" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-256" value="&amp;nbsp; loan&amp;nbsp; becomes&amp;nbsp; irrecoverable " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-258" value="bank fails to set changes in equity prices, interest rates, credit spreads, foreign-exchange&amp;nbsp; rates,&amp;nbsp; commodity&amp;nbsp; prices,&amp;nbsp; and&amp;nbsp; other&amp;nbsp; indicators&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1680" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-260" value="risk&amp;nbsp; that&amp;nbsp; earnings&amp;nbsp; decline&amp;nbsp; due&amp;nbsp; to&amp;nbsp; a&amp;nbsp; changing&amp;nbsp; business&amp;nbsp; environment, for example new competitors, new mergers or acquisitions or changing demand of customers." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1740" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-266" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-265">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="1820" />
+              <mxPoint x="1100" y="1706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-275" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-267">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="1820" />
+              <mxPoint x="1110" y="1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-276" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-277" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-278" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-279" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-280" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-281" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-282" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-262" target="Ey4r-H4vn8UC1I1c0Usx-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-262" value="CBS risks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1800" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-265" value="Ownership of Data/ process" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-267" value="&lt;div&gt;Authorization&lt;/div&gt;&lt;div&gt; process&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-268" value="&lt;div&gt;Authentication&lt;/div&gt;&lt;div&gt;procedures&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-269" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Several&amp;nbsp; software&amp;nbsp; interfaces&amp;nbsp; across&amp;nbsp; diverse&amp;nbsp; networks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-270" value="&lt;div&gt;Maintaining&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;response time&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-271" value="User Identity&amp;nbsp; Management" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-272" value="Access Controls" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-273" value="Incident&amp;nbsp; handling&amp;nbsp; procedures" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-274" value="Change&amp;nbsp; Management" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
