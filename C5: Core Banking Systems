@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T18:57:14.089Z" agent="5.0 (X11)" etag="dIqL1ZIClaIwmDo9aST7" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T19:12:35.882Z" agent="5.0 (X11)" etag="BQ7V81pmTjOkMYK-PN-n" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
     <mxGraphModel dx="1551" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -786,32 +786,80 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-262" value="CBS risks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="1800" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-285" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-265" target="Ey4r-H4vn8UC1I1c0Usx-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-265" value="Ownership of Data/ process" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-287" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-267" target="Ey4r-H4vn8UC1I1c0Usx-286">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-267" value="&lt;div&gt;Authorization&lt;/div&gt;&lt;div&gt; process&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1740" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-289" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-268" target="Ey4r-H4vn8UC1I1c0Usx-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-268" value="&lt;div&gt;Authentication&lt;/div&gt;&lt;div&gt;procedures&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-291" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-269" target="Ey4r-H4vn8UC1I1c0Usx-290">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-269" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Several&amp;nbsp; software&amp;nbsp; interfaces&amp;nbsp; across&amp;nbsp; diverse&amp;nbsp; networks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1860" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-293" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-270" target="Ey4r-H4vn8UC1I1c0Usx-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-270" value="&lt;div&gt;Maintaining&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;response time&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-295" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-271" target="Ey4r-H4vn8UC1I1c0Usx-294">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-271" value="User Identity&amp;nbsp; Management" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-300" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-272" target="Ey4r-H4vn8UC1I1c0Usx-296">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-272" value="Access Controls" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-299" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-273" target="Ey4r-H4vn8UC1I1c0Usx-298">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-273" value="Incident&amp;nbsp; handling&amp;nbsp; procedures" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-274" value="Change&amp;nbsp; Management" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="1160" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-284" value="Establish clear&amp;nbsp; ownership so&amp;nbsp; that&amp;nbsp; accountability&amp;nbsp; can&amp;nbsp; be&amp;nbsp; fixed&amp;nbsp; and&amp;nbsp; unwanted&amp;nbsp; changes to the data can be prevented. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1680" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-286" value="Prevent unauthorized&amp;nbsp; access&amp;nbsp; to the customer information." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1740" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-288" value="Use&amp;nbsp; Usernames&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; Passwords,&amp;nbsp;&amp;nbsp; Personal&amp;nbsp;&amp;nbsp; Identification&amp;nbsp; Number&amp;nbsp; (PIN),&amp;nbsp; One&amp;nbsp; Time&amp;nbsp; Password&amp;nbsp; (OTP)&amp;nbsp; are&amp;nbsp; some&amp;nbsp; of&amp;nbsp; the&amp;nbsp; most&amp;nbsp; commonly&amp;nbsp; used&amp;nbsp; authentication&amp;nbsp; methods. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1800" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-290" value="A&amp;nbsp; data&amp;nbsp; center&amp;nbsp; must&amp;nbsp; contain adequate&amp;nbsp; infrastructure,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; power&amp;nbsp; distribution&amp;nbsp; and&amp;nbsp; supplemental&amp;nbsp; power&amp;nbsp; subsystems,&amp;nbsp; including&amp;nbsp; electrical&amp;nbsp; switching; uninterruptable power supplies; backup generators and so on. Lapse in any of these may lead to real-time data loss." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1860" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-292" value="Maintaining&amp;nbsp; the&amp;nbsp; interfacing&amp;nbsp; software&amp;nbsp; and ensuring optimum response time and up time can be challenging." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1920" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-294" value="This&amp;nbsp; could&amp;nbsp; be&amp;nbsp; a&amp;nbsp; serious&amp;nbsp; issue.&amp;nbsp; Some&amp;nbsp; Banks&amp;nbsp; may have more than 5000 users interacting with the CBS at once." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1980" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-296" value="Designing&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; monitoring&amp;nbsp;&amp;nbsp; access&amp;nbsp;&amp;nbsp; control&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; an&amp;nbsp;&amp;nbsp; extremely challenging task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2040" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-298" value="&amp;nbsp;Incident handling&amp;nbsp; procedures&amp;nbsp; are&amp;nbsp; used&amp;nbsp; to address and manage&amp;nbsp;&amp;nbsp; the aftermath of a security breach or cyberattack. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2100" width="380" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
