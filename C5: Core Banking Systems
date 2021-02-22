@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T18:35:04.198Z" agent="5.0 (X11)" etag="bL-XvZW7OWg59NyAo92g" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T18:44:56.620Z" agent="5.0 (X11)" etag="65GewhvVoDIw5r4mU0H0" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="1878" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,19 +460,14 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-137" value="There&amp;nbsp;&amp;nbsp; should&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; adequate&amp;nbsp;&amp;nbsp; bandwidth&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; deal&amp;nbsp;&amp;nbsp; with&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; volume&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; transactions so as to prevent slowing down and resulting in lower efficiency." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="700" y="1470" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-199" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-139" target="Ey4r-H4vn8UC1I1c0Usx-143">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="840" y="1540" />
-              <mxPoint x="840" y="1585" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-220" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=3;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-139" target="Ey4r-H4vn8UC1I1c0Usx-143">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-139" value="CBS IT Environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-143" value="User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1565" width="120" height="40" as="geometry" />
+          <mxGeometry x="-200" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-172" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-168" target="Ey4r-H4vn8UC1I1c0Usx-143">
           <mxGeometry relative="1" as="geometry" />
@@ -482,10 +477,10 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-184" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-168" target="Ey4r-H4vn8UC1I1c0Usx-194">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1220" y="1385" as="targetPoint" />
+            <mxPoint x="20" y="1380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1060" y="1445" />
-              <mxPoint x="1220" y="1445" />
+              <mxPoint x="-140" y="1440" />
+              <mxPoint x="20" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -495,7 +490,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-168" value="Proxy server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="1465" width="120" height="60" as="geometry">
+          <mxGeometry x="-200" y="1460" width="120" height="60" as="geometry">
             <mxRectangle x="1160" y="1460" width="200" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -508,8 +503,8 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-181" style="edgeStyle=orthogonalEdgeStyle;shape=link;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-173" target="Ey4r-H4vn8UC1I1c0Usx-178">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="1335" />
-              <mxPoint x="900" y="1335" />
+              <mxPoint x="-220" y="1330" />
+              <mxPoint x="-300" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -519,7 +514,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-173" value="Application server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="920" y="1365" width="120" height="60" as="geometry">
+          <mxGeometry x="-280" y="1360" width="120" height="60" as="geometry">
             <mxRectangle x="1080" y="1360" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -544,7 +539,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-194" value="Web server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1160" y="1325" width="120" height="60" as="geometry">
+          <mxGeometry x="-40" y="1320" width="120" height="60" as="geometry">
             <mxRectangle x="1320" y="1320" width="200" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -553,36 +548,36 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-202" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ey4r-H4vn8UC1I1c0Usx-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="1165" as="sourcePoint" />
-            <mxPoint x="1210" y="1210" as="targetPoint" />
+            <mxPoint x="-140" y="1160" as="sourcePoint" />
+            <mxPoint x="10" y="1205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-203" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ey4r-H4vn8UC1I1c0Usx-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="1165" as="sourcePoint" />
-            <mxPoint x="1070" y="1110" as="targetPoint" />
+            <mxPoint x="-80" y="1160" as="sourcePoint" />
+            <mxPoint x="-130" y="1105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-204" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ey4r-H4vn8UC1I1c0Usx-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="1165" as="sourcePoint" />
-            <mxPoint x="1080" y="1120" as="targetPoint" />
+            <mxPoint x="-200" y="1160" as="sourcePoint" />
+            <mxPoint x="-120" y="1115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-205" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ey4r-H4vn8UC1I1c0Usx-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="1145" as="sourcePoint" />
-            <mxPoint x="1090" y="1130" as="targetPoint" />
+            <mxPoint x="-40" y="1140" as="sourcePoint" />
+            <mxPoint x="-110" y="1125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-206" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ey4r-H4vn8UC1I1c0Usx-200">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="1145" as="sourcePoint" />
-            <mxPoint x="1100" y="1140" as="targetPoint" />
+            <mxPoint x="-240" y="1140" as="sourcePoint" />
+            <mxPoint x="-100" y="1135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-200" value="Anti-virus server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="1040" width="120" height="60" as="geometry">
+          <mxGeometry x="-200" y="1035" width="120" height="60" as="geometry">
             <mxRectangle x="1160" y="995" width="200" height="125" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -590,7 +585,7 @@
           <mxGeometry y="55" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-176" value="Database server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1000" y="1245" width="120" height="60" as="geometry">
+          <mxGeometry x="-200" y="1240" width="120" height="60" as="geometry">
             <mxRectangle x="1160" y="1240" width="200" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -598,7 +593,7 @@
           <mxGeometry y="40" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-178" value="ATM channel server" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="840" y="1245" width="120" height="60" as="geometry">
+          <mxGeometry x="-360" y="1240" width="120" height="60" as="geometry">
             <mxRectangle x="1000" y="1240" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -606,7 +601,7 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-189" value="Internet banking &#xa;application server&#xa;(IBAS)" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1160" y="1245" width="120" height="60" as="geometry">
+          <mxGeometry x="-40" y="1240" width="120" height="60" as="geometry">
             <mxRectangle x="1320" y="1240" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -614,7 +609,7 @@
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-182" value="Internet banking&#xa; channel server&#xa;(IBCS)" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="1160" y="1165" width="120" height="60" as="geometry">
+          <mxGeometry x="-40" y="1160" width="120" height="60" as="geometry">
             <mxRectangle x="1320" y="1160" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -628,6 +623,41 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-215" value="&lt;div&gt;•&lt;u&gt;&lt;b&gt;Planning&lt;/b&gt;&lt;/u&gt;: Planning for implementing the CBS should be done as per strategic and business objectives of bank.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Approval&lt;/b&gt;&lt;/u&gt;: The&amp;nbsp; decision&amp;nbsp; to&amp;nbsp; implement&amp;nbsp; CBS&amp;nbsp; requires&amp;nbsp; high&amp;nbsp; investment&amp;nbsp; and&amp;nbsp; recurring costs and will impact how banking services are provided by the bank. Hence, the decision must be approved by the board of directors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Selection&lt;/b&gt;&lt;/u&gt;: Although&amp;nbsp; there&amp;nbsp; are&amp;nbsp; multiple&amp;nbsp; vendors&amp;nbsp; of&amp;nbsp; CBS,&amp;nbsp; each&amp;nbsp; solution&amp;nbsp; has&amp;nbsp; key&amp;nbsp; differentiators. Hence,&amp;nbsp; bank&amp;nbsp; should&amp;nbsp; select&amp;nbsp; the&amp;nbsp; right&amp;nbsp; solution&amp;nbsp; which&amp;nbsp; is&amp;nbsp; scalable&amp;nbsp; and&amp;nbsp;&amp;nbsp; where&amp;nbsp;&amp;nbsp; different&amp;nbsp;&amp;nbsp; interfaces&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; readily&amp;nbsp;&amp;nbsp; available&amp;nbsp;&amp;nbsp; considering&amp;nbsp;&amp;nbsp; various&amp;nbsp;&amp;nbsp; parameters&amp;nbsp; as&amp;nbsp; defined&amp;nbsp; by&amp;nbsp; the&amp;nbsp; bank&amp;nbsp; to&amp;nbsp; meet&amp;nbsp; their&amp;nbsp; specific&amp;nbsp; requirements&amp;nbsp; and&amp;nbsp; business objectives.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Design and develop or procured&lt;/b&gt;&lt;/u&gt;: CBS solutions used to be earlier developed in-house&amp;nbsp; by&amp;nbsp; the&amp;nbsp; bank.&amp;nbsp; Currently,&amp;nbsp; most&amp;nbsp; of&amp;nbsp; the&amp;nbsp; CBS&amp;nbsp; deployments are&amp;nbsp; procured.There should&amp;nbsp; be appropriate controls&amp;nbsp; covering the&amp;nbsp;&amp;nbsp; design&amp;nbsp; or&amp;nbsp; development&amp;nbsp; or&amp;nbsp; procurement of CBS for the bank.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Testing&lt;/b&gt;&lt;/u&gt;: Extensive testing must be done before the CBS is live. The testing is to be&amp;nbsp; done&amp;nbsp; at&amp;nbsp; different&amp;nbsp; phases&amp;nbsp; at&amp;nbsp; procurement&amp;nbsp; stage&amp;nbsp; to&amp;nbsp; test&amp;nbsp; suitability&amp;nbsp; to&amp;nbsp; data&amp;nbsp; migration&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; all&amp;nbsp; existing&amp;nbsp; data&amp;nbsp; is&amp;nbsp; correctly&amp;nbsp; migrated and&amp;nbsp; testing&amp;nbsp; to&amp;nbsp; confirm processing of various types of transactions of all modules produces the correct results. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Implementation&lt;/b&gt;&lt;/u&gt;: CBS&amp;nbsp; must&amp;nbsp; be&amp;nbsp; implemented&amp;nbsp; as&amp;nbsp; per&amp;nbsp; pre-defined&amp;nbsp; and&amp;nbsp; agreed&amp;nbsp; plan with specific project milestones to ensure successful implementation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Maintenance&lt;/b&gt;&lt;/u&gt;: CBS&amp;nbsp; must&amp;nbsp; be&amp;nbsp; maintained&amp;nbsp; as&amp;nbsp; required.&amp;nbsp; E.g.&amp;nbsp; program&amp;nbsp; bugs&amp;nbsp; fixed, version changes implemented, etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Support&lt;/b&gt;&lt;/u&gt;: CBS must be supported to ensure that it is working effectively.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Updation&lt;/b&gt;&lt;/u&gt;: CBS modules must be updated based on requirements of business processes, technology updates and regulatory requirements;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Audit&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; Audit&amp;nbsp; of&amp;nbsp; CBS&amp;nbsp; must&amp;nbsp; be&amp;nbsp; done&amp;nbsp; internally&amp;nbsp; and&amp;nbsp; externally&amp;nbsp; as&amp;nbsp; required&amp;nbsp; to&amp;nbsp; ensure that controls are working as envisaged.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-214">
           <mxGeometry y="40" width="580" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-225" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-218" target="Ey4r-H4vn8UC1I1c0Usx-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-230" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-218" target="Ey4r-H4vn8UC1I1c0Usx-229">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-231" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-218" target="Ey4r-H4vn8UC1I1c0Usx-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-232" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-218" target="Ey4r-H4vn8UC1I1c0Usx-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-233" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startSize=60;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-218" target="Ey4r-H4vn8UC1I1c0Usx-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Risks" treeRoot="1" id="Ey4r-H4vn8UC1I1c0Usx-218">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};startSize=60;" vertex="1" parent="1">
+            <mxGeometry x="400" y="1680" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-224" value="Operational&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-226" value="IT&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-227" value="Strategic Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-228" value="Market&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-229" value="Credit&amp;nbsp; Risk" style="rounded=1;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
