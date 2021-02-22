@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T16:11:04.146Z" agent="5.0 (X11)" etag="GZdSHsufn5iScNl33YpO" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T16:36:09.742Z" agent="5.0 (X11)" etag="4XfMPKe6WeXVeiFujqfn" version="14.4.2" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="2305" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,9 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-5" value="Acceptance of Deposits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-6" target="Ey4r-H4vn8UC1I1c0Usx-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-6" value="Clearing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -37,10 +40,16 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-8" target="Ey4r-H4vn8UC1I1c0Usx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-8" target="Ey4r-H4vn8UC1I1c0Usx-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-8" value="Remittances" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-9" target="Ey4r-H4vn8UC1I1c0Usx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-9" target="Ey4r-H4vn8UC1I1c0Usx-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-9" value="Granting of Advances" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -48,9 +57,6 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-10" target="Ey4r-H4vn8UC1I1c0Usx-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-10" value="Letters of Credit &amp;amp; Guarantees" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-11" target="Ey4r-H4vn8UC1I1c0Usx-16">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +79,7 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-13" value="Credit Cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-14" value="HNI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-14" value="High Net-worth Individuals (HNI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-15" target="Ey4r-H4vn8UC1I1c0Usx-14">
@@ -153,16 +159,10 @@
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-24" value="Underwriting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-45" target="Ey4r-H4vn8UC1I1c0Usx-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-45" value="cash credit, overdrafts, purchase/ discounting of bills, term loans, etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="130" height="40" as="geometry" />
+          <mxGeometry x="120" y="220" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-47" target="Ey4r-H4vn8UC1I1c0Usx-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-47" target="Ey4r-H4vn8UC1I1c0Usx-49">
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-47" target="Ey4r-H4vn8UC1I1c0Usx-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-47" value="transfer&amp;nbsp; of&amp;nbsp; funds&amp;nbsp; from&amp;nbsp; one&amp;nbsp; place&amp;nbsp; to&amp;nbsp; another." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -234,6 +234,41 @@
         </mxCell>
         <mxCell id="Ey4r-H4vn8UC1I1c0Usx-69" value="&lt;div&gt;&amp;gt; available 24x7&lt;/div&gt;&lt;div&gt;all over India, even on all holidays&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="575" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-74" target="Ey4r-H4vn8UC1I1c0Usx-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-74" target="Ey4r-H4vn8UC1I1c0Usx-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-74" value="Electronic&amp;nbsp; Clearing&amp;nbsp; Services&amp;nbsp; (ECS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="455" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-75" target="Ey4r-H4vn8UC1I1c0Usx-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-75" value="ECS Credit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="535" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Ey4r-H4vn8UC1I1c0Usx-76" target="Ey4r-H4vn8UC1I1c0Usx-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-76" value="ECS Debit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="535" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-82" value="Money is distributed from a single account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-84" value="money from multiple a/cs are collected to a single accout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-10" value="&lt;div&gt;Letters of Credit &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;amp; Guarantees&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="40" as="geometry">
+            <mxRectangle x="440" y="160" width="280" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4r-H4vn8UC1I1c0Usx-86" value="A Letter of Credit (LC) is an undertaking by a bank to the payee (the&amp;nbsp; supplier&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; and/&amp;nbsp; or&amp;nbsp; services)&amp;nbsp; to&amp;nbsp; pay&amp;nbsp; to&amp;nbsp; him,&amp;nbsp; on&amp;nbsp; behalf&amp;nbsp; of&amp;nbsp; the&amp;nbsp; applicant&amp;nbsp; (the&amp;nbsp; buyer)&amp;nbsp; any&amp;nbsp; amount&amp;nbsp; up&amp;nbsp; to&amp;nbsp; the&amp;nbsp; limit&amp;nbsp; specified&amp;nbsp; in&amp;nbsp; the&amp;nbsp; LC, provided the terms and conditions mentioned in the LC are complied with." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ey4r-H4vn8UC1I1c0Usx-10">
+          <mxGeometry y="40" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
