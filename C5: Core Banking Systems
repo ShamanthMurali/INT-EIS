@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T19:49:36.056Z" agent="5.0 (X11)" etag="WvNAZQ7d5dmcD9AbxBYo" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T20:06:06.506Z" agent="5.0 (X11)" etag="Em9hRVe2XQ_5VKlHy5EU" version="14.4.3" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="2307" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1700" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1388,6 +1388,33 @@
         </mxCell>
         <mxCell id="6--e-z0y06LiFXn_pm-j-18" value="&lt;b&gt;P.T.O&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="2400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-23" value="&lt;b&gt;Stages&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="100" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6--e-z0y06LiFXn_pm-j-25" target="6--e-z0y06LiFXn_pm-j-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-25" value="Placement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6--e-z0y06LiFXn_pm-j-26" target="6--e-z0y06LiFXn_pm-j-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-26" value="Layering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-27" value="Integration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-29" value="first&amp;nbsp; stage&amp;nbsp; involves&amp;nbsp; the&amp;nbsp; Placement of&amp;nbsp; proceeds&amp;nbsp; derived&amp;nbsp; from&amp;nbsp; illegal activities - the movement of proceeds, frequently currency, fromthe scene&amp;nbsp; of&amp;nbsp; the&amp;nbsp; crime&amp;nbsp; to&amp;nbsp; a place,&amp;nbsp; or&amp;nbsp; into&amp;nbsp; a&amp;nbsp; form,&amp;nbsp; less&amp;nbsp; suspicious&amp;nbsp; and&amp;nbsp; more convenient for the criminal." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="215" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-32" value="Layering involves the separation of proceeds from illegal source using complex transactions designed to obscure the audit trail and hide the proceeds.&amp;nbsp; The&amp;nbsp; criminals&amp;nbsp; frequently&amp;nbsp; use&amp;nbsp; shell&amp;nbsp; corporations,&amp;nbsp; offshore&amp;nbsp; banks&amp;nbsp; or&amp;nbsp; countries&amp;nbsp; with&amp;nbsp; loose&amp;nbsp; regulation&amp;nbsp; and&amp;nbsp; secrecy&amp;nbsp; laws&amp;nbsp; for&amp;nbsp; this&amp;nbsp; purpose. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="215" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-33" value="Integration involves&amp;nbsp; conversion&amp;nbsp; of&amp;nbsp; illegal&amp;nbsp; proceeds&amp;nbsp; into&amp;nbsp; apparently&amp;nbsp; legitimate&amp;nbsp; business earnings through normal&amp;nbsp; financial&amp;nbsp; or&amp;nbsp; commercial operations.&amp;nbsp; Integration&amp;nbsp; creates&amp;nbsp; the&amp;nbsp; illusion&amp;nbsp; of&amp;nbsp; a legitimate&amp;nbsp; source forcriminally&amp;nbsp; derived&amp;nbsp; funds and&amp;nbsp; involves&amp;nbsp; techniques&amp;nbsp; as&amp;nbsp; numerous andcreative as&amp;nbsp; those&amp;nbsp; used&amp;nbsp; by&amp;nbsp; legitimate&amp;nbsp; businesses.&amp;nbsp; For&amp;nbsp; example,&amp;nbsp; false invoices for goods exported, domestic loan against a foreign deposit, purchasing of property and comingling of money in bank accounts." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="215" width="220" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
