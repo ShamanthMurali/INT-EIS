@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T20:19:01.091Z" agent="5.0 (X11)" etag="tKtzdYDVen4Xa4zml3uj" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T20:39:10.273Z" agent="5.0 (X11)" etag="H0yuAv03q1jxPKCqkD-8" version="14.4.3" type="github">
   <diagram id="njsrdGuKceLBC8V7znRl" name="Page-1">
-    <mxGraphModel dx="1700" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1425,7 +1425,31 @@
           <mxGeometry y="40" width="400" height="380" as="geometry" />
         </mxCell>
         <mxCell id="6--e-z0y06LiFXn_pm-j-38" value="&lt;div&gt;Banking &lt;br&gt;&lt;/div&gt;&lt;div&gt;Regulation &lt;br&gt;&lt;/div&gt;&lt;div&gt;Acts&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2040" width="120" height="80" as="geometry" />
+          <mxGeometry x="2280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-39" value="Negotiable Instruments Act-1881 (NI Act)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-40" value="A&amp;nbsp; cheque&amp;nbsp; in&amp;nbsp; the&amp;nbsp; electronic&amp;nbsp; form&amp;nbsp; has&amp;nbsp; been&amp;nbsp; defined&amp;nbsp; as&amp;nbsp; ‘a&amp;nbsp; mirror&amp;nbsp; image’&amp;nbsp; of&amp;nbsp; a&amp;nbsp; paper cheque." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="200" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6--e-z0y06LiFXn_pm-j-41" target="6--e-z0y06LiFXn_pm-j-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-41" value="RBI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6--e-z0y06LiFXn_pm-j-42" target="6--e-z0y06LiFXn_pm-j-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-42" value="key functions of RBI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-43" value="&lt;div&gt;•&lt;u&gt;&lt;b&gt;Monetary Authority:&lt;/b&gt;&lt;/u&gt; Formulates implements and monitors the monetary policy&amp;nbsp; with&amp;nbsp; the&amp;nbsp; objective&amp;nbsp; of&amp;nbsp; maintaining&amp;nbsp; price&amp;nbsp; stability&amp;nbsp; and&amp;nbsp; ensuring&amp;nbsp; adequate flow of credit to productive sectors. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Regulator&amp;nbsp; and&amp;nbsp; supervisor&amp;nbsp; of&amp;nbsp; the&amp;nbsp; financial&amp;nbsp; system:&lt;/b&gt;&lt;/u&gt;&amp;nbsp; Prescribes&amp;nbsp; broad&amp;nbsp; parameters&amp;nbsp; of&amp;nbsp; banking&amp;nbsp; operations&amp;nbsp; within&amp;nbsp; which&amp;nbsp; the&amp;nbsp; country’s&amp;nbsp; banking&amp;nbsp; and financial&amp;nbsp; system&amp;nbsp; functions&amp;nbsp; with&amp;nbsp; the&amp;nbsp; objective&amp;nbsp; of&amp;nbsp; maintaining&amp;nbsp; public&amp;nbsp; confidence in&amp;nbsp; the&amp;nbsp; system,&amp;nbsp; protect&amp;nbsp; depositors’&amp;nbsp; interest&amp;nbsp; and&amp;nbsp; provide&amp;nbsp; cost- effective banking services to the public.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&lt;u&gt;&lt;b&gt;Issuer of currency:&lt;/b&gt;&lt;/u&gt; Issues and exchanges or destroys currency and coins not it for&amp;nbsp; circulation&amp;nbsp; with&amp;nbsp; the&amp;nbsp; objective&amp;nbsp; to&amp;nbsp; give&amp;nbsp; the&amp;nbsp; public&amp;nbsp; adequate&amp;nbsp; quantity of supplies of currency notes and coins and in good quality.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="265" width="280" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6--e-z0y06LiFXn_pm-j-47" value="Prevention of Money Laundering Act (PMLA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="120" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
