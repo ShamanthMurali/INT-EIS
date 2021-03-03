@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T20:42:24.029Z" agent="5.0 (X11)" etag="2R9m5j7Pw-tFzLO8a6Jz" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T20:42:35.342Z" agent="5.0 (X11)" etag="j8mXTtBbWrgR88JxsCsy" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
     <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -613,30 +613,30 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-36" value="&lt;div&gt;1. Income&amp;nbsp; Tax&amp;nbsp; Act,&amp;nbsp; 1961&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;nbsp; detailed&amp;nbsp; provisions&amp;nbsp; regarding&amp;nbsp; taxation&amp;nbsp; of&amp;nbsp; income&amp;nbsp; in&amp;nbsp; India. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Companies&amp;nbsp;&amp;nbsp; Act,&amp;nbsp;&amp;nbsp; 2013&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;regulates&amp;nbsp; the&amp;nbsp; corporate&amp;nbsp; sector.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Foreign&amp;nbsp; Trade&amp;nbsp; (Development&amp;nbsp; and&amp;nbsp; Regulation)&amp;nbsp; Act,&amp;nbsp; 1992&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;the development and regulation of foreign&amp;nbsp; trade&amp;nbsp; by&amp;nbsp; facilitating&amp;nbsp; imports&amp;nbsp; into,&amp;nbsp; augmenting&amp;nbsp; exports&amp;nbsp; from,&amp;nbsp; India&amp;nbsp; and&amp;nbsp; for&amp;nbsp; matters&amp;nbsp; connected&amp;nbsp; therewith or incidental thereto. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. The&amp;nbsp; Factories&amp;nbsp; Act,&amp;nbsp; 1948&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;to&amp;nbsp; regulate&amp;nbsp; working&amp;nbsp; conditions&amp;nbsp; of&amp;nbsp; workers.&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. The&amp;nbsp; Customs&amp;nbsp;&amp;nbsp; Act,&amp;nbsp; 1962&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The&amp;nbsp; act&amp;nbsp; that&amp;nbsp; defines&amp;nbsp; import&amp;nbsp; /&amp;nbsp; export&amp;nbsp; of&amp;nbsp; goods&amp;nbsp; /&amp;nbsp; services from India and provides for levy of appropriate customs duty.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. The&amp;nbsp; Goods&amp;nbsp; and&amp;nbsp; Services&amp;nbsp; Tax&amp;nbsp; (GST) Act,&amp;nbsp; 2017&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Indian Contract Act, 1872&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;The Act defines constituents of a valid contract.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8. The&amp;nbsp; Competition&amp;nbsp; Act,&amp;nbsp; 2002&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Law&amp;nbsp; to&amp;nbsp; regulate&amp;nbsp; practices&amp;nbsp; that&amp;nbsp; may&amp;nbsp; have&amp;nbsp; adverse&amp;nbsp; effect&amp;nbsp; on&amp;nbsp; competition&amp;nbsp; in&amp;nbsp; India.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9. Foreign&amp;nbsp; Exchange&amp;nbsp; Management&amp;nbsp; Act&amp;nbsp; (FEMA&amp;nbsp; 1999)&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The&amp;nbsp; law&amp;nbsp; to&amp;nbsp; regulate&amp;nbsp; foreign&amp;nbsp; direct&amp;nbsp; investments,&amp;nbsp; flow&amp;nbsp; of&amp;nbsp; foreign&amp;nbsp; exchange&amp;nbsp; in&amp;nbsp; India.&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10. Consumer Protection Act, 1986&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The law to protect consumer rights &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-34">
           <mxGeometry y="40" width="370" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-42" target="Cj6t33-h_uaLePJBkrsk-43" visible="0">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-42" target="Cj6t33-h_uaLePJBkrsk-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-42" target="Cj6t33-h_uaLePJBkrsk-45" visible="0">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-42" target="Cj6t33-h_uaLePJBkrsk-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Special Laws" treeRoot="1" id="Cj6t33-h_uaLePJBkrsk-42">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="910" y="420" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-43" value="&lt;div&gt;Reserve Bank of &lt;br&gt;&lt;/div&gt;&lt;div&gt;India Act, 1934&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-43" value="&lt;div&gt;Reserve Bank of &lt;br&gt;&lt;/div&gt;&lt;div&gt;India Act, 1934&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-45" target="Cj6t33-h_uaLePJBkrsk-47" visible="0">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-45" target="Cj6t33-h_uaLePJBkrsk-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-45" target="Cj6t33-h_uaLePJBkrsk-50" visible="0">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-45" target="Cj6t33-h_uaLePJBkrsk-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-45" value="Information Technology Act, 2000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-45" value="Information Technology Act, 2000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-47" value="objectives" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-47" value="objectives" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="830" y="560" width="120" height="40" as="geometry">
             <mxRectangle x="830" y="560" width="420" height="490" as="alternateBounds" />
           </mxGeometry>
@@ -660,7 +660,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Significant sections" treeRoot="1" id="Cj6t33-h_uaLePJBkrsk-50">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
             <mxGeometry x="830" y="620" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
