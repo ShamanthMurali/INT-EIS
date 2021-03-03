@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T22:12:44.808Z" agent="5.0 (X11)" etag="eei92898Vv4b70J9IKhz" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T22:20:45.678Z" agent="5.0 (X11)" etag="aOHzCNPEnKEMK2UabtGw" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
     <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -702,14 +702,14 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-70" value="Digital&amp;nbsp; Payments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-71" target="Cj6t33-h_uaLePJBkrsk-74">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-71" target="Cj6t33-h_uaLePJBkrsk-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-71" target="Cj6t33-h_uaLePJBkrsk-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-71" value="Payer&amp;nbsp; and&amp;nbsp; payee&amp;nbsp; both&amp;nbsp; use&amp;nbsp; digital&amp;nbsp; modes&amp;nbsp; to&amp;nbsp; send&amp;nbsp; and&amp;nbsp; receive&amp;nbsp; money. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1515" y="230" width="290" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-77">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-82">
           <mxGeometry relative="1" as="geometry" />
@@ -726,26 +726,57 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-74" value="Types of Digital Payments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="290" width="120" height="40" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-76" value="&lt;div&gt;Unified&amp;nbsp; Payment&amp;nbsp; Interface&lt;br&gt;&lt;/div&gt;&lt;div&gt;(UPI)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="372" width="120" height="60" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-74" value="Digital Payments" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-77" value="Immediate&amp;nbsp;&amp;nbsp; Payment&amp;nbsp;&amp;nbsp; Service&amp;nbsp;&amp;nbsp; (IMPS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1535" y="372" width="120" height="60" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-76" value="&lt;div&gt;Unified&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment&amp;nbsp; Interface&lt;br&gt;&lt;/div&gt;&lt;div&gt;(UPI)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1210" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1210" y="400" width="240" height="200" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-80" value="Mobile&amp;nbsp; Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1665" y="372" width="120" height="60" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-94" value="UPI or Unified Payment Interface is a payment mode which is used&amp;nbsp; to&amp;nbsp; make&amp;nbsp; instant&amp;nbsp; fund&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; the&amp;nbsp; sender’s&amp;nbsp; bank&amp;nbsp; account&amp;nbsp; to&amp;nbsp; the&amp;nbsp; receiver’s&amp;nbsp; bank&amp;nbsp; account&amp;nbsp; through&amp;nbsp; the&amp;nbsp; mobile&amp;nbsp; app.&amp;nbsp; User&amp;nbsp; can&amp;nbsp; transfer&amp;nbsp; funds&amp;nbsp; between&amp;nbsp; two&amp;nbsp; accounts&amp;nbsp; using&amp;nbsp; UPI&amp;nbsp; apps." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-76">
+          <mxGeometry y="60" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-81" value="Aadhar Enabled Payment Service&amp;nbsp; (AEPS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1795" y="372" width="120" height="60" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-77" value="&lt;div&gt;Immediate&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment&amp;nbsp;&amp;nbsp; Service&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt; (IMPS)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1470" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1470" y="400" width="240" height="160" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-82" value="BHIM&amp;nbsp; (Bharat&amp;nbsp; Interface&amp;nbsp; for&amp;nbsp; Money)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="372" width="120" height="60" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-96" value="s&amp;nbsp; a&amp;nbsp; Mobile&amp;nbsp; App&amp;nbsp; developed by National Payments Corporation of India (NPCI) based on UPI (Unified&amp;nbsp; Payment&amp;nbsp; Interface).&amp;nbsp; It&amp;nbsp; facilitates&amp;nbsp; e-payments&amp;nbsp; directly&amp;nbsp; through&amp;nbsp; banks and supports all Indian banks which use that platform." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-77">
+          <mxGeometry y="60" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-80" value="Mobile&amp;nbsp; Wallets" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1600" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1600" y="400" width="260" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-97" value="A&amp;nbsp; mobile&amp;nbsp; wallet&amp;nbsp; or&amp;nbsp; e-wallet&amp;nbsp; is&amp;nbsp; nothing&amp;nbsp; but&amp;nbsp; a&amp;nbsp; digital&amp;nbsp; version of a physical or real-life wallet, in which one can add money to purchase&amp;nbsp; various&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; (both&amp;nbsp; online&amp;nbsp; and&amp;nbsp; offline)&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; money&amp;nbsp; with&amp;nbsp; this&amp;nbsp; technology." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-80">
+          <mxGeometry y="60" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-81" value="&lt;div&gt;Aadhar Enabled &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Service &lt;br&gt;&lt;/div&gt;&lt;div&gt; (AEPS)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1730" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1730" y="400" width="250" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-98" value="ustomer&amp;nbsp; needs&amp;nbsp; only&amp;nbsp; his&amp;nbsp; or&amp;nbsp; her&amp;nbsp; Aadhaar&amp;nbsp; number&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; pay&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; merchant.&amp;nbsp;&amp;nbsp; AEPS&amp;nbsp;&amp;nbsp; allows&amp;nbsp;&amp;nbsp; bank&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; bank&amp;nbsp;&amp;nbsp; transactions. It means the money you pay will be deducted from your account&amp;nbsp; and&amp;nbsp; credited&amp;nbsp; to&amp;nbsp; the&amp;nbsp; payee’s&amp;nbsp; account&amp;nbsp; directly.&amp;nbsp; Customers&amp;nbsp; will&amp;nbsp; need to link their AADHAR numbers to their bank accounts. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-81">
+          <mxGeometry y="60" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-82" value="&lt;div&gt;BHIM&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Bharat&amp;nbsp; Interface &lt;br&gt;&lt;/div&gt;&lt;div&gt; for&amp;nbsp; Money)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1340" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1340" y="400" width="230" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-95" value="ransfer&amp;nbsp; money&amp;nbsp; instantly&amp;nbsp; within&amp;nbsp; banks&amp;nbsp; across&amp;nbsp; India through Mobile, Internet Banking and ATM, which is not only safe but economical also." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-82">
+          <mxGeometry y="60" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-84" value="Unstructured&amp;nbsp;&amp;nbsp;&amp;nbsp; Supplementary Service Data (USSD)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1925" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1860" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-90" value="Traditional methods" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1680" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
