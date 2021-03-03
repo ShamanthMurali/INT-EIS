@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T16:52:36.236Z" agent="5.0 (X11)" etag="ZsPyjEqaMt5sLa7htTRh" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T16:55:17.259Z" agent="5.0 (X11)" etag="lPMCqAkNLPYpQmNODxfG" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
     <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -174,54 +174,6 @@
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-55" value="Components" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-57" value="User" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="120" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="120" y="520" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-57">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-59" value="E-commerce &#xa;Vendors" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="140" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-59">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-61" value="Technology&#xa;Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="280" y="600" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-61">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-63" value="Internet/Network" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="440" y="600" width="120" height="40" as="geometry">
-            <mxRectangle x="440" y="600" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-63">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-65" value="Web Portal" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="580" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-65">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-67" value="Payment Gateway" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="600" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-67">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_V5_Tny7rc_aiCJH9v1E-77">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160.02857142857135" y="660" as="sourcePoint" />
@@ -242,6 +194,54 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-65" value="Web Portal" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="580" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="580" y="580" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-65">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-63" value="Internet/Network" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="440" y="600" width="120" height="40" as="geometry">
+            <mxRectangle x="440" y="600" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-63">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-61" value="Technology&#xa;Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="40" as="geometry">
+            <mxRectangle x="280" y="600" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-61">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-59" value="E-commerce &#xa;Vendors" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="140" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="140" y="580" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-59">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-67" value="Payment Gateway" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="600" y="520" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-67">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-57" value="User" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="120" y="520" width="210" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-58" value="The&amp;nbsp; user&amp;nbsp; may&amp;nbsp; be&amp;nbsp; individual&amp;nbsp; /&amp;nbsp; organization&amp;nbsp; or&amp;nbsp; anybody&amp;nbsp; using&amp;nbsp; the&amp;nbsp; e-commerce platforms. vendors&amp;nbsp; need&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; user’s&amp;nbsp; loyalty&amp;nbsp; is&amp;nbsp; built and&amp;nbsp; also&amp;nbsp; that&amp;nbsp; their&amp;nbsp; products&amp;nbsp; are&amp;nbsp; not&amp;nbsp; delivered&amp;nbsp; to&amp;nbsp; wrong&amp;nbsp; person.&amp;nbsp;&amp;nbsp;&amp;nbsp; For Example,&amp;nbsp; e-commerce&amp;nbsp; vendors&amp;nbsp; selling&amp;nbsp; products&amp;nbsp; like&amp;nbsp; medicine&amp;nbsp; /&amp;nbsp; drugs&amp;nbsp; need&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; their&amp;nbsp; products&amp;nbsp; are&amp;nbsp; not&amp;nbsp; delivered&amp;nbsp; to&amp;nbsp; wrong&amp;nbsp; person/user. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-57">
+          <mxGeometry y="40" width="210" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
