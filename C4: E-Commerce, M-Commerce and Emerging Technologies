@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T21:28:31.644Z" agent="5.0 (X11)" etag="sDF8g_wnOUdLczFeLiQc" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T22:12:44.808Z" agent="5.0 (X11)" etag="eei92898Vv4b70J9IKhz" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="713" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -711,26 +711,41 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-74" value="Types of Digital Payments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1600" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-76" value="&lt;div&gt;Unified&amp;nbsp; Payment&amp;nbsp; Interface&lt;br&gt;&lt;/div&gt;&lt;div&gt;(UPI)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1275" y="372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-77" value="Immediate&amp;nbsp;&amp;nbsp; Payment&amp;nbsp;&amp;nbsp; Service&amp;nbsp;&amp;nbsp; (IMPS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1535" y="372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-80" value="Mobile&amp;nbsp; Wallets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1665" y="372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-81" value="Aadhar Enabled Payment Service&amp;nbsp; (AEPS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1795" y="372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-82" value="BHIM&amp;nbsp; (Bharat&amp;nbsp; Interface&amp;nbsp; for&amp;nbsp; Money)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1405" y="372" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-84" value="Unstructured&amp;nbsp;&amp;nbsp;&amp;nbsp; Supplementary Service Data (USSD)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="372" width="120" height="60" as="geometry" />
+          <mxGeometry x="1925" y="372" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
