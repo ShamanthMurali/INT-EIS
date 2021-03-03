@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T22:22:20.993Z" agent="5.0 (X11)" etag="8cr_TRsFwLnbrMS32Lim" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T22:28:42.710Z" agent="5.0 (X11)" etag="6KdNhtXcUwPVZyGh2TJd" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -800,8 +800,56 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-99" value="User does not need to&amp;nbsp; have&amp;nbsp; a&amp;nbsp; smartphone&amp;nbsp; or&amp;nbsp; internet&amp;nbsp; connection&amp;nbsp; to&amp;nbsp; use&amp;nbsp; USSD&amp;nbsp; banking. S/he&amp;nbsp; can&amp;nbsp; use&amp;nbsp; this&amp;nbsp; service&amp;nbsp; for&amp;nbsp; many financial and non-financial operations such as checking balance, sending&amp;nbsp;&amp;nbsp; money,&amp;nbsp;&amp;nbsp; changing&amp;nbsp;&amp;nbsp; Mobile&amp;nbsp;&amp;nbsp; Banking&amp;nbsp;&amp;nbsp; Personal&amp;nbsp;&amp;nbsp; Identification&amp;nbsp;&amp;nbsp; number (MPIN) and getting Mobile Money Identifier (MMID)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-84">
           <mxGeometry y="60" width="240" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-90" target="Cj6t33-h_uaLePJBkrsk-100" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-90" target="Cj6t33-h_uaLePJBkrsk-101" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-90" value="Traditional methods" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="1680" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-100" target="Cj6t33-h_uaLePJBkrsk-103" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-100" target="Cj6t33-h_uaLePJBkrsk-102" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="460" />
+              <mxPoint x="1520" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-100" target="Cj6t33-h_uaLePJBkrsk-104" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="460" />
+              <mxPoint x="1795" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-100" value="Cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1600" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-101" value="Internet&amp;nbsp; Banking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1760" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-102" value="Credit Cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1460" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-103" value="Debits Cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1600" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-104" target="Cj6t33-h_uaLePJBkrsk-108" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-104" value="Smart Card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1735" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-108" value="it has a small microprocessor chip embedded in it. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="1737.5" y="540" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
