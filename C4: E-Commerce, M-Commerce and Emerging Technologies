@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T16:18:32.934Z" agent="5.0 (X11)" etag="N-GgTRLuREtSenaUN_KE" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T16:52:36.236Z" agent="5.0 (X11)" etag="ZsPyjEqaMt5sLa7htTRh" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="499" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,6 +65,9 @@
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-16" value="A &lt;u&gt;&lt;b&gt;Business&amp;nbsp; Model&lt;/b&gt;&lt;/u&gt; can be defined as the mechanism by which a business intends to&amp;nbsp; generate&amp;nbsp; revenue&amp;nbsp; and&amp;nbsp; profits." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-18" target="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-18" value="e-Market models" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="360" width="680" height="1380" as="alternateBounds" />
@@ -75,6 +78,170 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-20" value="&lt;table dir=&quot;ltr&quot; style=&quot;table-layout: fixed ; font-size: 10pt ; font-family: &amp;quot;arial&amp;quot; ; width: 0px ; border-collapse: collapse ; border: none&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;74&quot;&gt;&lt;col width=&quot;146&quot;&gt;&lt;col width=&quot;441&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-color: rgb(0, 0, 0); border-style: solid; border-width: 1px; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(194, 214, 155); font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;S.  &lt;br&gt;No.&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(194, 214, 155); font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e – Market models&lt;/td&gt;&lt;td style=&quot;border-top: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Description&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;1&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e - Shops (e-tailers)&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;An e-shop is a virtual store front that sells products and services online. E-shop is an online version of retail stores where customers can shop at any hour of the day or night without leaving home. They are convenient way of effecting direct sales to customers; allow manufacturers to bypass intermediate operators and thereby reduce costs and delivery times. For example: www.sonicnet.com, www.wforwomen.com&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;2&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e -Malls&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;The e-mall is defined as the retailing model of a shopping mall, a conglomeration of different shops situated in a convenient location in e-commerce. E malls help the consumers from a variety of stores. e.g., Yahoo! Stores&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;3&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e -auctions&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Electronic auctions provide a channel of communication through which the bidding process for products and  services can take place between competing buyers. At e auctions, people buy and sell through an auction  website. In e-auctions, almost perfect information is available about products, prices, current demand, and supply. E-auction has become an increasingly popular  tool for the buyer to access the lowest price the  suppliers are willing to charge. &lt;br&gt;Example – www.onsale.com, www.ebay.com&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;4&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Portals&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Portal is a website that serves as a gateway or a main entry point on the internet to a specific field of interest or an industry. It is a website that is positioned as an entrance to other sites on the internet. A portal consists of web pages that act as a starting point for using the web or web-based services. The control of  content can be a source of revenue for firms through  charging firms for advertising or charging consumers a  subscription for access. Some major general portals include Yahoo, Excite, and Netscape.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;5&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Buyer &lt;br&gt;Aggregators&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;The Buyer Aggregator brings together large numbers of individual buyers so that they can gain the types of savings that are usually the privilege of large volume buyers. In this, the firm collects the information about goods/service providers, make the providers their partners, and sell their services under its own brand. Example - www.zomato.com&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;6&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Virtual &lt;br&gt;Community&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;Virtual Community is a community of customers who share a common interest and use the internet to communicate with each other. Amazon.com provides websites for the exchange of information on a wide range of subjects relating to their portfolio of products and services. Virtual communities benefit from network externalities whereby the more people who join and contribute to the community, the greater the benefits that accrue, but without any additional cost to participants.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;7&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e -marketing&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(234, 241, 221); font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;E-marketing (Electronic Marketing) is the process of marketing a product or service using the Internet. Of course, information on websites also empowers customers and helps the organizations to achieve their objectives. For example, they can compare prices of products by rival firms. The internet changes the relationship between buyers and sellers because market information is available to all parties in the transaction.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;8&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0); text-align: center;&quot;&gt;e-procurement&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(194, 214, 155); font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e-procurement is the management of all procurement activities via electronic means. Business models based on e-procurement seek efficiency in accessing information on suppliers, availability, price, quality and delivery times as well as cost savings by collaborating with partners to pool their buying power and secure best value deals. E-procurement infomediaries specialize in providing up-to-date and real-time information on all aspects of the supply of materials to businesses.&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); border-left: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;9&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; font-weight: bold; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e -distribution&lt;/td&gt;&lt;td style=&quot;border-right: 1px solid rgb(0, 0, 0); border-bottom: 1px solid rgb(0, 0, 0); overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; overflow-wrap: break-word; color: rgb(0, 0, 0);&quot;&gt;e-distributor is a company that supplies products and services directly to individual business. The e distribution model helps distributors to achieve efficiency savings by managing large volumes of customers, automating orders, communicating with partners and facilitating value-adding services such as order tracking through each point in the supply chain. An example of a firm specializing in e-distribution is www. wipro.com that uses the internet to provide fully integrated e-business enabled solutions that help to &lt;br&gt;unify the information flows across all the major distribution processes including sales and marketing automation, customer service, warehouse logistics, purchasing and inventory management, and finance.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-18">
           <mxGeometry y="40" width="670" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-28" target="_V5_Tny7rc_aiCJH9v1E-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-28" value="Business models" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="420" width="310" height="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry y="40" width="310" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-31" target="_V5_Tny7rc_aiCJH9v1E-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-31" value="Business-to-Business (B2B)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-32" target="_V5_Tny7rc_aiCJH9v1E-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-32" value="Consumer-to-Consumer (C2C)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-34" target="_V5_Tny7rc_aiCJH9v1E-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-34" value="Consumer to&amp;nbsp;&amp;nbsp; Business (C2B)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-35" target="_V5_Tny7rc_aiCJH9v1E-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-35" value="Consumer to&amp;nbsp;&amp;nbsp; Government (C2G)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-36" target="_V5_Tny7rc_aiCJH9v1E-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-36" value="Government to&amp;nbsp;&amp;nbsp; Consumer (G2C)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-37" target="_V5_Tny7rc_aiCJH9v1E-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-37" value="Business to&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Government (B2G) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_V5_Tny7rc_aiCJH9v1E-28" source="_V5_Tny7rc_aiCJH9v1E-33" target="_V5_Tny7rc_aiCJH9v1E-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-33" value="Business-to-Consumer (B2C) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="5" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-40" value="Amazon,flipkart etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="155" y="50" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-42" value="supply&amp;nbsp;&amp;nbsp; chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="155" y="100" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-44" value="olx, ebay" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="155" y="150" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-47" value="reviews,sharing as an influencer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="155" y="200" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-49" value="Taxes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="160" y="250" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-51" value="licenses " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="160" y="300" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-53" value="sell goods and services to Government agencies." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-28">
+          <mxGeometry x="160" y="350" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-55" target="_V5_Tny7rc_aiCJH9v1E-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-55" target="_V5_Tny7rc_aiCJH9v1E-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-55" target="_V5_Tny7rc_aiCJH9v1E-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-55" target="_V5_Tny7rc_aiCJH9v1E-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-55" target="_V5_Tny7rc_aiCJH9v1E-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-55" target="_V5_Tny7rc_aiCJH9v1E-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-55" value="Components" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-57" value="User" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="120" y="520" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-57">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-59" value="E-commerce &#xa;Vendors" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="140" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-59">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-61" value="Technology&#xa;Infrastructure" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-61">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-63" value="Internet/Network" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="440" y="600" width="120" height="40" as="geometry">
+            <mxRectangle x="440" y="600" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-63">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-65" value="Web Portal" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="580" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-65">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-67" value="Payment Gateway" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-67">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_V5_Tny7rc_aiCJH9v1E-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.02857142857135" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="690" />
+              <mxPoint x="420" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="_V5_Tny7rc_aiCJH9v1E-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660.0285714285715" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="690" />
+              <mxPoint x="420" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
