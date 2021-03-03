@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T17:42:50.182Z" agent="5.0 (X11)" etag="dcDMaO8KzAv9nOqWXhbI" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T17:44:38.105Z" agent="5.0 (X11)" etag="lzkNqRQV4Larn7KAlWWV" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
     <mxGraphModel dx="713" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -468,22 +468,22 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-150" value="Disadvantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="540" y="1040" width="120" height="40" as="geometry">
-            <mxRectangle x="200" y="1040" width="220" height="160" as="alternateBounds" />
+            <mxRectangle x="540" y="1040" width="380" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-151" value="&lt;div&gt;- Performance deteriorates if number of users’ increases.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- There is restricted flexibility and choice of DBMS, since data language used in server is proprietary to each vendor&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-150">
-          <mxGeometry y="40" width="220" height="120" as="geometry" />
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-151" value="&lt;div&gt;♦It&amp;nbsp; creates&amp;nbsp; an&amp;nbsp; increased&amp;nbsp; need&amp;nbsp; for&amp;nbsp; network&amp;nbsp; traffic&amp;nbsp; management,&amp;nbsp; server&amp;nbsp; load&amp;nbsp; balancing, and fault tolerance.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Current tools are relatively immature and are more complex.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Maintenance tools are currently inadequate for maintaining server libraries. This is a potential obstacle for simplifying maintenance and promoting code reuse throughout the organization&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-150">
+          <mxGeometry y="40" width="380" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-152" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="_V5_Tny7rc_aiCJH9v1E-153" target="_V5_Tny7rc_aiCJH9v1E-150" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-153" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="540" y="980" width="120" height="40" as="geometry">
-            <mxRectangle x="200" y="980" width="240" height="220" as="alternateBounds" />
+            <mxRectangle x="540" y="980" width="420" height="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-154" value="&lt;div&gt;- The system performance is higher because business logic and database are physically close.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Since processing is shared between the client and server, more users could interact with system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- By&amp;nbsp; having&amp;nbsp; simple&amp;nbsp; structure,&amp;nbsp; it&amp;nbsp; is&amp;nbsp; easy&amp;nbsp; to&amp;nbsp; setup&amp;nbsp; and&amp;nbsp; maintain&amp;nbsp; entire&amp;nbsp; system&amp;nbsp; smoothly.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-153">
-          <mxGeometry y="40" width="240" height="180" as="geometry" />
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-154" value="&lt;div&gt;♦Clear&amp;nbsp; separation&amp;nbsp; of&amp;nbsp; user-interface-control&amp;nbsp; and&amp;nbsp; data&amp;nbsp; presentation&amp;nbsp; from&amp;nbsp; application-logic:&amp;nbsp; Through&amp;nbsp; this&amp;nbsp; separation&amp;nbsp; more&amp;nbsp; clients&amp;nbsp; can&amp;nbsp; have&amp;nbsp; access&amp;nbsp; to&amp;nbsp; a&amp;nbsp; wide&amp;nbsp; variety&amp;nbsp; of&amp;nbsp; server&amp;nbsp; applications.&amp;nbsp; The&amp;nbsp; two&amp;nbsp; main&amp;nbsp; advantages&amp;nbsp; for&amp;nbsp; client-applications are quicker development through the reuse of pre-built business-logic components and a shorter test phase.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Dynamic&amp;nbsp; load&amp;nbsp; balancing:&amp;nbsp; If&amp;nbsp; bottlenecks&amp;nbsp; in&amp;nbsp; terms&amp;nbsp; of&amp;nbsp; performance&amp;nbsp; occur,&amp;nbsp; the&amp;nbsp; server process can be moved to other servers at runtime. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; ♦Change&amp;nbsp; management:&amp;nbsp; It&amp;nbsp; is&amp;nbsp; easy&amp;nbsp; and&amp;nbsp; faster&amp;nbsp; to&amp;nbsp; exchange&amp;nbsp; a&amp;nbsp; component&amp;nbsp; on&amp;nbsp; the&amp;nbsp; server than to furnish numerous PCs with new program versions. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-153">
+          <mxGeometry y="40" width="420" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
