@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T19:42:14.269Z" agent="5.0 (X11)" etag="YNn9h9qA4jo89n3do5CM" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T20:14:46.811Z" agent="5.0 (X11)" etag="qF3572EnLHaS46Wz-QoP" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,8 +559,40 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-19" value="&lt;div&gt;♦A &lt;u&gt;&lt;b&gt;Direct&amp;nbsp; Financial&amp;nbsp; Impact&lt;/b&gt;&lt;/u&gt;&amp;nbsp; could&amp;nbsp; be&amp;nbsp; if&amp;nbsp; the&amp;nbsp; Application&amp;nbsp; at&amp;nbsp; the&amp;nbsp; Company’s&amp;nbsp; Retailers&amp;nbsp; which&amp;nbsp; contains&amp;nbsp; financial&amp;nbsp; information&amp;nbsp; has&amp;nbsp; weak&amp;nbsp; passwords&amp;nbsp; at&amp;nbsp; all&amp;nbsp; Open Systems Interconnection (OSI) layers resulting in harming the integrity of data.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦An&amp;nbsp;&amp;nbsp; &lt;u&gt;&lt;b&gt;Indirect&amp;nbsp;&amp;nbsp; Operational&amp;nbsp;&amp;nbsp; Impact&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&amp;nbsp; could&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; if&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; sensitive&amp;nbsp;&amp;nbsp; customer&amp;nbsp;&amp;nbsp; information&amp;nbsp; in&amp;nbsp; the&amp;nbsp; form&amp;nbsp; of&amp;nbsp; Bank&amp;nbsp; Account&amp;nbsp; Numbers&amp;nbsp; Recipes&amp;nbsp; of&amp;nbsp; Patented&amp;nbsp; products, etc. could be breached which would result in legal and regulatory actions on the Company on account of breach of confidential information.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-18">
           <mxGeometry y="40" width="320" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-22" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="880" width="120" height="80" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-22" target="Cj6t33-h_uaLePJBkrsk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-22" value="GUIDELINES&amp;nbsp; AND&amp;nbsp; LAWS&amp;nbsp; GOVERNING&amp;nbsp; E-COMMERCE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-23" target="Cj6t33-h_uaLePJBkrsk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-23" value="Guidelines for E-Commerce " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-25" target="Cj6t33-h_uaLePJBkrsk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-25" value="All&amp;nbsp; entity&amp;nbsp; going&amp;nbsp; for&amp;nbsp; e-commerce&amp;nbsp; /&amp;nbsp; m-commerce&amp;nbsp; business&amp;nbsp; needs&amp;nbsp; to&amp;nbsp; create&amp;nbsp; clear&amp;nbsp; policy guidelines for the following:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="835" y="180" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-29" target="Cj6t33-h_uaLePJBkrsk-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-29" value="Policy Guidelines" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="910" y="250" width="120" height="40" as="geometry">
+            <mxRectangle x="910" y="250" width="480" height="440" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-29">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-27" value="&lt;div&gt;1.&amp;nbsp; Billing: The issues are -&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a. Format of bill&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;b. The details to be shared in bills.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;c. Applicable GST.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Product&amp;nbsp; guarantee&amp;nbsp; /&amp;nbsp; warranty:&amp;nbsp; Proper&amp;nbsp; display&amp;nbsp; of&amp;nbsp; product&amp;nbsp; guarantee&amp;nbsp; /&amp;nbsp; warranty online as well as documents sent along with the products.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Shipping:&amp;nbsp; The shipping time, frequency of shipping, the packing at time of shipping,&amp;nbsp; all&amp;nbsp; these&amp;nbsp; needs&amp;nbsp; to&amp;nbsp; be&amp;nbsp; put&amp;nbsp; in&amp;nbsp; policy&amp;nbsp; documents.&amp;nbsp; This&amp;nbsp; will&amp;nbsp; ensure products are properly packed and timely shipped.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp; Delivery: Policy needs to be defined for:&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a. Which&amp;nbsp; mode&amp;nbsp; of&amp;nbsp; delivery&amp;nbsp; to&amp;nbsp; be&amp;nbsp; chosen?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;b. When deliveries to be made? Say time of day.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;c. Where&amp;nbsp; deliveries&amp;nbsp; to&amp;nbsp; be&amp;nbsp; made?&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp; Return Policy:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;a. Which goods to be accepted in return?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;b. The number of days within which returns can be accepted.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;c. The process of verifying the authenticity of products received back.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;d. The&amp;nbsp; time&amp;nbsp; within&amp;nbsp; which&amp;nbsp; buyer&amp;nbsp; shall&amp;nbsp; be&amp;nbsp; paid&amp;nbsp; his/her&amp;nbsp; amount&amp;nbsp; back&amp;nbsp; for&amp;nbsp; goods returned.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6.Payment:&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a. Mode of payment. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;b. For&amp;nbsp;&amp;nbsp;&amp;nbsp; which&amp;nbsp;&amp;nbsp;&amp;nbsp; products,&amp;nbsp;&amp;nbsp;&amp;nbsp; specific&amp;nbsp;&amp;nbsp;&amp;nbsp; payment&amp;nbsp;&amp;nbsp;&amp;nbsp; mode&amp;nbsp;&amp;nbsp;&amp;nbsp; shall&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; there.&amp;nbsp;&amp;nbsp;&amp;nbsp; Organization restricts cash on delivery for few consumable products.&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-29">
+          <mxGeometry y="40" width="480" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-32" value="Commercial Laws Governing E-Commerce " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="320" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
