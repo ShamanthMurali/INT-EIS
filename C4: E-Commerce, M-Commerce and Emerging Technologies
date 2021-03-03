@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T22:28:42.710Z" agent="5.0 (X11)" etag="6KdNhtXcUwPVZyGh2TJd" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T22:29:32.397Z" agent="5.0 (X11)" etag="41tF8UT6_3qxsOX7MIsz" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -699,6 +699,12 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-70" target="Cj6t33-h_uaLePJBkrsk-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-116" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-70" target="Cj6t33-h_uaLePJBkrsk-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-117" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-70" target="Cj6t33-h_uaLePJBkrsk-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-70" value="Digital&amp;nbsp; Payments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="170" width="120" height="40" as="geometry" />
         </mxCell>
@@ -850,6 +856,22 @@
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-108" value="it has a small microprocessor chip embedded in it. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1737.5" y="540" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-112" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1440" y="170" width="120" height="40" as="geometry">
+            <mxRectangle x="1440" y="170" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-112">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-114" value="Drawbacks" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1760" y="170" width="120" height="40" as="geometry">
+            <mxRectangle x="1760" y="170" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-114">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
