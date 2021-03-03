@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T20:58:16.434Z" agent="5.0 (X11)" etag="z-vaioGra2MDvIQp63Yw" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T21:09:02.681Z" agent="5.0 (X11)" etag="BahQgwFuYFWtqGLDhBGd" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,8 +679,19 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-58" value="&lt;b&gt;Section&amp;nbsp; 14&lt;/b&gt;, Secure electronic record. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="990" y="850" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-64" value="&lt;b&gt;Trends in E-Commerce &lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-64" target="Cj6t33-h_uaLePJBkrsk-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-64" value="&lt;b&gt;Trends&amp;nbsp; &lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-65" value="Trends in &#xa;E-Commerce " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1600" y="110" width="120" height="40" as="geometry">
+            <mxRectangle x="1600" y="110" width="520" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-66" value="&lt;div&gt;1. Content&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;visually&amp;nbsp; attractive&amp;nbsp; website&amp;nbsp; and&amp;nbsp; interesting&amp;nbsp; display&amp;nbsp; of&amp;nbsp; products &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Social&amp;nbsp; Commerce&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;inclusion&amp;nbsp; of&amp;nbsp; e-commerce&amp;nbsp; in&amp;nbsp; social&amp;nbsp; networks,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; Facebook,&amp;nbsp; Twitter,&amp;nbsp; YouTube,&amp;nbsp; etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Mobile&amp;nbsp; Commerce&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;55%&amp;nbsp; of&amp;nbsp; the&amp;nbsp; online&amp;nbsp; traffic&amp;nbsp; is&amp;nbsp; generated from mobile devices and still it is on the increase. Mobile marketing is&amp;nbsp; an&amp;nbsp; important&amp;nbsp; e-commerce&amp;nbsp; trend.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Biometrics&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Biometric&amp;nbsp; verification&amp;nbsp; is&amp;nbsp; a&amp;nbsp; recent&amp;nbsp; e-commerce&amp;nbsp; technology&amp;nbsp; trends&amp;nbsp; that&amp;nbsp; measure&amp;nbsp; the&amp;nbsp; physical&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; users&amp;nbsp; such&amp;nbsp; as&amp;nbsp; fingerprints,&amp;nbsp; palm,&amp;nbsp; face,&amp;nbsp; or&amp;nbsp; voice&amp;nbsp; to&amp;nbsp; solve&amp;nbsp; security&amp;nbsp; issues.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Artificial&amp;nbsp; Intelligence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Predictive Analysis&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;the right customer, the right product ,in the right way and at the right time. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-65">
+          <mxGeometry y="40" width="520" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
