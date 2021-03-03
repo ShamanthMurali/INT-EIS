@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T20:57:45.934Z" agent="5.0 (X11)" etag="us3qiLOkMaGksOqxe8tn" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T20:58:16.434Z" agent="5.0 (X11)" etag="z-vaioGra2MDvIQp63Yw" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,7 +562,7 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-22" target="Cj6t33-h_uaLePJBkrsk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-22" value="GUIDELINES&amp;nbsp; AND&amp;nbsp; LAWS&amp;nbsp; GOVERNING&amp;nbsp; E-COMMERCE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-22" value="&lt;b&gt;GUIDELINES&amp;nbsp; AND&amp;nbsp; LAWS&amp;nbsp; GOVERNING&amp;nbsp; E-COMMERCE&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="880" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-23" target="Cj6t33-h_uaLePJBkrsk-25">
@@ -679,8 +679,8 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-58" value="&lt;b&gt;Section&amp;nbsp; 14&lt;/b&gt;, Secure electronic record. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="990" y="850" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-64" value="GUIDELINES&amp;nbsp; AND&amp;nbsp; LAWS&amp;nbsp; GOVERNING&amp;nbsp; E-COMMERCE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" width="180" height="80" as="geometry" />
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-64" value="&lt;b&gt;Trends in E-Commerce &lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
