@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T17:39:10.836Z" agent="5.0 (X11)" etag="PyUIApviWyIHT6kiulmA" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T17:42:50.182Z" agent="5.0 (X11)" etag="dcDMaO8KzAv9nOqWXhbI" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -377,14 +377,48 @@
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-134" value="This&amp;nbsp; is&amp;nbsp; the&amp;nbsp; interface&amp;nbsp; that allows user to interact with the e-commerce/m-commerce vendor. User can&amp;nbsp; login&amp;nbsp; to&amp;nbsp; an&amp;nbsp; e-commerce&amp;nbsp; vendor&amp;nbsp; through&amp;nbsp; this&amp;nbsp; tier.&amp;nbsp; This&amp;nbsp; application&amp;nbsp; also&amp;nbsp; connects&amp;nbsp; to&amp;nbsp; database&amp;nbsp; tier&amp;nbsp; and&amp;nbsp; displays&amp;nbsp; the&amp;nbsp; various&amp;nbsp; products/prices&amp;nbsp; to&amp;nbsp; customers." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-119">
           <mxGeometry y="70" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-128" value="Application Tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-155" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-128" target="_V5_Tny7rc_aiCJH9v1E-153">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-129" value="Database Tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-128" value="Application Tier" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="540" y="880" width="120" height="40" as="geometry">
+            <mxRectangle x="540" y="880" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-130" value="Presentation Tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-148" value="This&amp;nbsp; is&amp;nbsp; also&amp;nbsp; called&amp;nbsp; as the Middle&amp;nbsp; Tier, Logic&amp;nbsp; Tier&amp;nbsp; or Business&amp;nbsp; Logic;&amp;nbsp; this&amp;nbsp; tier&amp;nbsp; is&amp;nbsp; pulled&amp;nbsp; from&amp;nbsp; the&amp;nbsp; Presentation&amp;nbsp; tier.&amp;nbsp; It&amp;nbsp; controls&amp;nbsp; application functionality&amp;nbsp; by&amp;nbsp; performing&amp;nbsp; detailed&amp;nbsp; processing." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-128">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-156" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-129" target="_V5_Tny7rc_aiCJH9v1E-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="950" />
+              <mxPoint x="600" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-129" value="Database Tier" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="680" y="880" width="120" height="40" as="geometry">
+            <mxRectangle x="680" y="880" width="330" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-149" value="&lt;div&gt;This&amp;nbsp; tier&amp;nbsp; houses&amp;nbsp; the&amp;nbsp; database&amp;nbsp; servers&amp;nbsp; where&amp;nbsp; information&amp;nbsp; is&amp;nbsp; stored&amp;nbsp; and&amp;nbsp; retrieved.&amp;nbsp; Data&amp;nbsp; in&amp;nbsp; this&amp;nbsp; tier&amp;nbsp; is&amp;nbsp; kept&amp;nbsp; independent&amp;nbsp; of&amp;nbsp; application&amp;nbsp; servers&amp;nbsp; or&amp;nbsp; business&amp;nbsp; logic.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To&amp;nbsp; conclude,&amp;nbsp; in&amp;nbsp; Three&amp;nbsp; Tier&amp;nbsp; Architecture&amp;nbsp; three&amp;nbsp; layers like Client, Server and Database are involved. In this, the Client sends a&amp;nbsp; request&amp;nbsp; to&amp;nbsp; Server,&amp;nbsp; where&amp;nbsp; the&amp;nbsp; Server&amp;nbsp; sends&amp;nbsp; the&amp;nbsp; request&amp;nbsp; to&amp;nbsp; Database&amp;nbsp; for&amp;nbsp; data, based on that request the Database sends back the data to Server and from Server the data is forwarded to Client.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-129">
+          <mxGeometry y="40" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-157" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-130" target="_V5_Tny7rc_aiCJH9v1E-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="950" />
+              <mxPoint x="600" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-130" value="Presentation Tier" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="400" y="880" width="120" height="40" as="geometry">
+            <mxRectangle x="400" y="880" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-146" value="This occupies&amp;nbsp; the&amp;nbsp; top&amp;nbsp; level&amp;nbsp; and&amp;nbsp; displays&amp;nbsp; information&amp;nbsp; related to services available on a website. This tier communicates with other tiers by sending results to the browser and other tiers in the network." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-130">
+          <mxGeometry y="40" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-141" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-120" target="_V5_Tny7rc_aiCJH9v1E-136">
           <mxGeometry relative="1" as="geometry" />
@@ -431,6 +465,25 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-145" value="Three-tier architecture is a client-server&amp;nbsp; architecture&amp;nbsp; in&amp;nbsp; which&amp;nbsp; the&amp;nbsp; functional&amp;nbsp; process&amp;nbsp; logic,&amp;nbsp; data&amp;nbsp; access,&amp;nbsp; computer&amp;nbsp; data&amp;nbsp; storage&amp;nbsp; and&amp;nbsp; user&amp;nbsp; interface&amp;nbsp; are&amp;nbsp; developed&amp;nbsp; and&amp;nbsp; maintained&amp;nbsp; as&amp;nbsp; independent&amp;nbsp; modules&amp;nbsp; on&amp;nbsp; separate&amp;nbsp; platforms. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-118">
           <mxGeometry y="40" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-150" value="Disadvantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="540" y="1040" width="120" height="40" as="geometry">
+            <mxRectangle x="200" y="1040" width="220" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-151" value="&lt;div&gt;- Performance deteriorates if number of users’ increases.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- There is restricted flexibility and choice of DBMS, since data language used in server is proprietary to each vendor&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-150">
+          <mxGeometry y="40" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-152" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="_V5_Tny7rc_aiCJH9v1E-153" target="_V5_Tny7rc_aiCJH9v1E-150" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-153" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="540" y="980" width="120" height="40" as="geometry">
+            <mxRectangle x="200" y="980" width="240" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-154" value="&lt;div&gt;- The system performance is higher because business logic and database are physically close.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Since processing is shared between the client and server, more users could interact with system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- By&amp;nbsp; having&amp;nbsp; simple&amp;nbsp; structure,&amp;nbsp; it&amp;nbsp; is&amp;nbsp; easy&amp;nbsp; to&amp;nbsp; setup&amp;nbsp; and&amp;nbsp; maintain&amp;nbsp; entire&amp;nbsp; system&amp;nbsp; smoothly.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-153">
+          <mxGeometry y="40" width="240" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
