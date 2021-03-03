@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T17:38:09.083Z" agent="5.0 (X11)" etag="azEjKvsCtr6w3B9mqHB7" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T17:39:10.836Z" agent="5.0 (X11)" etag="PyUIApviWyIHT6kiulmA" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1039" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,9 +366,6 @@
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-118" target="_V5_Tny7rc_aiCJH9v1E-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-118" value="Three tier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="800" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-142" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-119" target="_V5_Tny7rc_aiCJH9v1E-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -426,6 +423,14 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-144" value="sends&amp;nbsp; request&amp;nbsp; to&amp;nbsp; Server&amp;nbsp; and&amp;nbsp; the&amp;nbsp; Server&amp;nbsp; responds to the request by fetching the data from it. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-117">
           <mxGeometry y="40" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-118" value="Three tier" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="540" y="800" width="120" height="40" as="geometry">
+            <mxRectangle x="540" y="800" width="220" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-145" value="Three-tier architecture is a client-server&amp;nbsp; architecture&amp;nbsp; in&amp;nbsp; which&amp;nbsp; the&amp;nbsp; functional&amp;nbsp; process&amp;nbsp; logic,&amp;nbsp; data&amp;nbsp; access,&amp;nbsp; computer&amp;nbsp; data&amp;nbsp; storage&amp;nbsp; and&amp;nbsp; user&amp;nbsp; interface&amp;nbsp; are&amp;nbsp; developed&amp;nbsp; and&amp;nbsp; maintained&amp;nbsp; as&amp;nbsp; independent&amp;nbsp; modules&amp;nbsp; on&amp;nbsp; separate&amp;nbsp; platforms. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_V5_Tny7rc_aiCJH9v1E-118">
+          <mxGeometry y="40" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
