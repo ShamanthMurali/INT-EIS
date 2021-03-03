@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T15:19:00.083Z" agent="5.0 (X11)" etag="V2qkokCmrVSa8Ba_owhJ" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T15:19:42.811Z" agent="5.0 (X11)" etag="GQXeohR-1i1LfY4w-zSW" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1247" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="499" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_V5_Tny7rc_aiCJH9v1E-1" target="_V5_Tny7rc_aiCJH9v1E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-1" value="E-commerce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-2" value="&lt;b&gt;E-&amp;nbsp; Commerce is the process of doing business electronically.&lt;/b&gt; It refers to the use of technology&amp;nbsp; to&amp;nbsp; enhance&amp;nbsp; the&amp;nbsp; processing&amp;nbsp; of&amp;nbsp; commercial&amp;nbsp; transactions&amp;nbsp; between&amp;nbsp; a&amp;nbsp; company, its customers and its business partners. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
