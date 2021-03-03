@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T19:27:25.422Z" agent="5.0 (X11)" etag="fgNgvcgL22sze49LkNX5" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T19:42:14.269Z" agent="5.0 (X11)" etag="YNn9h9qA4jo89n3do5CM" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="713" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,6 +512,9 @@
         <mxCell id="Cj6t33-h_uaLePJBkrsk-2" value="&lt;div&gt;1. Privacy&amp;nbsp; and&amp;nbsp; Security&lt;/div&gt;&lt;div&gt;2. Quality&amp;nbsp; issues&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;original product differs from the one that was ordered.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Delay in goods and Hidden Costs&lt;/div&gt;&lt;div&gt;4. Needs&amp;nbsp; Access&amp;nbsp; to&amp;nbsp; internet&amp;nbsp; and&amp;nbsp; lack&amp;nbsp; of&amp;nbsp; personal&amp;nbsp; touch&lt;/div&gt;&lt;div&gt;5. Security and credit card issues&lt;/div&gt;&lt;div&gt;6. Infrastructure&lt;/div&gt;&lt;div&gt;7. Problem of anonymity&lt;/div&gt;&lt;div&gt;8. Repudiation of contract&lt;/div&gt;&lt;div&gt;9.Lack&amp;nbsp; of&amp;nbsp; authenticity&amp;nbsp; of&amp;nbsp; transactions&lt;/div&gt;&lt;div&gt;10. Data&amp;nbsp; Loss&amp;nbsp; or&amp;nbsp; theft&amp;nbsp; or&amp;nbsp; duplication&lt;/div&gt;&lt;div&gt;11. Attack from hackers&lt;/div&gt;&lt;div&gt;12. Denial&amp;nbsp; of&amp;nbsp; Service&lt;/div&gt;&lt;div&gt;13. Non-recognition&amp;nbsp; of&amp;nbsp; electronic&amp;nbsp; transactions&lt;/div&gt;&lt;div&gt;14. Lack of audit trails&lt;/div&gt;&lt;div&gt;15. Problem&amp;nbsp; of&amp;nbsp; piracy&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-1">
           <mxGeometry y="40" width="320" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-5" target="Cj6t33-h_uaLePJBkrsk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-5" value="Controls " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="360" y="1180" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="1180" width="490" height="530" as="alternateBounds" />
@@ -525,6 +528,39 @@
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-8" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;controls&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;1. Educating the participant about the nature of risks.&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. Communication of organizational policies to its customers.&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Privacy&amp;nbsp; Policies, Information&amp;nbsp; security, Shipping&amp;nbsp; and&amp;nbsp; billing&amp;nbsp; policies, Refund&amp;nbsp; policies&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;3. Ensure Compliance with Industry Body Standards.&lt;/div&gt;&lt;div&gt;4. Protect your e-Commerce business from intrusion. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Viruses, Hackers, Passwords, Regular&amp;nbsp; software&amp;nbsp; updates, Sensitive&amp;nbsp; data &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-5">
           <mxGeometry y="400" width="490" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-17" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-10" target="Cj6t33-h_uaLePJBkrsk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-10" target="Cj6t33-h_uaLePJBkrsk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-10" value="Cyber &#xa;Security Risk" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="1240" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="1240" width="320" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-11" value="&lt;div&gt;♦A &lt;u&gt;&lt;b&gt;Direct&amp;nbsp; Financial&amp;nbsp; Impact&lt;/b&gt;&lt;/u&gt;&amp;nbsp; could&amp;nbsp; be&amp;nbsp; if&amp;nbsp; the&amp;nbsp; Application&amp;nbsp; at&amp;nbsp; the&amp;nbsp; Company’s&amp;nbsp; Retailers&amp;nbsp; which&amp;nbsp; contains&amp;nbsp; financial&amp;nbsp; information&amp;nbsp; has&amp;nbsp; weak&amp;nbsp; passwords&amp;nbsp; at&amp;nbsp; all&amp;nbsp; Open Systems Interconnection (OSI) layers resulting in harming the integrity of data.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦An&amp;nbsp;&amp;nbsp; &lt;u&gt;&lt;b&gt;Indirect&amp;nbsp;&amp;nbsp; Operational&amp;nbsp;&amp;nbsp; Impact&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&amp;nbsp; could&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; if&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; sensitive&amp;nbsp;&amp;nbsp; customer&amp;nbsp;&amp;nbsp; information&amp;nbsp; in&amp;nbsp; the&amp;nbsp; form&amp;nbsp; of&amp;nbsp; Bank&amp;nbsp; Account&amp;nbsp; Numbers&amp;nbsp; Recipes&amp;nbsp; of&amp;nbsp; Patented&amp;nbsp; products, etc. could be breached which would result in legal and regulatory actions on the Company on account of breach of confidential information.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-10">
+          <mxGeometry y="40" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-15" value="SA315 " style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="520" y="1240" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="1240" width="500" height="350" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-16" value="&lt;div&gt;♦Reliance&amp;nbsp;&amp;nbsp; on&amp;nbsp;&amp;nbsp; systems&amp;nbsp; or&amp;nbsp; programs&amp;nbsp; that&amp;nbsp; are&amp;nbsp; inaccurately&amp;nbsp; processing&amp;nbsp; data,&amp;nbsp; processing inaccurate data, or both. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Unauthorized access to data that may result in destruction of data or improper changes&amp;nbsp; to&amp;nbsp; data,&amp;nbsp; including&amp;nbsp; the&amp;nbsp; recording&amp;nbsp; of&amp;nbsp; unauthorized&amp;nbsp; or&amp;nbsp; non-existent transactions,&amp;nbsp; or&amp;nbsp; inaccurate&amp;nbsp; recording&amp;nbsp; of&amp;nbsp; transactions.&amp;nbsp; Particular&amp;nbsp; risks&amp;nbsp; may&amp;nbsp; arise&amp;nbsp; where multiple users access a common database.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; ♦The&amp;nbsp;&amp;nbsp; possibility&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; IT&amp;nbsp;&amp;nbsp; personnel&amp;nbsp;&amp;nbsp; gaining&amp;nbsp;&amp;nbsp; access&amp;nbsp;&amp;nbsp; privileges&amp;nbsp;&amp;nbsp; beyond&amp;nbsp;&amp;nbsp; those&amp;nbsp;&amp;nbsp; necessary to perform their assigned duties thereby breaking down segregation of duties. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Unauthorized changes to data in master files. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Unauthorized changes to systems or programs. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Failure to make necessary changes to systems or programs. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Inappropriate manual intervention. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Potential loss of data or inability to access data as required. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-15">
+          <mxGeometry y="40" width="500" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-18" value="Cyber &#xa;Security Risk" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="360" y="1300" width="120" height="40" as="geometry">
+            <mxRectangle x="360" y="1240" width="320" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-19" value="&lt;div&gt;♦A &lt;u&gt;&lt;b&gt;Direct&amp;nbsp; Financial&amp;nbsp; Impact&lt;/b&gt;&lt;/u&gt;&amp;nbsp; could&amp;nbsp; be&amp;nbsp; if&amp;nbsp; the&amp;nbsp; Application&amp;nbsp; at&amp;nbsp; the&amp;nbsp; Company’s&amp;nbsp; Retailers&amp;nbsp; which&amp;nbsp; contains&amp;nbsp; financial&amp;nbsp; information&amp;nbsp; has&amp;nbsp; weak&amp;nbsp; passwords&amp;nbsp; at&amp;nbsp; all&amp;nbsp; Open Systems Interconnection (OSI) layers resulting in harming the integrity of data.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦An&amp;nbsp;&amp;nbsp; &lt;u&gt;&lt;b&gt;Indirect&amp;nbsp;&amp;nbsp; Operational&amp;nbsp;&amp;nbsp; Impact&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&amp;nbsp; could&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; if&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; sensitive&amp;nbsp;&amp;nbsp; customer&amp;nbsp;&amp;nbsp; information&amp;nbsp; in&amp;nbsp; the&amp;nbsp; form&amp;nbsp; of&amp;nbsp; Bank&amp;nbsp; Account&amp;nbsp; Numbers&amp;nbsp; Recipes&amp;nbsp; of&amp;nbsp; Patented&amp;nbsp; products, etc. could be breached which would result in legal and regulatory actions on the Company on account of breach of confidential information.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Cj6t33-h_uaLePJBkrsk-18">
+          <mxGeometry y="40" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-22" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
