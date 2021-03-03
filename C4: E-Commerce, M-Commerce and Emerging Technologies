@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T20:42:35.342Z" agent="5.0 (X11)" etag="j8mXTtBbWrgR88JxsCsy" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T20:57:45.934Z" agent="5.0 (X11)" etag="us3qiLOkMaGksOqxe8tn" version="14.4.3" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
     <mxGraphModel dx="860" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -678,6 +678,9 @@
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-58" value="&lt;b&gt;Section&amp;nbsp; 14&lt;/b&gt;, Secure electronic record. " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="990" y="850" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-64" value="GUIDELINES&amp;nbsp; AND&amp;nbsp; LAWS&amp;nbsp; GOVERNING&amp;nbsp; E-COMMERCE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
