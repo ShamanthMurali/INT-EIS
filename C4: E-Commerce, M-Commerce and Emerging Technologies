@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T20:50:59.760Z" agent="5.0 (X11)" etag="DWsjvlwD4NqBqMYbvDAS" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T21:45:47.956Z" agent="5.0 (X11)" etag="ootebQI_oxhLkVgAQn2g" version="14.4.4" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
     <mxGraphModel dx="862" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -978,27 +978,33 @@
         <mxCell id="mX5zIoZEDIJDonC2avRV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-2" target="mX5zIoZEDIJDonC2avRV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mX5zIoZEDIJDonC2avRV-5" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="2360" y="300" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mX5zIoZEDIJDonC2avRV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-5">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="mX5zIoZEDIJDonC2avRV-7" value="Drawbacks" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="2520" y="300" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mX5zIoZEDIJDonC2avRV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-7">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-11" target="mX5zIoZEDIJDonC2avRV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-11" value="The&amp;nbsp; Cloud”&amp;nbsp; refers&amp;nbsp; to&amp;nbsp; applications,&amp;nbsp; services,&amp;nbsp; and&amp;nbsp; data&amp;nbsp; storage&amp;nbsp; on&amp;nbsp; the&amp;nbsp; Internet." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2360" y="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-7" target="mX5zIoZEDIJDonC2avRV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-7" value="Drawbacks" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2520" y="300" width="120" height="40" as="geometry">
+            <mxRectangle x="2520" y="300" width="260" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-8" value="&lt;div&gt;1.&amp;nbsp; Internet&amp;nbsp; connection &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Security&lt;/div&gt;&lt;div&gt;3. user/owner does not have control as it is maintained by them.&lt;/div&gt;&lt;div&gt;4. depending on the vendor the customer may face some restrictions&lt;/div&gt;&lt;div&gt;5. it may be not be compatible with other software&#39;s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-7">
+          <mxGeometry y="40" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-5" target="mX5zIoZEDIJDonC2avRV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-5" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2360" y="300" width="120" height="40" as="geometry">
+            <mxRectangle x="2360" y="300" width="550" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-6" value="&lt;u&gt;&lt;b&gt;♦Achieve&amp;nbsp; economies&amp;nbsp; of&amp;nbsp; scale&lt;/b&gt;&lt;/u&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Reduce&amp;nbsp;&amp;nbsp;&amp;nbsp; spending&amp;nbsp;&amp;nbsp;&amp;nbsp; on&amp;nbsp;&amp;nbsp;&amp;nbsp; technology&amp;nbsp;&amp;nbsp;&amp;nbsp; infrastructure:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Data&amp;nbsp;&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp;&amp;nbsp; information can be accessed with minimal upfront spending in a pay-as-you-go&amp;nbsp; approach,&amp;nbsp; which&amp;nbsp; is&amp;nbsp; based&amp;nbsp; on&amp;nbsp; demand. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Globalize the workforce:&lt;/b&gt;&lt;/u&gt; People worldwide can access the cloud with Internet connection. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Streamline&amp;nbsp; business&amp;nbsp; processes:&lt;/b&gt;&lt;/u&gt; Getting more work done in less time with less resources are possible.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Reduce&amp;nbsp;&amp;nbsp; capital&amp;nbsp;&amp;nbsp; costs:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&amp;nbsp; Not&amp;nbsp;&amp;nbsp; required&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; spend&amp;nbsp;&amp;nbsp; huge&amp;nbsp;&amp;nbsp; money&amp;nbsp;&amp;nbsp; on&amp;nbsp;&amp;nbsp; hardware, software, or licensing fees.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Easy&amp;nbsp;&amp;nbsp;&amp;nbsp; access&amp;nbsp;&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp;&amp;nbsp; information/applications:&lt;/b&gt;&lt;/u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; One&amp;nbsp;&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp;&amp;nbsp; access&amp;nbsp;&amp;nbsp;&amp;nbsp; information&amp;nbsp; and&amp;nbsp; applications&amp;nbsp; as&amp;nbsp; utilities,&amp;nbsp; anytime,&amp;nbsp; anywhere,&amp;nbsp; over&amp;nbsp; the&amp;nbsp; internet using any smart computing device.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Pervasive&amp;nbsp;&amp;nbsp; accessibility:&lt;/b&gt;&lt;/u&gt; Data&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; applications&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp; accesses&amp;nbsp;&amp;nbsp; anytime, anywhere, using any smart computing device, making our life so much easier.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Backup and Recovery:&lt;/b&gt;&lt;/u&gt;&amp;nbsp; It is relatively much easier to backup and restore data stored in cloud. Even if one hard disk fails, data will be safe and will continue to be available automatically on another one.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Monitor&amp;nbsp; projects&amp;nbsp; more&amp;nbsp; effectively:&lt;/b&gt;&lt;/u&gt;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; feasible&amp;nbsp; to&amp;nbsp; confine&amp;nbsp; within&amp;nbsp; budgetary allocations and can be ahead of completion cycle times.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Less personnel training is needed:&lt;/b&gt;&lt;/u&gt; It takes fewer people to do more work&amp;nbsp; on&amp;nbsp; a&amp;nbsp; cloud,&amp;nbsp; with&amp;nbsp; a&amp;nbsp; minimal&amp;nbsp; learning&amp;nbsp; curve&amp;nbsp; on&amp;nbsp; hardware&amp;nbsp; and&amp;nbsp; software issues.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Minimize&amp;nbsp; maintenance&amp;nbsp; and&amp;nbsp; licensing&amp;nbsp; software&lt;/b&gt;&lt;/u&gt;:&amp;nbsp; As&amp;nbsp; there&amp;nbsp; is&amp;nbsp; no&amp;nbsp; too&amp;nbsp; much&amp;nbsp; of&amp;nbsp; non-premise&amp;nbsp; computing&amp;nbsp; resources,&amp;nbsp; maintenance&amp;nbsp; becomes&amp;nbsp; simple&amp;nbsp; and&amp;nbsp; updates&amp;nbsp; and&amp;nbsp; renewals&amp;nbsp; of&amp;nbsp; software&amp;nbsp; systems&amp;nbsp; rely&amp;nbsp; on&amp;nbsp; the&amp;nbsp; cloud vendor or provider.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Load balancing:&lt;/b&gt;&lt;/u&gt; Cloud computing offers load balancing that makes it more reliable.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;♦Improved&amp;nbsp; flexibility:&lt;/b&gt;&lt;/u&gt;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; possible&amp;nbsp; to&amp;nbsp; make&amp;nbsp; fast&amp;nbsp; changes&amp;nbsp; in&amp;nbsp; our&amp;nbsp; work&amp;nbsp; environment without serious issues at stake. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-5">
+          <mxGeometry y="40" width="550" height="570" as="geometry" />
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-2" value="Characteristics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2440" y="220" width="120" height="40" as="geometry">
@@ -1007,6 +1013,71 @@
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-3" value="&lt;div&gt;1. Elasticity&amp;nbsp; and&amp;nbsp; Scalability&lt;/div&gt;&lt;div&gt;2. Pay-per-Use&lt;/div&gt;&lt;div&gt;3. On-demand&lt;/div&gt;&lt;div&gt;4. Resiliency: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;can&amp;nbsp; completely&amp;nbsp; isolate&amp;nbsp; the&amp;nbsp; failure&amp;nbsp; of&amp;nbsp; server&amp;nbsp; and&amp;nbsp; storage&amp;nbsp; resources&amp;nbsp; from&amp;nbsp; cloud&amp;nbsp; users.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;5. Multi&amp;nbsp; Tenancy &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;can&amp;nbsp; host&amp;nbsp; the&amp;nbsp; cloud services for multiple users within the same infrastructure. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Workload&amp;nbsp; Movement&lt;/div&gt;&lt;div&gt;7. Wide Range of Network Access Capacities&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;an be accessed from different devices such&amp;nbsp; as&amp;nbsp; desktop&amp;nbsp; computers,&amp;nbsp; mobile&amp;nbsp; phones,&amp;nbsp; smartphones&amp;nbsp; and&amp;nbsp; tablet&amp;nbsp; devices.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-2">
           <mxGeometry y="40" width="400" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-14" target="mX5zIoZEDIJDonC2avRV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;&lt;b&gt;types of cloud&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="380" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-17" value="hybrid cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-19" value="public cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-20" value="community cloud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-33" value="limitation" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2200" y="620" width="120" height="40" as="geometry">
+            <mxRectangle x="2200" y="620" width="330" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-34" value="&lt;div&gt;1. IT&amp;nbsp; teams&amp;nbsp; in&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; may&amp;nbsp; have&amp;nbsp; to&amp;nbsp; invest&amp;nbsp; in&amp;nbsp; buying,&amp;nbsp; building&amp;nbsp; and&amp;nbsp; managing&amp;nbsp; the&amp;nbsp; clouds&amp;nbsp; independently.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Private&amp;nbsp; cloud&amp;nbsp; resources&amp;nbsp; are&amp;nbsp; not&amp;nbsp; as&amp;nbsp; cost-effective&amp;nbsp; as&amp;nbsp; public&amp;nbsp; clouds &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 3. they&amp;nbsp; have&amp;nbsp; weak&amp;nbsp; SLAs. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; 4. The&amp;nbsp; organizations&amp;nbsp; require&amp;nbsp; more&amp;nbsp; skilled and expert employees to manage private clouds.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-33">
+          <mxGeometry y="40" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-30" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2200" y="560" width="120" height="40" as="geometry">
+            <mxRectangle x="2200" y="560" width="330" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-31" value="&lt;div&gt;♦It improves average server utilization; allows&amp;nbsp;&amp;nbsp; usage of low-cost serversand&amp;nbsp; hardware&amp;nbsp; while&amp;nbsp; providing&amp;nbsp; higher&amp;nbsp; efficiencies;&amp;nbsp; thus,&amp;nbsp; reducing&amp;nbsp; thecosts that a greater number of servers would otherwise entail.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦It&amp;nbsp; provides&amp;nbsp; a&amp;nbsp; high&amp;nbsp; level&amp;nbsp; of&amp;nbsp; security&amp;nbsp; and&amp;nbsp; privacy&amp;nbsp; to&amp;nbsp; the&amp;nbsp; user as&amp;nbsp; privatecloud operations are not available to general public.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦It is small and controlled and maintained by the organization&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-30">
+          <mxGeometry y="40" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-25" value="Characteristics" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2200" y="500" width="120" height="40" as="geometry">
+            <mxRectangle x="2200" y="500" width="330" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-26" value="&lt;div&gt;1. Secure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Central&amp;nbsp; Control:&amp;nbsp; &lt;font style=&quot;font-size: 8px&quot;&gt;As&amp;nbsp; usually&amp;nbsp; the&amp;nbsp; private&amp;nbsp; cloud&amp;nbsp; is&amp;nbsp; managed&amp;nbsp; by&amp;nbsp; theorganization&amp;nbsp; itself,&amp;nbsp; there&amp;nbsp; is&amp;nbsp; no&amp;nbsp; need&amp;nbsp; for&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; to&amp;nbsp; rely&amp;nbsp; onanybody and it is controlled by the organization itself.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. Weak&amp;nbsp; Service&amp;nbsp; Level&amp;nbsp; Agreements&amp;nbsp; (SLAs):&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;A service-level agreement (SLA) defines the level of service you expect from a vendor, laying out the metrics by which service is measured. Formal SLAs do not exist or are weak as it is between theorganization and user of the same organization. Thus, high availabilityand good service may or may not be available.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-25">
+          <mxGeometry y="40" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-18" value="Private cloud" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2190" y="440" width="140" height="40" as="geometry">
+            <mxRectangle x="2200" y="440" width="290" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-28" value="&amp;nbsp;This&amp;nbsp;&amp;nbsp; cloud&amp;nbsp;&amp;nbsp; computing&amp;nbsp;&amp;nbsp; environment&amp;nbsp;&amp;nbsp; resides&amp;nbsp;&amp;nbsp; within&amp;nbsp;&amp;nbsp; theboundaries of an organization and is used exclusively for the organization’sbenefits. These are also called Internal Clouds or Corporate Clouds. PrivateClouds can either be private to the organization and managed by the singleorganization (On-Premise&amp;nbsp; Private&amp;nbsp; Cloud)&amp;nbsp; or&amp;nbsp; can&amp;nbsp; be&amp;nbsp; managed&amp;nbsp; by&amp;nbsp; thirdparty (Outsourced&amp;nbsp;&amp;nbsp; Private&amp;nbsp;&amp;nbsp; Cloud)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mX5zIoZEDIJDonC2avRV-18">
+          <mxGeometry y="40" width="290" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
