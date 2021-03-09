@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T15:59:01.800Z" agent="5.0 (X11)" etag="ZYI5GpGFGcNRQDEqZXax" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T16:23:47.687Z" agent="5.0 (X11)" etag="p3KkjbSaHaP73OlqJGYJ" version="14.4.4" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="499" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1012,14 +1012,6 @@
         <mxCell id="mX5zIoZEDIJDonC2avRV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mX5zIoZEDIJDonC2avRV-7" target="mX5zIoZEDIJDonC2avRV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mX5zIoZEDIJDonC2avRV-7" value="Drawbacks" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2520" y="300" width="120" height="40" as="geometry">
-            <mxRectangle x="2520" y="300" width="260" height="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mX5zIoZEDIJDonC2avRV-8" value="&lt;div&gt;1.&amp;nbsp; Internet&amp;nbsp; connection &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Security&lt;/div&gt;&lt;div&gt;3. user/owner does not have control as it is maintained by them.&lt;/div&gt;&lt;div&gt;4. depending on the vendor the customer may face some restrictions&lt;/div&gt;&lt;div&gt;5. it may be not be compatible with other software&#39;s&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="mX5zIoZEDIJDonC2avRV-7" vertex="1">
-          <mxGeometry y="40" width="260" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mX5zIoZEDIJDonC2avRV-5" target="mX5zIoZEDIJDonC2avRV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1447,6 +1439,14 @@
         </mxCell>
         <mxCell id="hCnkFNOP021uIEBsV8pS-38" value="Allows users to explore functionality of Web services such as Google Maps, Payroll processing, and credit card processing services etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-37">
           <mxGeometry y="40" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-7" value="Drawbacks" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="2520" y="300" width="120" height="40" as="geometry">
+            <mxRectangle x="2520" y="300" width="270" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mX5zIoZEDIJDonC2avRV-8" value="&lt;div&gt;1.&amp;nbsp; Internet&amp;nbsp; connection &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Security&lt;/div&gt;&lt;div&gt;3. user/owner does not have control as it is maintained by them.&lt;/div&gt;&lt;div&gt;4. depending on the vendor the customer may face some restrictions&lt;/div&gt;&lt;div&gt;5. it may be not be compatible with other software&#39;s&lt;/div&gt;&lt;div&gt;6. hidden costs&lt;/div&gt;&lt;div&gt;7. legal issues&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="mX5zIoZEDIJDonC2avRV-7" vertex="1">
+          <mxGeometry y="40" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
