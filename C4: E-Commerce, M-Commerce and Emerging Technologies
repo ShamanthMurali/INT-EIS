@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T16:34:24.545Z" agent="5.0 (X11)" etag="-nGRGqUH-kyD0salUWLC" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T03:49:49.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="xQLzTlWA0Sk1n53-aztD" version="14.4.7" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1040" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="871" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,71 +269,6 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-115" value="Data&amp;nbsp; Interchange&amp;nbsp; is&amp;nbsp; an&amp;nbsp; electronic&amp;nbsp; communication of&amp;nbsp; data.&amp;nbsp; For&amp;nbsp; ensuring&amp;nbsp; the&amp;nbsp; correctness&amp;nbsp; of&amp;nbsp; data&amp;nbsp; interchange" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_V5_Tny7rc_aiCJH9v1E-61" vertex="1" visible="0">
           <mxGeometry x="165" y="280" width="405" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-59" value="E-commerce &#xa;Vendors" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="140" y="580" width="120" height="40" as="geometry">
-            <mxRectangle x="140" y="580" width="410" height="730" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry y="40" width="410" height="690" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-80" target="_V5_Tny7rc_aiCJH9v1E-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-80" value="&amp;nbsp;This&amp;nbsp; is&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; /&amp;nbsp; entity&amp;nbsp; providing&amp;nbsp; the&amp;nbsp; user, goods/&amp;nbsp; services&amp;nbsp; asked&amp;nbsp; for." style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="92.5" y="50" width="225" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-81" target="_V5_Tny7rc_aiCJH9v1E-82" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-81" value="vendors further needs to ensure following for better, effective and efficient transaction :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="25" y="120" width="360" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-82" target="_V5_Tny7rc_aiCJH9v1E-83" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-82" value="&lt;div&gt;Suppliers&amp;nbsp; and&amp;nbsp; Supply&amp;nbsp; Chain&amp;nbsp; Management:&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;♦they have enough and the right goods suppliers.♦they (suppliers) are financially and operationally safe. ♦suppliers are able to provide real-time stock inventory.♦the order to deliver time is very short.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="170" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-83" target="_V5_Tny7rc_aiCJH9v1E-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-83" value="&lt;div&gt;Warehouse&amp;nbsp; operations:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;When&amp;nbsp; a&amp;nbsp; product&amp;nbsp; is&amp;nbsp; bought,&amp;nbsp; it&amp;nbsp; is&amp;nbsp; delivered&amp;nbsp; from&amp;nbsp; the warehouse of e-commerce vendor.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="240" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-84" target="_V5_Tny7rc_aiCJH9v1E-89" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-84" value="&lt;div&gt;E-Commerce catalogue&amp;nbsp; and&amp;nbsp; product&amp;nbsp; display:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;Proper&amp;nbsp; display&amp;nbsp; of&amp;nbsp; all&amp;nbsp; products&amp;nbsp; being&amp;nbsp; sold&amp;nbsp; by&amp;nbsp; vendor&amp;nbsp; including&amp;nbsp; product&amp;nbsp; details,&amp;nbsp; technical&amp;nbsp; specifications,&amp;nbsp; makes&amp;nbsp; for&amp;nbsp; a&amp;nbsp; better&amp;nbsp; sales&amp;nbsp; conversion&amp;nbsp; ratio.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="310" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-89" target="_V5_Tny7rc_aiCJH9v1E-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-89" value="&lt;div&gt;Marketing and loyalty programs:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;Loyalty programs establish a long-term relationship&amp;nbsp; with&amp;nbsp; customer.&lt;/font&gt;&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="380" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-91" target="_V5_Tny7rc_aiCJH9v1E-93" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-91" value="&lt;div&gt;Different&amp;nbsp; Ordering&amp;nbsp; Methods: &lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;These&amp;nbsp; are&amp;nbsp; the&amp;nbsp; ways&amp;nbsp; customer&amp;nbsp; can&amp;nbsp; place&amp;nbsp; his/her order, say Cash on Delivery.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="450" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-96" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-93" target="_V5_Tny7rc_aiCJH9v1E-95" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-93" value="Guarantees" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="520" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-95" target="_V5_Tny7rc_aiCJH9v1E-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-95" value="Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="590" width="380" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-97" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
-          <mxGeometry x="15" y="660" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-67" value="Payment Gateway" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="600" y="520" width="120" height="40" as="geometry">
@@ -882,7 +817,22 @@
         <mxCell id="mX5zIoZEDIJDonC2avRV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-20">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-1" target="2BL4Y43nh_PBAezUoOyc-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2BL4Y43nh_PBAezUoOyc-1" value="COMPUTING TECHNOLOGIES" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" parent="1" vertex="1">
@@ -932,32 +882,55 @@
         <mxCell id="2BL4Y43nh_PBAezUoOyc-19" value="Cloud Computing" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2440" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-20" target="hCnkFNOP021uIEBsV8pS-42" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2BL4Y43nh_PBAezUoOyc-20" target="hCnkFNOP021uIEBsV8pS-42" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-20" target="hCnkFNOP021uIEBsV8pS-44" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2BL4Y43nh_PBAezUoOyc-20" target="hCnkFNOP021uIEBsV8pS-44" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2BL4Y43nh_PBAezUoOyc-20" value="Mobile Computing" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2600" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2BL4Y43nh_PBAezUoOyc-21" value="Green Computing" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-21" target="xLXePYV-h6_TVxX8lGpK-4" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2820" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2BL4Y43nh_PBAezUoOyc-21" value="Green Computing" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2760" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2BL4Y43nh_PBAezUoOyc-22" value="Bring Your Own Device (BYOD)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-22" target="xLXePYV-h6_TVxX8lGpK-13" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BL4Y43nh_PBAezUoOyc-22" value="Bring Your Own Device (BYOD)" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="2920" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2BL4Y43nh_PBAezUoOyc-23" value="Web 3.0" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-23" target="xLXePYV-h6_TVxX8lGpK-40" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BL4Y43nh_PBAezUoOyc-23" value="Web 3.0" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="3080" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2BL4Y43nh_PBAezUoOyc-24" value="Internet of Things (IoT)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-24" target="xLXePYV-h6_TVxX8lGpK-43" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BL4Y43nh_PBAezUoOyc-24" value="Internet of Things (IoT)" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="3240" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2BL4Y43nh_PBAezUoOyc-25" value="Artificial Intelligence (AI)" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-25" target="xLXePYV-h6_TVxX8lGpK-51" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-25" target="2BL4Y43nh_PBAezUoOyc-26" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BL4Y43nh_PBAezUoOyc-25" value="Artificial Intelligence (AI)" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="3400" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2BL4Y43nh_PBAezUoOyc-26" value="Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="3560" y="100" width="120" height="40" as="geometry" />
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2BL4Y43nh_PBAezUoOyc-26" target="xLXePYV-h6_TVxX8lGpK-61" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2BL4Y43nh_PBAezUoOyc-26" value="Machine Learning" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="3760" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2BL4Y43nh_PBAezUoOyc-4" value="Application" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2120" y="240" width="120" height="40" as="geometry">
@@ -1293,47 +1266,47 @@
         <mxCell id="mX5zIoZEDIJDonC2avRV-88" value="Cloud computing is a model that enables the end users to access the shared pool of&amp;nbsp; resources&amp;nbsp; such&amp;nbsp; as&amp;nbsp; compute,&amp;nbsp; network,&amp;nbsp; storage,&amp;nbsp; database&amp;nbsp; and&amp;nbsp; application&amp;nbsp; as&amp;nbsp; an&amp;nbsp; on-demand&amp;nbsp; service&amp;nbsp; without&amp;nbsp; the&amp;nbsp; need&amp;nbsp; to&amp;nbsp; buy&amp;nbsp; or&amp;nbsp; own&amp;nbsp; it.&amp;nbsp; The&amp;nbsp; services&amp;nbsp; are&amp;nbsp; provided&amp;nbsp; and managed by the service provider, reducing the management effort from the end user side. The essential characteristics of the cloud include on-demand, self-service,&amp;nbsp; broad&amp;nbsp; network&amp;nbsp; access,&amp;nbsp; resource&amp;nbsp; pooling,&amp;nbsp; rapid&amp;nbsp; elasticity,&amp;nbsp; and&amp;nbsp; measured&amp;nbsp; service." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2230" y="760" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-90" target="hCnkFNOP021uIEBsV8pS-31" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mX5zIoZEDIJDonC2avRV-90" target="hCnkFNOP021uIEBsV8pS-31" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-90" value="Software as a&amp;nbsp; Service (SaaS)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2720" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-91" target="hCnkFNOP021uIEBsV8pS-29" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mX5zIoZEDIJDonC2avRV-91" target="hCnkFNOP021uIEBsV8pS-29" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-91" value="Platform as a&amp;nbsp; Service (PaaS)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2450" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mX5zIoZEDIJDonC2avRV-92" target="hCnkFNOP021uIEBsV8pS-1" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mX5zIoZEDIJDonC2avRV-92" target="hCnkFNOP021uIEBsV8pS-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-92" value="Infrastructure as a&amp;nbsp; Service (IaaS)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2160" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-1" target="hCnkFNOP021uIEBsV8pS-3" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-1" target="hCnkFNOP021uIEBsV8pS-3" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-1" target="hCnkFNOP021uIEBsV8pS-6" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hCnkFNOP021uIEBsV8pS-1" target="hCnkFNOP021uIEBsV8pS-6" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-1" value="a hardware-level service, provides computing&amp;nbsp; resources&amp;nbsp; such&amp;nbsp; as&amp;nbsp; processing&amp;nbsp; power,&amp;nbsp; memory,&amp;nbsp; storage,&amp;nbsp; and&amp;nbsp; networks&amp;nbsp; for&amp;nbsp; cloud&amp;nbsp; users&amp;nbsp; to&amp;nbsp; run&amp;nbsp; their&amp;nbsp; application&amp;nbsp; on-demand." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-1" value="a hardware-level service, provides computing&amp;nbsp; resources&amp;nbsp; such&amp;nbsp; as&amp;nbsp; processing&amp;nbsp; power,&amp;nbsp; memory,&amp;nbsp; storage,&amp;nbsp; and&amp;nbsp; networks&amp;nbsp; for&amp;nbsp; cloud&amp;nbsp; users&amp;nbsp; to&amp;nbsp; run&amp;nbsp; their&amp;nbsp; application&amp;nbsp; on-demand." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2080" y="980" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-3" value="Characteristics" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-3" value="Characteristics" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="2160" y="1080" width="120" height="40" as="geometry">
             <mxRectangle x="2160" y="1080" width="440" height="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-4" value="&lt;div&gt;♦Web access to the resources:The IaaS model enables the IT users to access&amp;nbsp; infrastructure&amp;nbsp; resources&amp;nbsp; over&amp;nbsp; the&amp;nbsp; Internet.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Centralized&amp;nbsp; Management: effective resource management and effective resource utilization. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Elasticity and Dynamic Scaling: Depending on the load, IaaS services can&amp;nbsp; provide&amp;nbsp; the&amp;nbsp; resources&amp;nbsp; and&amp;nbsp; elastic&amp;nbsp; services&amp;nbsp; where&amp;nbsp; the&amp;nbsp; usage&amp;nbsp; of&amp;nbsp; resources&amp;nbsp;&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; increased&amp;nbsp;&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp;&amp;nbsp; decreased&amp;nbsp;&amp;nbsp;&amp;nbsp; according&amp;nbsp;&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp;&amp;nbsp; requirements.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Shared&amp;nbsp; infrastructure:&amp;nbsp; IaaS&amp;nbsp; follows&amp;nbsp; a&amp;nbsp; one-to-many&amp;nbsp; delivery&amp;nbsp; model&amp;nbsp; and&amp;nbsp; allows&amp;nbsp; multiple&amp;nbsp; IT&amp;nbsp; users&amp;nbsp; to&amp;nbsp; share&amp;nbsp; the&amp;nbsp; same&amp;nbsp; physical&amp;nbsp; infrastructure and thus ensures high resource utilization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Metered&amp;nbsp; Services: users will be charged by the IaaS providers based on the amount of usage.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-3">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-4" value="&lt;div&gt;♦Web access to the resources:The IaaS model enables the IT users to access&amp;nbsp; infrastructure&amp;nbsp; resources&amp;nbsp; over&amp;nbsp; the&amp;nbsp; Internet.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Centralized&amp;nbsp; Management: effective resource management and effective resource utilization. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Elasticity and Dynamic Scaling: Depending on the load, IaaS services can&amp;nbsp; provide&amp;nbsp; the&amp;nbsp; resources&amp;nbsp; and&amp;nbsp; elastic&amp;nbsp; services&amp;nbsp; where&amp;nbsp; the&amp;nbsp; usage&amp;nbsp; of&amp;nbsp; resources&amp;nbsp;&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp;&amp;nbsp; be&amp;nbsp;&amp;nbsp;&amp;nbsp; increased&amp;nbsp;&amp;nbsp;&amp;nbsp; or&amp;nbsp;&amp;nbsp;&amp;nbsp; decreased&amp;nbsp;&amp;nbsp;&amp;nbsp; according&amp;nbsp;&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp;&amp;nbsp; requirements.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Shared&amp;nbsp; infrastructure:&amp;nbsp; IaaS&amp;nbsp; follows&amp;nbsp; a&amp;nbsp; one-to-many&amp;nbsp; delivery&amp;nbsp; model&amp;nbsp; and&amp;nbsp; allows&amp;nbsp; multiple&amp;nbsp; IT&amp;nbsp; users&amp;nbsp; to&amp;nbsp; share&amp;nbsp; the&amp;nbsp; same&amp;nbsp; physical&amp;nbsp; infrastructure and thus ensures high resource utilization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦Metered&amp;nbsp; Services: users will be charged by the IaaS providers based on the amount of usage.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-3" vertex="1">
           <mxGeometry y="40" width="440" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-21" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-21" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2220" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-9" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-9" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2220" y="1190" />
@@ -1341,7 +1314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-8" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-8" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2220" y="1190" />
@@ -1349,7 +1322,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-25" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-25" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2360" y="1220" as="targetPoint" />
             <Array as="points">
@@ -1358,7 +1331,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-23" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-6" target="hCnkFNOP021uIEBsV8pS-23" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2500.0000000000005" y="1220" as="targetPoint" />
             <Array as="points">
@@ -1367,86 +1340,86 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-6" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-6" value="&lt;u&gt;&lt;b&gt;Types&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2200" y="1150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-8" value="&lt;div&gt;Network as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (NaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-8" value="&lt;div&gt;Network as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (NaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="1880" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="1880" y="1220" width="430" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-19" value="&lt;div&gt;•Provides&amp;nbsp;&amp;nbsp; users&amp;nbsp;&amp;nbsp; with&amp;nbsp;&amp;nbsp; needed&amp;nbsp;&amp;nbsp; data&amp;nbsp;&amp;nbsp; communication&amp;nbsp;&amp;nbsp; capacity&amp;nbsp; to&amp;nbsp; accommodate&amp;nbsp; bursts&amp;nbsp; in&amp;nbsp; data&amp;nbsp; traffic&amp;nbsp; during&amp;nbsp; data-intensive&amp;nbsp; activities&amp;nbsp; such&amp;nbsp; as&amp;nbsp; video&amp;nbsp; conferencing&amp;nbsp; or&amp;nbsp; large file downloads.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; an&amp;nbsp; ability&amp;nbsp; given&amp;nbsp; to&amp;nbsp; the&amp;nbsp; end-users&amp;nbsp; to&amp;nbsp; access&amp;nbsp; virtual&amp;nbsp; network&amp;nbsp;&amp;nbsp; services&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; provided&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider over the Internet on a pay-per-use basis. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Allows&amp;nbsp; network&amp;nbsp; architects&amp;nbsp; to&amp;nbsp; create&amp;nbsp; virtual&amp;nbsp; networks;&amp;nbsp; virtual&amp;nbsp; network&amp;nbsp; interface&amp;nbsp; cards&amp;nbsp; (NICs),&amp;nbsp; virtual&amp;nbsp; routers,&amp;nbsp; virtual switches, and other networking components.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Allows the network architect to deploy custom routing protocols and&amp;nbsp;&amp;nbsp; enables&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; design&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; efficient&amp;nbsp;&amp;nbsp; in-network&amp;nbsp; services,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; data&amp;nbsp; aggregation,&amp;nbsp; stream&amp;nbsp; processing, and caching. NaaS providers operate using three common service models: Virtual Private Network (VPN), Bandwidth on Demand (BoD) and Mobile Virtual Network (MVN).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-8">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-19" value="&lt;div&gt;•Provides&amp;nbsp;&amp;nbsp; users&amp;nbsp;&amp;nbsp; with&amp;nbsp;&amp;nbsp; needed&amp;nbsp;&amp;nbsp; data&amp;nbsp;&amp;nbsp; communication&amp;nbsp;&amp;nbsp; capacity&amp;nbsp; to&amp;nbsp; accommodate&amp;nbsp; bursts&amp;nbsp; in&amp;nbsp; data&amp;nbsp; traffic&amp;nbsp; during&amp;nbsp; data-intensive&amp;nbsp; activities&amp;nbsp; such&amp;nbsp; as&amp;nbsp; video&amp;nbsp; conferencing&amp;nbsp; or&amp;nbsp; large file downloads.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; an&amp;nbsp; ability&amp;nbsp; given&amp;nbsp; to&amp;nbsp; the&amp;nbsp; end-users&amp;nbsp; to&amp;nbsp; access&amp;nbsp; virtual&amp;nbsp; network&amp;nbsp;&amp;nbsp; services&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp; provided&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider over the Internet on a pay-per-use basis. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Allows&amp;nbsp; network&amp;nbsp; architects&amp;nbsp; to&amp;nbsp; create&amp;nbsp; virtual&amp;nbsp; networks;&amp;nbsp; virtual&amp;nbsp; network&amp;nbsp; interface&amp;nbsp; cards&amp;nbsp; (NICs),&amp;nbsp; virtual&amp;nbsp; routers,&amp;nbsp; virtual switches, and other networking components.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•Allows the network architect to deploy custom routing protocols and&amp;nbsp;&amp;nbsp; enables&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; design&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; efficient&amp;nbsp;&amp;nbsp; in-network&amp;nbsp; services,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; data&amp;nbsp; aggregation,&amp;nbsp; stream&amp;nbsp; processing, and caching. NaaS providers operate using three common service models: Virtual Private Network (VPN), Bandwidth on Demand (BoD) and Mobile Virtual Network (MVN).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-8" vertex="1">
           <mxGeometry y="40" width="430" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-9" value="&lt;div&gt;Storage as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (STaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-9" value="&lt;div&gt;Storage as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (STaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2020" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="2020" y="1220" width="370" height="280" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-20" value="&lt;div&gt;•Provides&amp;nbsp; storage&amp;nbsp; infrastructure&amp;nbsp; on&amp;nbsp; a&amp;nbsp; subscription&amp;nbsp; basis&amp;nbsp; to&amp;nbsp; users&amp;nbsp; who&amp;nbsp; want&amp;nbsp; a&amp;nbsp; low-cost&amp;nbsp; and&amp;nbsp; convenient&amp;nbsp; way&amp;nbsp; to&amp;nbsp; store&amp;nbsp; data,&amp;nbsp; synchronize&amp;nbsp; data&amp;nbsp; across&amp;nbsp; multiple&amp;nbsp; devices,&amp;nbsp; manage&amp;nbsp; off-site&amp;nbsp; backups,&amp;nbsp; mitigate&amp;nbsp; risks&amp;nbsp; of&amp;nbsp; disaster&amp;nbsp; recovery, and preserve records for the long-term. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•It is an ability given to the end users to store the data on&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; storage&amp;nbsp;&amp;nbsp; services&amp;nbsp;&amp;nbsp; provided&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•STaaS&amp;nbsp; allows&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; to&amp;nbsp; access&amp;nbsp; the&amp;nbsp; files&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; from&amp;nbsp; any&amp;nbsp; place.&amp;nbsp; STaaS&amp;nbsp; provider&amp;nbsp; provides&amp;nbsp; the&amp;nbsp; virtual&amp;nbsp; storage&amp;nbsp; that&amp;nbsp; is&amp;nbsp; abstracted&amp;nbsp; from&amp;nbsp; the&amp;nbsp; physical&amp;nbsp; storage of any cloud data center.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-9">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-20" value="&lt;div&gt;•Provides&amp;nbsp; storage&amp;nbsp; infrastructure&amp;nbsp; on&amp;nbsp; a&amp;nbsp; subscription&amp;nbsp; basis&amp;nbsp; to&amp;nbsp; users&amp;nbsp; who&amp;nbsp; want&amp;nbsp; a&amp;nbsp; low-cost&amp;nbsp; and&amp;nbsp; convenient&amp;nbsp; way&amp;nbsp; to&amp;nbsp; store&amp;nbsp; data,&amp;nbsp; synchronize&amp;nbsp; data&amp;nbsp; across&amp;nbsp; multiple&amp;nbsp; devices,&amp;nbsp; manage&amp;nbsp; off-site&amp;nbsp; backups,&amp;nbsp; mitigate&amp;nbsp; risks&amp;nbsp; of&amp;nbsp; disaster&amp;nbsp; recovery, and preserve records for the long-term. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•It is an ability given to the end users to store the data on&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; storage&amp;nbsp;&amp;nbsp; services&amp;nbsp;&amp;nbsp; provided&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•STaaS&amp;nbsp; allows&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; to&amp;nbsp; access&amp;nbsp; the&amp;nbsp; files&amp;nbsp; at&amp;nbsp; any&amp;nbsp; time&amp;nbsp; from&amp;nbsp; any&amp;nbsp; place.&amp;nbsp; STaaS&amp;nbsp; provider&amp;nbsp; provides&amp;nbsp; the&amp;nbsp; virtual&amp;nbsp; storage&amp;nbsp; that&amp;nbsp; is&amp;nbsp; abstracted&amp;nbsp; from&amp;nbsp; the&amp;nbsp; physical&amp;nbsp; storage of any cloud data center.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-9" vertex="1">
           <mxGeometry y="40" width="370" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-21" value="&lt;div&gt;Database as&lt;/div&gt;&lt;div&gt; a Service (DBaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-21" value="&lt;div&gt;Database as&lt;/div&gt;&lt;div&gt; a Service (DBaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2160" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="2160" y="1220" width="370" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-22" value="&lt;div&gt;•Provides&amp;nbsp; users&amp;nbsp; with&amp;nbsp; seamless&amp;nbsp; mechanisms&amp;nbsp; to&amp;nbsp; create,&amp;nbsp; store, and access databases at a host site on demand. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; •&amp;nbsp;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; an&amp;nbsp; ability&amp;nbsp; given&amp;nbsp; to&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; to&amp;nbsp; access&amp;nbsp; the database&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; without&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; need&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; install&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; maintain it on the pay-per-use basis. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•The&amp;nbsp;&amp;nbsp; end&amp;nbsp;&amp;nbsp; users&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp; access&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; database&amp;nbsp;&amp;nbsp; services&amp;nbsp;&amp;nbsp; through any Application Programming Interfaces (APIs) or&amp;nbsp;&amp;nbsp; Web&amp;nbsp;&amp;nbsp; User&amp;nbsp;&amp;nbsp; Interfaces&amp;nbsp;&amp;nbsp; provided&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-21">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-22" value="&lt;div&gt;•Provides&amp;nbsp; users&amp;nbsp; with&amp;nbsp; seamless&amp;nbsp; mechanisms&amp;nbsp; to&amp;nbsp; create,&amp;nbsp; store, and access databases at a host site on demand. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; •&amp;nbsp;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; an&amp;nbsp; ability&amp;nbsp; given&amp;nbsp; to&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; to&amp;nbsp; access&amp;nbsp; the database&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; without&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; need&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; install&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; maintain it on the pay-per-use basis. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•The&amp;nbsp;&amp;nbsp; end&amp;nbsp;&amp;nbsp; users&amp;nbsp;&amp;nbsp; can&amp;nbsp;&amp;nbsp; access&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; database&amp;nbsp;&amp;nbsp; services&amp;nbsp;&amp;nbsp; through any Application Programming Interfaces (APIs) or&amp;nbsp;&amp;nbsp; Web&amp;nbsp;&amp;nbsp; User&amp;nbsp;&amp;nbsp; Interfaces&amp;nbsp;&amp;nbsp; provided&amp;nbsp;&amp;nbsp; by&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-21" vertex="1">
           <mxGeometry y="40" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-23" value="&lt;div&gt;Desktop as&lt;/div&gt;&lt;div&gt; a Service (DTaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-23" value="&lt;div&gt;Desktop as&lt;/div&gt;&lt;div&gt; a Service (DTaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2440" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="1690" y="1320" width="370" height="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-24" value="&lt;div&gt;•Provides&amp;nbsp;&amp;nbsp; ability&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; end&amp;nbsp;&amp;nbsp; users&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; use&amp;nbsp;&amp;nbsp; desktop&amp;nbsp;&amp;nbsp; virtualization&amp;nbsp; without&amp;nbsp; buying&amp;nbsp; and&amp;nbsp; managing&amp;nbsp; their&amp;nbsp; own&amp;nbsp; infrastructure. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; a&amp;nbsp; pay-per-use&amp;nbsp; cloud&amp;nbsp; service&amp;nbsp; delivery&amp;nbsp; model&amp;nbsp; in which&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider&amp;nbsp;&amp;nbsp; manages&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; back-end responsibilities&amp;nbsp; of&amp;nbsp; data&amp;nbsp; storage,&amp;nbsp; backup,&amp;nbsp; security&amp;nbsp; and&amp;nbsp; upgrades. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; The&amp;nbsp;&amp;nbsp;&amp;nbsp; end-users&amp;nbsp;&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp;&amp;nbsp; responsible&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; securing&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; managing their own desktop images, applications, and security. These services are simple to deploy, are highly secure,&amp;nbsp; and&amp;nbsp; produce&amp;nbsp; better&amp;nbsp; experience&amp;nbsp; on&amp;nbsp; almost&amp;nbsp; all&amp;nbsp; devices. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-23">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-24" value="&lt;div&gt;•Provides&amp;nbsp;&amp;nbsp; ability&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; end&amp;nbsp;&amp;nbsp; users&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; use&amp;nbsp;&amp;nbsp; desktop&amp;nbsp;&amp;nbsp; virtualization&amp;nbsp; without&amp;nbsp; buying&amp;nbsp; and&amp;nbsp; managing&amp;nbsp; their&amp;nbsp; own&amp;nbsp; infrastructure. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; It&amp;nbsp; is&amp;nbsp; a&amp;nbsp; pay-per-use&amp;nbsp; cloud&amp;nbsp; service&amp;nbsp; delivery&amp;nbsp; model&amp;nbsp; in which&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; service&amp;nbsp;&amp;nbsp; provider&amp;nbsp;&amp;nbsp; manages&amp;nbsp;&amp;nbsp; the&amp;nbsp;&amp;nbsp; back-end responsibilities&amp;nbsp; of&amp;nbsp; data&amp;nbsp; storage,&amp;nbsp; backup,&amp;nbsp; security&amp;nbsp; and&amp;nbsp; upgrades. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;•&amp;nbsp;&amp;nbsp; The&amp;nbsp;&amp;nbsp;&amp;nbsp; end-users&amp;nbsp;&amp;nbsp;&amp;nbsp; are&amp;nbsp;&amp;nbsp;&amp;nbsp; responsible&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; securing&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; managing their own desktop images, applications, and security. These services are simple to deploy, are highly secure,&amp;nbsp; and&amp;nbsp; produce&amp;nbsp; better&amp;nbsp; experience&amp;nbsp; on&amp;nbsp; almost&amp;nbsp; all&amp;nbsp; devices. &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-23" vertex="1">
           <mxGeometry y="40" width="370" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-25" value="&lt;div&gt;Backend as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (BaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-25" value="&lt;div&gt;Backend as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (BaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2300" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="2175" y="1300" width="370" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-26" value="Provides&amp;nbsp; web&amp;nbsp; and&amp;nbsp; mobile&amp;nbsp; app&amp;nbsp; developers&amp;nbsp; a&amp;nbsp; way&amp;nbsp; to&amp;nbsp; connect&amp;nbsp; their&amp;nbsp; applications&amp;nbsp; to&amp;nbsp; backend&amp;nbsp; cloud&amp;nbsp; storage&amp;nbsp; with&amp;nbsp; added&amp;nbsp; services&amp;nbsp; such&amp;nbsp; as&amp;nbsp; user&amp;nbsp; management,&amp;nbsp; push&amp;nbsp; notifications,&amp;nbsp; social&amp;nbsp; network&amp;nbsp; services&amp;nbsp; integration&amp;nbsp; using&amp;nbsp; custom&amp;nbsp;&amp;nbsp; software&amp;nbsp;&amp;nbsp; development&amp;nbsp;&amp;nbsp; kits&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; application&amp;nbsp;&amp;nbsp; programming interfaces." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-25">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-26" value="Provides&amp;nbsp; web&amp;nbsp; and&amp;nbsp; mobile&amp;nbsp; app&amp;nbsp; developers&amp;nbsp; a&amp;nbsp; way&amp;nbsp; to&amp;nbsp; connect&amp;nbsp; their&amp;nbsp; applications&amp;nbsp; to&amp;nbsp; backend&amp;nbsp; cloud&amp;nbsp; storage&amp;nbsp; with&amp;nbsp; added&amp;nbsp; services&amp;nbsp; such&amp;nbsp; as&amp;nbsp; user&amp;nbsp; management,&amp;nbsp; push&amp;nbsp; notifications,&amp;nbsp; social&amp;nbsp; network&amp;nbsp; services&amp;nbsp; integration&amp;nbsp; using&amp;nbsp; custom&amp;nbsp;&amp;nbsp; software&amp;nbsp;&amp;nbsp; development&amp;nbsp;&amp;nbsp; kits&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp; application&amp;nbsp;&amp;nbsp; programming interfaces." style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-25" vertex="1">
           <mxGeometry y="40" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-29" value="a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-29" value="a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2380" y="980" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-31" target="hCnkFNOP021uIEBsV8pS-37" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-31" target="hCnkFNOP021uIEBsV8pS-37" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-31" target="hCnkFNOP021uIEBsV8pS-33" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-31" target="hCnkFNOP021uIEBsV8pS-33" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-31" target="hCnkFNOP021uIEBsV8pS-35" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-31" target="hCnkFNOP021uIEBsV8pS-35" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-31" value="provides&amp;nbsp; ability&amp;nbsp; to&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; to&amp;nbsp; access an application over the Internet that is hosted and managed by the service&amp;nbsp; provider.&amp;nbsp; Thus,&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; are&amp;nbsp; exempted&amp;nbsp; from&amp;nbsp; managing&amp;nbsp; or&amp;nbsp; controlling&amp;nbsp; an&amp;nbsp; application&amp;nbsp; the&amp;nbsp; development&amp;nbsp; platform,&amp;nbsp; and&amp;nbsp; the&amp;nbsp; underlying&amp;nbsp; infrastructure.&amp;nbsp;&amp;nbsp; The&amp;nbsp; main&amp;nbsp; difference&amp;nbsp; between&amp;nbsp; SaaS&amp;nbsp; and&amp;nbsp; PaaS&amp;nbsp; is&amp;nbsp; that&amp;nbsp; PaaS&amp;nbsp; normally&amp;nbsp; represents&amp;nbsp; a&amp;nbsp; platform&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; application&amp;nbsp;&amp;nbsp;&amp;nbsp; development,&amp;nbsp;&amp;nbsp;&amp;nbsp; while&amp;nbsp;&amp;nbsp;&amp;nbsp; SaaS&amp;nbsp;&amp;nbsp;&amp;nbsp; provides&amp;nbsp;&amp;nbsp;&amp;nbsp; online&amp;nbsp;&amp;nbsp;&amp;nbsp; applications that are already developed." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-31" value="provides&amp;nbsp; ability&amp;nbsp; to&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; to&amp;nbsp; access an application over the Internet that is hosted and managed by the service&amp;nbsp; provider.&amp;nbsp; Thus,&amp;nbsp; the&amp;nbsp; end&amp;nbsp; users&amp;nbsp; are&amp;nbsp; exempted&amp;nbsp; from&amp;nbsp; managing&amp;nbsp; or&amp;nbsp; controlling&amp;nbsp; an&amp;nbsp; application&amp;nbsp; the&amp;nbsp; development&amp;nbsp; platform,&amp;nbsp; and&amp;nbsp; the&amp;nbsp; underlying&amp;nbsp; infrastructure.&amp;nbsp;&amp;nbsp; The&amp;nbsp; main&amp;nbsp; difference&amp;nbsp; between&amp;nbsp; SaaS&amp;nbsp; and&amp;nbsp; PaaS&amp;nbsp; is&amp;nbsp; that&amp;nbsp; PaaS&amp;nbsp; normally&amp;nbsp; represents&amp;nbsp; a&amp;nbsp; platform&amp;nbsp;&amp;nbsp;&amp;nbsp; for&amp;nbsp;&amp;nbsp;&amp;nbsp; application&amp;nbsp;&amp;nbsp;&amp;nbsp; development,&amp;nbsp;&amp;nbsp;&amp;nbsp; while&amp;nbsp;&amp;nbsp;&amp;nbsp; SaaS&amp;nbsp;&amp;nbsp;&amp;nbsp; provides&amp;nbsp;&amp;nbsp;&amp;nbsp; online&amp;nbsp;&amp;nbsp;&amp;nbsp; applications that are already developed." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2650" y="980" width="260" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-33" value="&lt;div&gt;Testing as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (TaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-33" value="&lt;div&gt;Testing as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (TaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2580" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="2580" y="1220" width="330" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-34" value="Provides&amp;nbsp; users&amp;nbsp; with&amp;nbsp; software&amp;nbsp; testing&amp;nbsp; capabilities&amp;nbsp; such&amp;nbsp; as&amp;nbsp; generation&amp;nbsp; of&amp;nbsp; test&amp;nbsp; data,&amp;nbsp; generation&amp;nbsp; of&amp;nbsp; test&amp;nbsp; cases,&amp;nbsp; execution&amp;nbsp; of&amp;nbsp; test&amp;nbsp; cases&amp;nbsp; and&amp;nbsp; test&amp;nbsp; result&amp;nbsp; evaluation&amp;nbsp; on&amp;nbsp; a&amp;nbsp; pay-per-use basis.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-33">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-34" value="Provides&amp;nbsp; users&amp;nbsp; with&amp;nbsp; software&amp;nbsp; testing&amp;nbsp; capabilities&amp;nbsp; such&amp;nbsp; as&amp;nbsp; generation&amp;nbsp; of&amp;nbsp; test&amp;nbsp; data,&amp;nbsp; generation&amp;nbsp; of&amp;nbsp; test&amp;nbsp; cases,&amp;nbsp; execution&amp;nbsp; of&amp;nbsp; test&amp;nbsp; cases&amp;nbsp; and&amp;nbsp; test&amp;nbsp; result&amp;nbsp; evaluation&amp;nbsp; on&amp;nbsp; a&amp;nbsp; pay-per-use basis.&amp;nbsp; " style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-33" vertex="1">
           <mxGeometry y="40" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-35" value="&lt;div&gt;Email as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service(EaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-35" value="&lt;div&gt;Email as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service(EaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2860" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="2860" y="1220" width="310" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-36" value="Provides&amp;nbsp; users&amp;nbsp; with&amp;nbsp; an&amp;nbsp; integrated&amp;nbsp; system&amp;nbsp; of&amp;nbsp; emailing,&amp;nbsp; office&amp;nbsp; automation,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; records&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; management,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; migration,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; integration&amp;nbsp; services&amp;nbsp; with&amp;nbsp; archiving,&amp;nbsp; spam&amp;nbsp; blocking,&amp;nbsp; malware&amp;nbsp; protection, and compliance features." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-35">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-36" value="Provides&amp;nbsp; users&amp;nbsp; with&amp;nbsp; an&amp;nbsp; integrated&amp;nbsp; system&amp;nbsp; of&amp;nbsp; emailing,&amp;nbsp; office&amp;nbsp; automation,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; records&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; management,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; migration,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; and&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; integration&amp;nbsp; services&amp;nbsp; with&amp;nbsp; archiving,&amp;nbsp; spam&amp;nbsp; blocking,&amp;nbsp; malware&amp;nbsp; protection, and compliance features." style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-35" vertex="1">
           <mxGeometry y="40" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-37" value="&lt;div&gt;API as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (APIaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-37" value="&lt;div&gt;API as &lt;br&gt;&lt;/div&gt;&lt;div&gt;a Service (APIaaS)&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
           <mxGeometry x="2720" y="1220" width="120" height="40" as="geometry">
             <mxRectangle x="2720" y="1220" width="300" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-38" value="Allows users to explore functionality of Web services such as Google Maps, Payroll processing, and credit card processing services etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hCnkFNOP021uIEBsV8pS-37">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-38" value="Allows users to explore functionality of Web services such as Google Maps, Payroll processing, and credit card processing services etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="hCnkFNOP021uIEBsV8pS-37" vertex="1">
           <mxGeometry y="40" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mX5zIoZEDIJDonC2avRV-7" value="Drawbacks" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
@@ -1457,35 +1430,258 @@
         <mxCell id="mX5zIoZEDIJDonC2avRV-8" value="&lt;div&gt;1.&amp;nbsp; Internet&amp;nbsp; connection &lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Security&lt;/div&gt;&lt;div&gt;3. user/owner does not have control as it is maintained by them.&lt;/div&gt;&lt;div&gt;4. depending on the vendor the customer may face some restrictions&lt;/div&gt;&lt;div&gt;5. it may be not be compatible with other software&#39;s&lt;/div&gt;&lt;div&gt;6. hidden costs&lt;/div&gt;&lt;div&gt;7. legal issues&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="mX5zIoZEDIJDonC2avRV-7" vertex="1">
           <mxGeometry y="40" width="270" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-42" target="hCnkFNOP021uIEBsV8pS-46" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-42" target="hCnkFNOP021uIEBsV8pS-46" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-42" value="Mobile computing is human–computer interaction in which a computer is expected to be transported during normal usage, which allows for the transmission of data, voice, and video. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-42" value="Mobile computing is human–computer interaction in which a computer is expected to be transported during normal usage, which allows for the transmission of data, voice, and video. " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2520" y="160" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-44" value="it does not mean smart phones!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="2585" y="40" width="150" height="30" as="geometry" />
+        <mxCell id="hCnkFNOP021uIEBsV8pS-44" value="it does not mean smart phones!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="2585" y="-10" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-46" target="hCnkFNOP021uIEBsV8pS-49" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-46" target="hCnkFNOP021uIEBsV8pS-49" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-46" target="hCnkFNOP021uIEBsV8pS-48" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hCnkFNOP021uIEBsV8pS-46" target="hCnkFNOP021uIEBsV8pS-48" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCnkFNOP021uIEBsV8pS-46" target="hCnkFNOP021uIEBsV8pS-50" visible="0">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCnkFNOP021uIEBsV8pS-46" target="hCnkFNOP021uIEBsV8pS-50" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-46" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;&lt;b&gt;Components&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-46" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;u&gt;&lt;b&gt;Components&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2580" y="250" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-48" value="Mobile&amp;nbsp; Communication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-48" value="Mobile&amp;nbsp; Communication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2460" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-49" value="Mobile&amp;nbsp; Hardware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-49" value="Mobile&amp;nbsp; Hardware" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2600" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hCnkFNOP021uIEBsV8pS-50" value="Mobile&amp;nbsp; Software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+        <mxCell id="hCnkFNOP021uIEBsV8pS-50" value="Mobile&amp;nbsp; Software" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="2740" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-4" target="xLXePYV-h6_TVxX8lGpK-7" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2820" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-4" value="&lt;div&gt;it is the study and&lt;/div&gt;&lt;div&gt;practice of establishing/ using computers and IT resources in a more efficient and&lt;/div&gt;&lt;div&gt;environmentally friendly and responsible way.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2680" y="160" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-7" value="Green practices" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="2760" y="240" width="120" height="40" as="geometry">
+            <mxRectangle x="2760" y="240" width="400" height="910" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-8" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;1. Develop a sustainable Green Computing plan&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;♦ recycling policies,&lt;/div&gt;&lt;div&gt;guidelines and recommendations for purchasing green&lt;/div&gt;&lt;div&gt;computer equipment in organizational policies and plans;&lt;/div&gt;&lt;div&gt;♦ Include power usage, reduction of paper consumption, as well as&lt;/div&gt;&lt;div&gt;recommendations for new equipment and recycling old&lt;/div&gt;&lt;div&gt;machines in organizational policies and plans; and&lt;/div&gt;&lt;div&gt;♦ Use cloud computing so that multiple organizations share the&lt;/div&gt;&lt;div&gt;same computing resources thus increasing the utilization by&lt;/div&gt;&lt;div&gt;making more efficient use of hardware resources.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-7">
+          <mxGeometry y="40" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-9" value="&lt;div&gt;2. &lt;b&gt;&lt;u&gt;Recycle&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;♦ Dispose e-waste according to central, state and local&lt;/div&gt;&lt;div&gt;regulations;&lt;/div&gt;&lt;div&gt;♦ Discard used or unwanted electronic equipment in a convenient&lt;/div&gt;&lt;div&gt;and environmentally responsible manner&lt;/div&gt;&lt;div&gt;♦ Manufacturers must offer safe end-of-life management and&lt;/div&gt;&lt;div&gt;recycling options when products become unusable; and&lt;/div&gt;&lt;div&gt;♦ Recycle computers through manufacturer’s recycling services.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-7">
+          <mxGeometry y="200" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-10" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;3. Make environmentally sound purchase decisions&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;♦ Purchase of desktop computers, notebooks and monitors based&lt;/div&gt;&lt;div&gt;on environmental attributes;&lt;/div&gt;&lt;div&gt;♦ Provide a clear, consistent set of performance criteria for the&lt;/div&gt;&lt;div&gt;design of products;&lt;/div&gt;&lt;div&gt;♦&amp;nbsp;&lt;span&gt;designing for longevity and reducing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;packaging materials; and&lt;/div&gt;&lt;div&gt;♦ Use Server and storage virtualization that can help to improve&lt;/div&gt;&lt;div&gt;resource utilization, reduce energy costs and simplify&lt;/div&gt;&lt;div&gt;maintenance.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-7">
+          <mxGeometry y="350" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-11" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;4. Reduce Paper Consumption&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;♦ Reduce paper consumption by use of e-mail and electronic&lt;/div&gt;&lt;div&gt;archiving;&lt;/div&gt;&lt;div&gt;♦ Use of “track changes” feature in electronic documents, rather&lt;/div&gt;&lt;div&gt;than red line corrections on paper;&lt;/div&gt;&lt;div&gt;♦ Use online marketing rather than paper based marketing; e-mail&lt;/div&gt;&lt;div&gt;marketing solutions that are greener, more affordable, flexible&lt;/div&gt;&lt;div&gt;and interactive than direct mail; free and low-cost online&lt;/div&gt;&lt;div&gt;invoicing solutions that help cut down on paper waste; and&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-7">
+          <mxGeometry y="500" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-12" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;5. Conserve Energy&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;♦ Use Liquid Crystal Display (LCD) monitors rather than Cathode&lt;/div&gt;&lt;div&gt;Ray Tube (CRT) monitors;&lt;/div&gt;&lt;div&gt;♦ Use notebook computers rather than desktop computers&lt;/div&gt;&lt;div&gt;whenever possible;&lt;/div&gt;&lt;div&gt;♦ Use the power-management features to turn off hard drives and&lt;/div&gt;&lt;div&gt;displays after several minutes of inactivity;&lt;/div&gt;&lt;div&gt;♦ Power-down the CPU and all peripherals during extended&lt;/div&gt;&lt;div&gt;periods of inactivity;&lt;/div&gt;&lt;div&gt;♦ Wherever possible, the devices that can perform more than one&lt;/div&gt;&lt;div&gt;function should be used. For example, multi-purpose printer&lt;/div&gt;&lt;div&gt;saves energy by combining a printer, scanner, fax, and&lt;/div&gt;&lt;div&gt;photocopier into one device.&lt;/div&gt;&lt;div&gt;♦ Power-up and power-down energy-intensive peripherals such as&lt;/div&gt;&lt;div&gt;laser printers according to need;&lt;/div&gt;&lt;div&gt;♦ Employ alternative energy sources for computing workstations,&lt;/div&gt;&lt;div&gt;servers, networks and data centers; and&lt;/div&gt;&lt;div&gt;♦ Adapt more of Web conferencing offers instead of travelling to&lt;/div&gt;&lt;div&gt;meetings in order to go green and save energy.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-7">
+          <mxGeometry y="640" width="400" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-13" target="xLXePYV-h6_TVxX8lGpK-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-13" target="xLXePYV-h6_TVxX8lGpK-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-13" value="&lt;div&gt;business policy that allows employees&lt;/div&gt;&lt;div&gt;to use their preferred computing devices, like smart phones and laptops for&lt;/div&gt;&lt;div&gt;business purposes. It means employees are welcome to use personal devices&lt;/div&gt;&lt;div&gt;(laptops, smart phones, tablets etc.) to connect to the corporate network to&lt;/div&gt;&lt;div&gt;access information and application.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2840" y="160" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-15" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="2920" y="300" width="120" height="40" as="geometry">
+            <mxRectangle x="2840" y="320" width="330" height="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-16" value="&lt;div&gt;1.&amp;nbsp;Happy Employees&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;Lower IT budgets&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;IT reduces support requirement&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;Early adoption of new Technologies&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Employees are generally&amp;nbsp;&lt;span&gt;proactive in adoption of new technologies that results in enhanced&amp;nbsp;&lt;/span&gt;&lt;span&gt;productivity of employees leading to overall growth of business.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;Increased employee efficiency&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;employees have to learn and there is a learning&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;curve involved in it.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-15">
+          <mxGeometry y="40" width="330" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-18" target="xLXePYV-h6_TVxX8lGpK-22" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-18" target="xLXePYV-h6_TVxX8lGpK-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-18" target="xLXePYV-h6_TVxX8lGpK-23" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-18" target="xLXePYV-h6_TVxX8lGpK-24" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-18" value="Emerging BYOD Threats" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="2920" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-21" target="xLXePYV-h6_TVxX8lGpK-29" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-21" value="Network Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2710" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-22" target="xLXePYV-h6_TVxX8lGpK-31" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-22" value="Device Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2850" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-23" target="xLXePYV-h6_TVxX8lGpK-33" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-23" value="Application Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2990" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-24" target="xLXePYV-h6_TVxX8lGpK-35" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-24" value="Implementation Risks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3130" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-29" value="the cos cannot control the device or moniter it" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2710" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-31" value="A lost or stolen device can result in an enormous financial losses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2850" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-33" value="&lt;div&gt;phones and smart devices that were connected&lt;/div&gt;&lt;div&gt;to the corporate network were not protected by security software.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2990" y="500" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-35" value="weak BYOD policy - robust implimentation policy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3130" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-40" value="&amp;nbsp;is the upcoming third generation of the internet where websites and apps will be able to process information in a smart human-like way through technologies like machine learning (ML), Big Data, decentralized ledger technology (DLT), etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="2960" y="160" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-43" target="xLXePYV-h6_TVxX8lGpK-45" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-43" target="xLXePYV-h6_TVxX8lGpK-48" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-43" value="&amp;nbsp;the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the Internet." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3160" y="160" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-45" value="Applications" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3160" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="3240" y="260" width="410" height="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-46" value="&lt;div&gt;♦ home appliances&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a. Home owners can keep track of all activities in house through&amp;nbsp;&lt;span&gt;their hand-held devices.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;b. Home security CCTV is also monitored through hand held&amp;nbsp;&lt;/span&gt;&lt;span&gt;devices.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;♦ Wearables&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;Just like smart homes, wearables remain another&amp;nbsp;&lt;span&gt;important potential IoT application like Apple smartwatch.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Smart City&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;traffic management to waste management and environmental&amp;nbsp;&lt;/span&gt;&lt;span&gt;monitoring.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Industrial Internet of Things&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;connected machines and devices in industries&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;such as power generation, oil, gas, etc. for monitoring and improving&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;control efficiency.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Connected Car&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Connected Health (Digital Health/Telehealth/Telemedicine)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Smart Retail&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Smart Supply Chain&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-45">
+          <mxGeometry y="40" width="410" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-48" value="Risks" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3320" y="280" width="120" height="40" as="geometry">
+            <mxRectangle x="3320" y="280" width="280" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-49" value="(A) Risk to Product manufacturer&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;data must be secured&lt;br&gt;&lt;/font&gt;&lt;br&gt;(B) Risk to user of these products&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;1. hacking, virus attacks, stealing&amp;nbsp;&lt;span&gt;confidential data etc.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;2.&amp;nbsp;personal life can be hacked and made public.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(C) Technology Risk&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(D) Environmental Risks due to Technology&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;the impact on house air&amp;nbsp;&lt;span&gt;quality, due to use of heavy earth metals in devices&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-48">
+          <mxGeometry y="40" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-51" target="xLXePYV-h6_TVxX8lGpK-53" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-51" target="xLXePYV-h6_TVxX8lGpK-56" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-51" value="Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3320" y="160" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-53" value="Applications" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3320" y="260" width="120" height="40" as="geometry">
+            <mxRectangle x="3320" y="260" width="380" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-54" value="&lt;div&gt;♦ Autonomous vehicles (such as drones and self-driving cars);&lt;/div&gt;&lt;div&gt;♦ Medical diagnosis, in cancer research. Predicting the chances of an&lt;/div&gt;&lt;div&gt;individual getting ill by a disease;&lt;/div&gt;&lt;div&gt;♦ Creating art (such as poetry);&lt;/div&gt;&lt;div&gt;♦ Proving mathematical theorems;&lt;/div&gt;&lt;div&gt;♦ Playing games (such as Chess or Go), and predicting the outcomes.&lt;/div&gt;&lt;div&gt;Say which number on a lottery ticket may win;&lt;/div&gt;&lt;div&gt;♦ Search engines (such as Google search);&lt;/div&gt;&lt;div&gt;♦ Online assistants (such as Siri);&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-53">
+          <mxGeometry y="40" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-56" value="Risks" style="swimlane;startSize=40;" vertex="1" collapsed="1" visible="0" parent="1">
+          <mxGeometry x="3480" y="260" width="120" height="40" as="geometry">
+            <mxRectangle x="3480" y="260" width="380" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-57" value="&lt;div&gt;1. AI relies heavily of data it gets. Incorrect data can lead to incorrect&lt;/div&gt;&lt;div&gt;conclusions.&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. AI (robots) carries security threats. Countries are discussing to have a&amp;nbsp;&lt;span&gt;KILL button in all AI capable machines. This is important otherwise&lt;/span&gt;&lt;/div&gt;&lt;div&gt;someday machine may start controlling humans.&lt;/div&gt;&lt;div&gt;3. AI in long term may kill human skills of thinking the unthinkable. All&lt;/div&gt;&lt;div&gt;data shall be processed in a structured manner, where machines shall&lt;/div&gt;&lt;div&gt;provide solution based on their learning over a period of time. These&lt;/div&gt;&lt;div&gt;machines shall not have capability of thinking out of box.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLXePYV-h6_TVxX8lGpK-56">
+          <mxGeometry y="40" width="380" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xLXePYV-h6_TVxX8lGpK-61" target="xLXePYV-h6_TVxX8lGpK-64" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-61" value="&amp;nbsp;It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="3640" y="300" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xLXePYV-h6_TVxX8lGpK-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.javatpoint.com/tutorial/machine-learning/images/applications-of-machine-learning.png;" vertex="1" parent="1" visible="0">
+          <mxGeometry x="3668.43" y="360" width="303.14" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-59" value="E-commerce &#xa;Vendors" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="140" y="580" width="120" height="40" as="geometry">
+            <mxRectangle x="140" y="580" width="410" height="730" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry y="40" width="410" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-80" target="_V5_Tny7rc_aiCJH9v1E-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-80" value="&amp;nbsp;This&amp;nbsp; is&amp;nbsp; the&amp;nbsp; organization&amp;nbsp; /&amp;nbsp; entity&amp;nbsp; providing&amp;nbsp; the&amp;nbsp; user, goods/&amp;nbsp; services&amp;nbsp; asked&amp;nbsp; for." style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="92.5" y="50" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-81" target="_V5_Tny7rc_aiCJH9v1E-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-81" value="vendors further needs to ensure following for better, effective and efficient transaction :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="25" y="120" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-82" target="_V5_Tny7rc_aiCJH9v1E-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-82" value="&lt;div&gt;Suppliers&amp;nbsp; and&amp;nbsp; Supply&amp;nbsp; Chain&amp;nbsp; Management:&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;♦they have enough and the right goods suppliers.♦they (suppliers) are financially and operationally safe. ♦suppliers are able to provide real-time stock inventory.♦the order to deliver time is very short.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="170" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-83" target="_V5_Tny7rc_aiCJH9v1E-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-83" value="&lt;div&gt;Warehouse&amp;nbsp; operations:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;When&amp;nbsp; a&amp;nbsp; product&amp;nbsp; is&amp;nbsp; bought,&amp;nbsp; it&amp;nbsp; is&amp;nbsp; delivered&amp;nbsp; from&amp;nbsp; the warehouse of e-commerce vendor.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="240" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-84" target="_V5_Tny7rc_aiCJH9v1E-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-84" value="&lt;div&gt;E-Commerce catalogue&amp;nbsp; and&amp;nbsp; product&amp;nbsp; display:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;Proper&amp;nbsp; display&amp;nbsp; of&amp;nbsp; all&amp;nbsp; products&amp;nbsp; being&amp;nbsp; sold&amp;nbsp; by&amp;nbsp; vendor&amp;nbsp; including&amp;nbsp; product&amp;nbsp; details,&amp;nbsp; technical&amp;nbsp; specifications,&amp;nbsp; makes&amp;nbsp; for&amp;nbsp; a&amp;nbsp; better&amp;nbsp; sales&amp;nbsp; conversion&amp;nbsp; ratio.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="310" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-92" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-89" target="_V5_Tny7rc_aiCJH9v1E-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-89" value="&lt;div&gt;Marketing and loyalty programs:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;Loyalty programs establish a long-term relationship&amp;nbsp; with&amp;nbsp; customer.&lt;/font&gt;&amp;nbsp; &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="380" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-91" target="_V5_Tny7rc_aiCJH9v1E-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-91" value="&lt;div&gt;Different&amp;nbsp; Ordering&amp;nbsp; Methods: &lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;These&amp;nbsp; are&amp;nbsp; the&amp;nbsp; ways&amp;nbsp; customer&amp;nbsp; can&amp;nbsp; place&amp;nbsp; his/her order, say Cash on Delivery.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="450" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-96" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-93" target="_V5_Tny7rc_aiCJH9v1E-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-93" value="Guarantees" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="520" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" source="_V5_Tny7rc_aiCJH9v1E-95" target="_V5_Tny7rc_aiCJH9v1E-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-95" value="Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="590" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-97" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-59" vertex="1">
+          <mxGeometry x="15" y="660" width="380" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
