@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T21:08:26.326Z" agent="5.0 (X11)" etag="BBDz9NXDSU1LG67OpZyS" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T21:18:00.693Z" agent="5.0 (X11)" etag="nrPhiFkODW4TxpDqTcAn" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2566" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -485,11 +485,14 @@
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-65" value="Object Oriented &#xa;Data Base Model" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="230" y="530" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="230" y="530" width="330" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-65">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+          <mxGeometry y="40" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-87" value="data model in which data is stored in form of objects, which are instances of classes. These classes and objects together makes an object oriented data model." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-65">
+          <mxGeometry x="10" y="50" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-73" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-140" y="405" width="120" height="40" as="geometry">
