@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T21:18:00.693Z" agent="5.0 (X11)" etag="nrPhiFkODW4TxpDqTcAn" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T21:23:47.740Z" agent="5.0 (X11)" etag="FIcTOCp65-0wCVJG32vI" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2566" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -432,14 +432,6 @@
         <mxCell id="WNgWYACzQTJIvaHVFque-80" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-54" target="WNgWYACzQTJIvaHVFque-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-54" value="Database &#xa;Management &#xa;Systems (DBMS)" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="20" y="400" width="120" height="50" as="geometry">
-            <mxRectangle x="20" y="340" width="400" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-55" value="DBMS may be defined as a&lt;br&gt;software that aid in organizing, controlling and using the data needed by&lt;br&gt;the application program. They provide the facility to create and maintain a&lt;br&gt;&lt;div&gt;well-organized database.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;functions - add, delete, query(get), alter, and modify data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-54">
-          <mxGeometry y="50" width="400" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-57" target="WNgWYACzQTJIvaHVFque-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -454,6 +446,17 @@
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-57" value="&lt;b&gt;Database models&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="470" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-65" value="Object Oriented &#xa;Data Base Model" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="230" y="530" width="120" height="40" as="geometry">
+            <mxRectangle x="230" y="530" width="330" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-65">
+          <mxGeometry y="40" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-87" value="data model in which data is stored in form of objects, which are instances of classes. These classes and objects together makes an object oriented data model." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-65">
+          <mxGeometry x="10" y="50" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-59" value="Relational &#xa;Database Model" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="90" y="530" width="120" height="40" as="geometry">
@@ -483,33 +486,6 @@
         <mxCell id="WNgWYACzQTJIvaHVFque-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/what-is-data-model-in-dbms-and-what-are-its-types-network-model-d0ffd2f004868638.jpg;" vertex="1" parent="WNgWYACzQTJIvaHVFque-63">
           <mxGeometry x="60.97" y="150" width="258.06" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-65" value="Object Oriented &#xa;Data Base Model" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="230" y="530" width="120" height="40" as="geometry">
-            <mxRectangle x="230" y="530" width="330" height="110" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-65">
-          <mxGeometry y="40" width="330" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-87" value="data model in which data is stored in form of objects, which are instances of classes. These classes and objects together makes an object oriented data model." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-65">
-          <mxGeometry x="10" y="50" width="310" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-73" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-140" y="405" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-73">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-75" value="Disadvantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="180" y="405" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-75">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-61" value="Hierarchical &#xa;Database Model" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="-190" y="530" width="120" height="40" as="geometry">
             <mxRectangle x="-190" y="530" width="380" height="300" as="alternateBounds" />
@@ -523,6 +499,30 @@
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-82" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="WNgWYACzQTJIvaHVFque-61">
           <mxGeometry x="15.5" y="140" width="349" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-75" value="Disadvantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="180" y="405" width="120" height="40" as="geometry">
+            <mxRectangle x="180" y="405" width="420" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-76" value="&lt;div&gt;♦ Cost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Security:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;Even with safeguards in place, it may be possible for some&amp;nbsp; unauthorized users to access the database. If one gets access to database,&amp;nbsp; then it could be an all or nothing proposition.&lt;/font&gt; &amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-75">
+          <mxGeometry y="40" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-54" value="Database &#xa;Management &#xa;Systems (DBMS)" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="20" y="400" width="120" height="50" as="geometry">
+            <mxRectangle x="20" y="400" width="400" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-55" value="DBMS may be defined as a&lt;br&gt;software that aid in organizing, controlling and using the data needed by&lt;br&gt;the application program. They provide the facility to create and maintain a&lt;br&gt;&lt;div&gt;well-organized database.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;functions - add, delete, query(get), alter, and modify data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-54">
+          <mxGeometry y="50" width="400" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-73" value="Advantages" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="-140" y="405" width="120" height="40" as="geometry">
+            <mxRectangle x="-140" y="405" width="490" height="425" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-74" value="&lt;div&gt;♦ Permitting Data Sharing: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;information can be made available to different users. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Minimizing Data Redundancy: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;there is no&amp;nbsp; need to repeat the same data repeatedly. Minimizing redundancy reduce&amp;nbsp; significantly the cost of storing information on storage devices.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Integrity can be maintained:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;having accurate,&amp;nbsp; consistent, and up-to-date data.&amp;nbsp; &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Program and File consistency: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Using a DBMS, file formats and programs are&amp;nbsp; standardized. The level of consistency across files and programs makes it easier&amp;nbsp; to manage data when multiple programmers are involved as the same rules&amp;nbsp; and guidelines apply across all types of data. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ User-friendly: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;DBMS makes the data access and manipulation easier for the&amp;nbsp; user. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Improved security: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;DBMS allows multiple users to access the same data&amp;nbsp; resources in a controlled manner by defining the security constraints.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Achieving program/data independence:&lt;/div&gt;&lt;div&gt; &lt;font style=&quot;font-size: 8px&quot;&gt;data does not reside&amp;nbsp; in applications, but data bases program and data are independent of each&amp;nbsp; other. &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Faster Application Development: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The data is already therein&amp;nbsp; databases, application developer has to think of only the logic required to&amp;nbsp; retrieve the data in the way a user need. &lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-73">
+          <mxGeometry y="40" width="490" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
