@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T22:38:25.281Z" agent="5.0 (X11)" etag="5qGppMWHLJEiLyDW_gzs" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T22:55:22.359Z" agent="5.0 (X11)" etag="lCAVEAOA2cVUbu6tqzCv" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2418" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2419" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,19 +575,85 @@
         <mxCell id="WNgWYACzQTJIvaHVFque-101" value="Data Warehouse" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WNgWYACzQTJIvaHVFque-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WNgWYACzQTJIvaHVFque-103" target="WNgWYACzQTJIvaHVFque-104" parent="1">
+        <mxCell id="WNgWYACzQTJIvaHVFque-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-103" target="WNgWYACzQTJIvaHVFque-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-103" value="A data warehouse is a large collection of business data used to help an organization make decisions. The process of&amp;nbsp; extracting data from source systems and bringing it into the data warehouse is&amp;nbsp; commonly called ETL, which stands for Extraction, Transformation, and &lt;br&gt;Loading." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="930" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-104" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="20" y="1020" width="120" height="40" as="geometry">
-            <mxRectangle x="20" y="790" width="380" height="300" as="alternateBounds" />
+          <mxGeometry y="1440" width="120" height="40" as="geometry">
+            <mxRectangle x="20" y="1020" width="380" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-105" value="(a) Ability to process Big Data brings in multiple benefits, such as-&amp;nbsp; • Businesses can utilize outside intelligence while taking decisions. &lt;br&gt;• Access to social data from search engines and sites like Facebook,&amp;nbsp; Twitter are enabling organizations to fine tune their business&amp;nbsp; strategies. &lt;br&gt;&lt;div&gt;• Early identification of risk to the products/services, if any.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) Improved customer service &lt;/div&gt;• Traditional customer feedback systems are getting replaced by new&amp;nbsp; systems designed with Big Data technologies. In these new systems,&amp;nbsp; Big Data and natural language processing technologies are being used&amp;nbsp; to read and evaluate consumer responses. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Better operational efficiency &lt;/div&gt;• Integration of Big Data technologies and data warehouse helps an&amp;nbsp; organization to offload infrequently accessed data, this leading to&amp;nbsp; better operational efficiency. &lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-104">
           <mxGeometry y="40" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-107" target="WNgWYACzQTJIvaHVFque-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1060" />
+              <mxPoint x="-170" y="1060" />
+              <mxPoint x="-170" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-107" value="Extraction-Transformation-Loading (ETL)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="1020" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-117" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-112" target="WNgWYACzQTJIvaHVFque-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-112" value="Extracted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-118" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-113" target="WNgWYACzQTJIvaHVFque-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-113" value="Transformation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-114" target="WNgWYACzQTJIvaHVFque-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="1100" />
+              <mxPoint x="310" y="1240" />
+              <mxPoint x="70" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-114" value="Loading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-121" value="data is Extracted from one or more of the&lt;br&gt;organization’s databases." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-123" value="temporary area&lt;br&gt;called Staging Area where it is Transformed like cleansing, sorting,&lt;br&gt;filtering etc. of the data as per the information requirements." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1130" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-124" value="data so transformed into a data warehouse which itself is another database for storage and analysis." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-126" target="WNgWYACzQTJIvaHVFque-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-126" target="WNgWYACzQTJIvaHVFque-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-126" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-128" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-129" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-132" value="start small and then go big" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-133" value="start big then split into small parts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
