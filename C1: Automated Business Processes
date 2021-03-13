@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:14:39.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Su2HBnR5aF3fJyr5HNe9" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:25:21.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="M2eTGYTcaGxvZEad9gcD" version="14.4.7" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="716" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1043,7 +1043,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-6" value="Section 143" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2920" width="120" height="40" as="geometry" />
+          <mxGeometry x="2970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-9" target="8OZ3cucDwTNeZ1lgkhnb-11">
           <mxGeometry relative="1" as="geometry" />
@@ -1060,14 +1060,38 @@
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-13" value="the Directors had taken proper and sufficient care for the maintenance of&amp;nbsp;&lt;span&gt;the policies and procedures adopted by the company for ensuring the&lt;/span&gt;&lt;div&gt;orderly and efficient conduct of its business, including adherence to company’s&lt;/div&gt;&lt;div&gt;policies, the safeguarding of its assets, the prevention and detection of frauds and&lt;/div&gt;&lt;div&gt;errors, the accuracy and completeness of the accounting records, and the timely&lt;/div&gt;&lt;div&gt;preparation of reliable financial information.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2400" y="160" width="280" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-15" target="8OZ3cucDwTNeZ1lgkhnb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-15" value="Management’s Responsibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="2760" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-16" target="8OZ3cucDwTNeZ1lgkhnb-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-16" value="Auditors’ Responsibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="2970" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-17" target="8OZ3cucDwTNeZ1lgkhnb-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-17" value="Corporate Governance Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="3180" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-21" value="&lt;div&gt;1. obtain reasonable assurance about whether the financial statements are free of material misstatement, whether caused by error or fraud.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2930" y="140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-23" value="&lt;div&gt;“the policies and procedures adopted by the&amp;nbsp;&lt;span&gt;company for ensuring the orderly and efficient conduct of its business, including&amp;nbsp;&lt;/span&gt;&lt;span&gt;adherence to company’s policies, the safeguarding of its assets, the prevention and&amp;nbsp;&lt;/span&gt;&lt;span&gt;detection of frauds and errors, the accuracy and completeness of the accounting&amp;nbsp;&lt;/span&gt;&lt;span&gt;records, and the timely preparation of reliable financial information.”&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="140" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-25" target="8OZ3cucDwTNeZ1lgkhnb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-25" value="&lt;div&gt;ensures accountability, fairness, and transparency in a company’s&lt;/div&gt;&lt;div&gt;relationship with its all stakeholders&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3140" y="140" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-27" value="&lt;div&gt;The Corporate Governance framework consists of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) explicit and implicit contracts between the company and the stakeholders for&amp;nbsp;&lt;span&gt;distribution of responsibilities, rights, and rewards.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(ii) procedures for reconciling the sometimes-conflicting interests of&amp;nbsp;&lt;span&gt;stakeholders in accordance with their duties, privileges, and roles, and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(iii) procedures for proper supervision, control, and information-flows to serve as&amp;nbsp;&lt;span&gt;a system of checks-and-balances.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3092.5" y="230" width="295" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
