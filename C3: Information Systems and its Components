@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T21:44:07.988Z" agent="5.0 (X11)" etag="4DzCMHfzX9CwPgsSDRVW" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T22:38:25.281Z" agent="5.0 (X11)" etag="5qGppMWHLJEiLyDW_gzs" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2418" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -558,12 +558,35 @@
         <mxCell id="WNgWYACzQTJIvaHVFque-93" value="The term refers to such massively large data sets&amp;nbsp; that conventional database tools do not have the processing power to analyze&amp;nbsp; them. For example, Flipkart must process over millions of customer transactions&amp;nbsp; every hour " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="700" width="400" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-106" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-95" target="WNgWYACzQTJIvaHVFque-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-95" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="20" y="790" width="120" height="40" as="geometry">
             <mxRectangle x="20" y="790" width="380" height="300" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-96" value="(a) Ability to process Big Data brings in multiple benefits, such as-&amp;nbsp; • Businesses can utilize outside intelligence while taking decisions. &lt;br&gt;• Access to social data from search engines and sites like Facebook,&amp;nbsp; Twitter are enabling organizations to fine tune their business&amp;nbsp; strategies. &lt;br&gt;&lt;div&gt;• Early identification of risk to the products/services, if any.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) Improved customer service &lt;/div&gt;• Traditional customer feedback systems are getting replaced by new&amp;nbsp; systems designed with Big Data technologies. In these new systems,&amp;nbsp; Big Data and natural language processing technologies are being used&amp;nbsp; to read and evaluate consumer responses. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Better operational efficiency &lt;/div&gt;• Integration of Big Data technologies and data warehouse helps an&amp;nbsp; organization to offload infrequently accessed data, this leading to&amp;nbsp; better operational efficiency. &lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-95">
+          <mxGeometry y="40" width="380" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WNgWYACzQTJIvaHVFque-101" target="WNgWYACzQTJIvaHVFque-103" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-101" value="Data Warehouse" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-102" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="WNgWYACzQTJIvaHVFque-103" target="WNgWYACzQTJIvaHVFque-104" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-103" value="A data warehouse is a large collection of business data used to help an organization make decisions. The process of&amp;nbsp; extracting data from source systems and bringing it into the data warehouse is&amp;nbsp; commonly called ETL, which stands for Extraction, Transformation, and &lt;br&gt;Loading." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="930" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-104" value="Benefits" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="20" y="1020" width="120" height="40" as="geometry">
+            <mxRectangle x="20" y="790" width="380" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNgWYACzQTJIvaHVFque-105" value="(a) Ability to process Big Data brings in multiple benefits, such as-&amp;nbsp; • Businesses can utilize outside intelligence while taking decisions. &lt;br&gt;• Access to social data from search engines and sites like Facebook,&amp;nbsp; Twitter are enabling organizations to fine tune their business&amp;nbsp; strategies. &lt;br&gt;&lt;div&gt;• Early identification of risk to the products/services, if any.&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) Improved customer service &lt;/div&gt;• Traditional customer feedback systems are getting replaced by new&amp;nbsp; systems designed with Big Data technologies. In these new systems,&amp;nbsp; Big Data and natural language processing technologies are being used&amp;nbsp; to read and evaluate consumer responses. &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) Better operational efficiency &lt;/div&gt;• Integration of Big Data technologies and data warehouse helps an&amp;nbsp; organization to offload infrequently accessed data, this leading to&amp;nbsp; better operational efficiency. &lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WNgWYACzQTJIvaHVFque-104">
           <mxGeometry y="40" width="380" height="260" as="geometry" />
         </mxCell>
       </root>
