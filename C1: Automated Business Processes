@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:25:21.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="M2eTGYTcaGxvZEad9gcD" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T02:53:54.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="v7yhDp0w8t99kpthPzRi" version="14.4.7" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="716" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1024,8 +1024,11 @@
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-1" value="The Companies Act, 2013" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="-80" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-2" target="8OZ3cucDwTNeZ1lgkhnb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-2" value="Information Technology Act, 2000 (IT Act)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3120" y="-80" width="160" height="40" as="geometry" />
+          <mxGeometry x="3680" y="-80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-5" target="8OZ3cucDwTNeZ1lgkhnb-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1043,7 +1046,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-6" value="Section 143" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2970" width="120" height="40" as="geometry" />
+          <mxGeometry x="2943" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-9" target="8OZ3cucDwTNeZ1lgkhnb-11">
           <mxGeometry relative="1" as="geometry" />
@@ -1064,34 +1067,94 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-15" value="Management’s Responsibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="2733" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-16" target="8OZ3cucDwTNeZ1lgkhnb-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-16" value="Auditors’ Responsibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="2943" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-17" target="8OZ3cucDwTNeZ1lgkhnb-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-17" value="Corporate Governance Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3180" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="3153" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-21" value="&lt;div&gt;1. obtain reasonable assurance about whether the financial statements are free of material misstatement, whether caused by error or fraud.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="140" width="200" height="80" as="geometry" />
+          <mxGeometry x="2903" y="140" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-23" value="&lt;div&gt;“the policies and procedures adopted by the&amp;nbsp;&lt;span&gt;company for ensuring the orderly and efficient conduct of its business, including&amp;nbsp;&lt;/span&gt;&lt;span&gt;adherence to company’s policies, the safeguarding of its assets, the prevention and&amp;nbsp;&lt;/span&gt;&lt;span&gt;detection of frauds and errors, the accuracy and completeness of the accounting&amp;nbsp;&lt;/span&gt;&lt;span&gt;records, and the timely preparation of reliable financial information.”&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="140" width="200" height="170" as="geometry" />
+          <mxGeometry x="2693" y="140" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-25" target="8OZ3cucDwTNeZ1lgkhnb-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-25" value="&lt;div&gt;ensures accountability, fairness, and transparency in a company’s&lt;/div&gt;&lt;div&gt;relationship with its all stakeholders&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3140" y="140" width="200" height="50" as="geometry" />
+          <mxGeometry x="3113" y="140" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-27" value="&lt;div&gt;The Corporate Governance framework consists of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) explicit and implicit contracts between the company and the stakeholders for&amp;nbsp;&lt;span&gt;distribution of responsibilities, rights, and rewards.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(ii) procedures for reconciling the sometimes-conflicting interests of&amp;nbsp;&lt;span&gt;stakeholders in accordance with their duties, privileges, and roles, and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(iii) procedures for proper supervision, control, and information-flows to serve as&amp;nbsp;&lt;span&gt;a system of checks-and-balances.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3092.5" y="230" width="295" height="190" as="geometry" />
+          <mxGeometry x="3065.5" y="230" width="295" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3760" y="39.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-29" value="&lt;div&gt;in Cyber Crime the&lt;/div&gt;&lt;div&gt;computer technology is involved and thus it is a Computer related crime.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3635" y="-20" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-34" target="8OZ3cucDwTNeZ1lgkhnb-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-51" target="8OZ3cucDwTNeZ1lgkhnb-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-54" target="8OZ3cucDwTNeZ1lgkhnb-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-54" value="[Section 43A] Compensation for failure to protect data" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="160" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="160" width="470" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-55" value="&lt;div&gt;Where a body corporate, possessing, dealing or handling any sensitive personal data&lt;/div&gt;&lt;div&gt;or information in a computer resource which it owns, controls or operates, is negligent&lt;/div&gt;&lt;div&gt;in implementing and maintaining reasonable security practices and procedures and&lt;/div&gt;&lt;div&gt;thereby causes wrongful loss or wrongful gain to any person, such body corporate&lt;/div&gt;&lt;div&gt;shall be liable to pay damages by way of compensation to the person so affected.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-54">
+          <mxGeometry y="40" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-51" value="[Section 43] Penalty and compensation for damage to computer, computer&#xa;system, etc." style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="100" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="100" width="470" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-52" value="&lt;div&gt;If any person without permission of the owner or any other person who is in-charge&lt;/div&gt;&lt;div&gt;of a computer, computer system or computer network -&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(a) accesses or secures access to such computer, computer system or computer&lt;/div&gt;&lt;div&gt;network or computer resource;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) downloads, copies or extracts any data, computer database or information from&lt;/div&gt;&lt;div&gt;such computer, computer system or computer network including information or&lt;/div&gt;&lt;div&gt;data held or stored in any removable storage medium;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(c) introduces or causes to be introduced any computer contaminant or computer&lt;/div&gt;&lt;div&gt;virus into any computer, computer system or computer network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) damages or causes to be damaged any computer, computer system or computer&lt;/div&gt;&lt;div&gt;network, data, computer database or any other programmes residing in such&lt;/div&gt;&lt;div&gt;computer, computer system or computer network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e) disrupts or causes disruption of any computer, computer system or computer&lt;/div&gt;&lt;div&gt;network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(f) denies or causes the denial of access to any person authorized to access any&lt;/div&gt;&lt;div&gt;computer, computer system or computer network by any means;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(g) provides any assistance to any person to facilitate access to a computer,&lt;/div&gt;&lt;div&gt;computer system or computer network in contravention of the provisions of this&lt;/div&gt;&lt;div&gt;Act, rules or regulations made there under;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(h) charges the services availed of by a person to the account of another person by&lt;/div&gt;&lt;div&gt;tampering with or manipulating any computer, computer system, or computer&lt;/div&gt;&lt;div&gt;network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) destroys, deletes or alters any information residing in a computer resource or&lt;/div&gt;&lt;div&gt;diminishes its value or utility or affects it injuriously by any means;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(j) steal, conceals, destroys or alters or causes any person to steal, conceal, destroy&lt;/div&gt;&lt;div&gt;or alter any computer source code used for a computer resource with an&lt;/div&gt;&lt;div&gt;intention to cause damage,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;he shall be liable to pay damages by way of compensation to the person so&lt;/div&gt;&lt;div&gt;affected.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-51">
+          <mxGeometry y="40" width="470" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-34" value="Definitions in IT Act" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3700" y="40" width="120" height="40" as="geometry">
+            <mxRectangle x="3700" y="40" width="470" height="1090" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-35" value="&lt;div&gt;2(a) “&lt;b&gt;&lt;u&gt;Access&lt;/u&gt;&lt;/b&gt;” with its grammatical variations and cognate expressions means gaining&lt;/div&gt;&lt;div&gt;entry into, instructing or communicating with the logical, arithmetical, or&lt;/div&gt;&lt;div&gt;memory function resources of a computer, computer system or computer&lt;/div&gt;&lt;div&gt;network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2(i) “&lt;b&gt;&lt;u&gt;Computer&lt;/u&gt;&lt;/b&gt;” means any electronic, magnetic, optical or other high-speed data&lt;/div&gt;&lt;div&gt;processing device or system which performs logical, arithmetic, and memory&lt;/div&gt;&lt;div&gt;functions by manipulations of electronic, magnetic or optical impulses, and&lt;/div&gt;&lt;div&gt;includes all input, output, processing, storage, computer software, or&lt;/div&gt;&lt;div&gt;communication facilities which are connected or related to the computer in a&lt;/div&gt;&lt;div&gt;computer system or computer network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2(j) “&lt;b&gt;&lt;u&gt;Computer Network&lt;/u&gt;&lt;/b&gt;” means the interconnection of one or more Computers or&lt;/div&gt;&lt;div&gt;Computer systems or Communication device through-&lt;/div&gt;&lt;div&gt;(i) the use of satellite, microwave, terrestrial line, wire, wireless or other&lt;/div&gt;&lt;div&gt;communication media; and&lt;/div&gt;&lt;div&gt;(ii) terminals or a complex consisting of two or more interconnected&lt;/div&gt;&lt;div&gt;computers or communication device whether or not the interconnection&lt;/div&gt;&lt;div&gt;is continuously maintained;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2(o) “&lt;b&gt;&lt;u&gt;Data&lt;/u&gt;&lt;/b&gt;” means a representation of information, knowledge, facts, concepts or&lt;/div&gt;&lt;div&gt;instructions which are being prepared or have been prepared in a formalized&lt;/div&gt;&lt;div&gt;manner, and is intended to be processed, is being processed or has been&lt;/div&gt;&lt;div&gt;processed in a computer system or computer network and may be in any form&lt;/div&gt;&lt;div&gt;(including computer printouts magnetic or optical storage media, punched&lt;/div&gt;&lt;div&gt;cards, punched tapes) or stored internally in the memory of the computer;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2(v) “&lt;b&gt;&lt;u&gt;Information&lt;/u&gt;&lt;/b&gt;” includes data, message, text, images, sound, voice, codes,&lt;/div&gt;&lt;div&gt;computer programmes, software and databases or microfilm or computer&lt;/div&gt;&lt;div&gt;generated microfiche;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;(i) &quot;&lt;b&gt;&lt;u&gt;computer contaminant&lt;/u&gt;&lt;/b&gt;&quot; means any set of computer instructions that are&lt;/div&gt;&lt;div&gt;designed—&lt;/div&gt;&lt;div&gt;(a) to modify, destroy, record, transmit data or programme residing within&lt;/div&gt;&lt;div&gt;a computer, computer system or computer network; or&lt;/div&gt;&lt;div&gt;(b) by any means to usurp the normal operation of the computer, computer&lt;/div&gt;&lt;div&gt;system, or computer network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &quot;&lt;b&gt;&lt;u&gt;computer database&lt;/u&gt;&lt;/b&gt;&quot; means a representation of information, know-ledge,&lt;/div&gt;&lt;div&gt;facts, concepts or instructions in text, image, audio, video that are being&lt;/div&gt;&lt;div&gt;prepared or have been prepared in a formalized manner or have been produced&lt;/div&gt;&lt;div&gt;by a computer, computer system or computer network and are intended for use&lt;/div&gt;&lt;div&gt;in a computer, computer system or computer network;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) &quot;&lt;b&gt;&lt;u&gt;computer virus&lt;/u&gt;&lt;/b&gt;&quot; means any computer instruction, information, data or&lt;/div&gt;&lt;div&gt;programme that destroys, damages, degrades or adversely affects the&lt;/div&gt;&lt;div&gt;performance of a computer resource or attaches itself to another computer&lt;/div&gt;&lt;div&gt;resource and operates when a programme, data or instruction is executed or&lt;/div&gt;&lt;div&gt;some other event takes place in that computer resource;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) &quot;&lt;b&gt;&lt;u&gt;damage&lt;/u&gt;&lt;/b&gt;&quot; means to destroy, alter, delete, add, modify or rearrange any&lt;/div&gt;&lt;div&gt;computer resource by any means;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &quot;&lt;b&gt;&lt;u&gt;computer source code&lt;/u&gt;&lt;/b&gt;&quot; means the listing of programmes, computer&lt;/div&gt;&lt;div&gt;commands, design and layout and programme analysis of computer resource in&lt;/div&gt;&lt;div&gt;any form.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;(i) &quot;&lt;b&gt;&lt;u&gt;body corporate&lt;/u&gt;&lt;/b&gt;&quot; means any company and includes a firm, sole proprietorship&lt;/div&gt;&lt;div&gt;or other association of individuals engaged in commercial or professional&lt;/div&gt;&lt;div&gt;activities;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) &quot;&lt;b&gt;&lt;u&gt;reasonable security practices and procedures&lt;/u&gt;&lt;/b&gt;&quot; means security practices and&lt;/div&gt;&lt;div&gt;&lt;span&gt;procedures designed to protect such information from unauthorized access,&lt;/span&gt;damage, use, modification, disclosure or impairment, as may be specified in an&lt;/div&gt;&lt;div&gt;agreement between the parties or as may be specified in any law for the time&lt;/div&gt;&lt;div&gt;being in force and in the absence of such agreement or any law, such reasonable&lt;/div&gt;&lt;div&gt;security practices and procedures, as may be prescribed by the Central&lt;/div&gt;&lt;div&gt;Government in consultation with such professional bodies or associations as it&lt;/div&gt;&lt;div&gt;may deem fit;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) &quot;&lt;b&gt;&lt;u&gt;sensitive personal data or information&lt;/u&gt;&lt;/b&gt;&quot; means such personal information as&lt;/div&gt;&lt;div&gt;may be prescribed by the Central Government in consultation with such&lt;/div&gt;&lt;div&gt;professional bodies or associations as it may deem fit.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-34">
+          <mxGeometry y="40" width="470" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-57" target="8OZ3cucDwTNeZ1lgkhnb-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-57" value="[Section 65] Tampering with Computer Source Documents" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="220" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="220" width="470" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-58" value="&lt;div&gt;Whoever knowingly or intentionally conceals, destroys or alters or intentionally or&lt;/div&gt;&lt;div&gt;knowingly causes another to conceal, destroy or alter any computer source code used&lt;/div&gt;&lt;div&gt;for a computer, computer program, computer system or computer network, when the&lt;/div&gt;&lt;div&gt;computer source code is required to be kept or maintained by law for the time being&lt;/div&gt;&lt;div&gt;in force, shall be punishable with imprisonment up to three years, or with fine which&lt;/div&gt;&lt;div&gt;may extend up to 2 lakh rupees, or with both.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-57">
+          <mxGeometry y="40" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-60" value="[Section 66] Computer Related Offences" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="280" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="280" width="470" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-61" value="&lt;div&gt;If any person, dishonestly, or fraudulently, does any act referred to in Section 43, he&lt;/div&gt;&lt;div&gt;shall be punishable with imprisonment for a term which may extend to three years or&lt;/div&gt;&lt;div&gt;with fine which may extend to 5 lakh rupees or with both.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-60">
+          <mxGeometry y="40" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
