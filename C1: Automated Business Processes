@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T02:53:54.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="v7yhDp0w8t99kpthPzRi" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T03:17:58.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="3RndSyJuvU0xWj_94ez2" version="14.4.7" type="github">
   <diagram id="tqu1Byeb49FfLhgSseQx" name="Page-1">
-    <mxGraphModel dx="864" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1096,10 +1096,13 @@
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-27" value="&lt;div&gt;The Corporate Governance framework consists of:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) explicit and implicit contracts between the company and the stakeholders for&amp;nbsp;&lt;span&gt;distribution of responsibilities, rights, and rewards.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(ii) procedures for reconciling the sometimes-conflicting interests of&amp;nbsp;&lt;span&gt;stakeholders in accordance with their duties, privileges, and roles, and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(iii) procedures for proper supervision, control, and information-flows to serve as&amp;nbsp;&lt;span&gt;a system of checks-and-balances.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3065.5" y="230" width="295" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-29">
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-29" target="8OZ3cucDwTNeZ1lgkhnb-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3760" y="39.99999999999977" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-29" target="8OZ3cucDwTNeZ1lgkhnb-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-29" value="&lt;div&gt;in Cyber Crime the&lt;/div&gt;&lt;div&gt;computer technology is involved and thus it is a Computer related crime.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3635" y="-20" width="250" height="40" as="geometry" />
@@ -1148,13 +1151,98 @@
         <mxCell id="8OZ3cucDwTNeZ1lgkhnb-58" value="&lt;div&gt;Whoever knowingly or intentionally conceals, destroys or alters or intentionally or&lt;/div&gt;&lt;div&gt;knowingly causes another to conceal, destroy or alter any computer source code used&lt;/div&gt;&lt;div&gt;for a computer, computer program, computer system or computer network, when the&lt;/div&gt;&lt;div&gt;computer source code is required to be kept or maintained by law for the time being&lt;/div&gt;&lt;div&gt;in force, shall be punishable with imprisonment up to three years, or with fine which&lt;/div&gt;&lt;div&gt;may extend up to 2 lakh rupees, or with both.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-57">
           <mxGeometry y="40" width="470" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-60" value="[Section 66] Computer Related Offences" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-60" target="8OZ3cucDwTNeZ1lgkhnb-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-60" value="[Section 66B] Punishment for dishonestly receiving stolen computer resource or&#xa;communication device" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3525" y="280" width="470" height="40" as="geometry">
-            <mxRectangle x="3525" y="280" width="470" height="100" as="alternateBounds" />
+            <mxRectangle x="3525" y="280" width="470" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-61" value="&lt;div&gt;If any person, dishonestly, or fraudulently, does any act referred to in Section 43, he&lt;/div&gt;&lt;div&gt;shall be punishable with imprisonment for a term which may extend to three years or&lt;/div&gt;&lt;div&gt;with fine which may extend to 5 lakh rupees or with both.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-60">
-          <mxGeometry y="40" width="470" height="60" as="geometry" />
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-61" value="&lt;div&gt;Whoever dishonestly receives or retains any stolen computer resource or&lt;/div&gt;&lt;div&gt;communication device knowing or having reason to believe the same to be stolen&lt;/div&gt;&lt;div&gt;computer resource or communication device, shall be punished with imprisonment of&lt;/div&gt;&lt;div&gt;either description for a term which may extend to three years or with fine which may&lt;/div&gt;&lt;div&gt;extend to rupees one lakh or with both.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-60">
+          <mxGeometry y="40" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-63" target="8OZ3cucDwTNeZ1lgkhnb-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-63" value="[Section 66C] Punishment for identity theft" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="340" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="340" width="470" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-64" value="&lt;div&gt;Whoever, fraudulently or dishonestly make use of the electronic signature, password&lt;/div&gt;&lt;div&gt;or any other unique identification feature of any other person, shall be punished with&lt;/div&gt;&lt;div&gt;imprisonment of either description for a term which may extend to three years and&lt;/div&gt;&lt;div&gt;shall also be liable to fine which may extend to rupees one lakh.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-63">
+          <mxGeometry y="40" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-66" target="8OZ3cucDwTNeZ1lgkhnb-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-66" value="[Section 66D] Punishment for cheating by personation by using computer&#xa;resource" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="400" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="400" width="470" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-67" value="&lt;div&gt;Whoever, by means of any communication device or computer resource cheats by&lt;/div&gt;&lt;div&gt;personation, shall be punished with imprisonment of either description for a term&lt;/div&gt;&lt;div&gt;which may extend to three years and shall also be liable to fine which may extend to&lt;/div&gt;&lt;div&gt;one lakh rupees.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-66">
+          <mxGeometry y="40" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-69" target="8OZ3cucDwTNeZ1lgkhnb-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-69" value="[Section 66E] Punishment for violation of privacy" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="460" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="460" width="470" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-70" value="&lt;div&gt;Whoever, intentionally or knowingly captures, publishes or transmits the image of a&lt;/div&gt;&lt;div&gt;private area of any person without his or her consent, under circumstances violating&lt;/div&gt;&lt;div&gt;the privacy of that person, shall be punished with imprisonment which may extend to&lt;/div&gt;&lt;div&gt;three years or with fine not exceeding two lakh rupees, or with both.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-69">
+          <mxGeometry y="40" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-72" target="8OZ3cucDwTNeZ1lgkhnb-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-72" value="[Section 66F] Punishment for cyber terrorism" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="520" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="520" width="470" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-73" value="&lt;div&gt;(1) Whoever -&lt;/div&gt;&lt;div&gt;(A) with intent to threaten the unity, integrity, security or sovereignty of India&lt;/div&gt;&lt;div&gt;or to strike terror in the people or any section of the people by –&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) denying or cause the denial of access to any person authorized to&lt;/div&gt;&lt;div&gt;access computer resource; or&lt;/div&gt;&lt;div&gt;(ii) attempting to penetrate or access a computer resource without&lt;/div&gt;&lt;div&gt;authorization or exceeding authorized access; or&lt;/div&gt;&lt;div&gt;(iii) introducing or causing to introduce any computer contaminant,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;(2) Whoever commits or conspires to commit cyber terrorism shall be punishable&lt;/div&gt;&lt;div&gt;with imprisonment which may extend to imprisonment for life.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-72">
+          <mxGeometry y="40" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-75" target="8OZ3cucDwTNeZ1lgkhnb-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-75" value="[Section 66F] Punishment for cyber terrorism" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="580" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="520" width="470" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-76" value="&lt;div&gt;(1) Whoever -&lt;/div&gt;&lt;div&gt;(A) with intent to threaten the unity, integrity, security or sovereignty of India&lt;/div&gt;&lt;div&gt;or to strike terror in the people or any section of the people by –&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) denying or cause the denial of access to any person authorized to&lt;/div&gt;&lt;div&gt;access computer resource; or&lt;/div&gt;&lt;div&gt;(ii) attempting to penetrate or access a computer resource without&lt;/div&gt;&lt;div&gt;authorization or exceeding authorized access; or&lt;/div&gt;&lt;div&gt;(iii) introducing or causing to introduce any computer contaminant,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;(2) Whoever commits or conspires to commit cyber terrorism shall be punishable&lt;/div&gt;&lt;div&gt;with imprisonment which may extend to imprisonment for life.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-75">
+          <mxGeometry y="40" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OZ3cucDwTNeZ1lgkhnb-78" target="8OZ3cucDwTNeZ1lgkhnb-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-81" value="[Section 67A] Punishment for publishing or transmitting of material containing&#xa;sexually explicit act, etc. in electronic form" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="700" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="700" width="470" height="440" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-82" value="&lt;div&gt;(a) publishes or transmits or causes to be published or transmitted material in any&lt;/div&gt;&lt;div&gt;electronic form which depicts children engaged in sexually explicit act or&lt;/div&gt;&lt;div&gt;conduct; or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(b) creates text or digital images, collects, seeks, browses, downloads, advertises,&lt;/div&gt;&lt;div&gt;promotes, exchanges or distributes material in any electronic form depicting&lt;/div&gt;&lt;div&gt;children in obscene or indecent or sexually explicit manner; or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;(c) cultivates, entices or induces children to online relationship with one or more&lt;/div&gt;&lt;div&gt;children for and on sexually explicit act or in a manner that may offend a&lt;/div&gt;&lt;div&gt;reasonable adult on the computer resource; or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(d) facilitates abusing children online; or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(e) records in any electronic form own abuse or that of others pertaining to sexually&lt;/div&gt;&lt;div&gt;explicit act with children,&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1st conviction - 5 yrs free security, 10 lakh fine&lt;/div&gt;&lt;div&gt;2nd conviction - 7 yrs free security, ten lakh fine&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;exception&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(i)&amp;nbsp; for the public good&lt;/span&gt;&lt;/div&gt;&lt;div&gt;on the ground that such book, pamphlet, paper writing, drawing, painting,&lt;/div&gt;&lt;div&gt;representation or figure is in the interest of science, literature, art or learning or&lt;/div&gt;&lt;div&gt;other objects of general concern; or&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ii) which is kept or used for bona fide heritage or religious purposes.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-81">
+          <mxGeometry y="40" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-78" value="[Section 67] Punishment for publishing or transmitting obscene material in&#xa;electronic form" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3525" y="640" width="470" height="40" as="geometry">
+            <mxRectangle x="3525" y="640" width="470" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-79" value="&lt;div&gt;Whoever publishes or transmits or causes to be published or transmitted in the&lt;/div&gt;&lt;div&gt;electronic form, any material which is lascivious or appeals to the prurient interest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1st conviction - 3 yrs free security, 5 lakh fine&lt;/div&gt;&lt;div&gt;2nd conviction - 5 yrs free security, ten lakh fine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-78">
+          <mxGeometry y="40" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-84" value="Computer &#xa;Related Offences" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3940" y="-20" width="120" height="40" as="geometry">
+            <mxRectangle x="3940" y="-20" width="470" height="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OZ3cucDwTNeZ1lgkhnb-85" value="1.&amp;nbsp;Harassment via fake public profile on social networking site&lt;br&gt;2.&amp;nbsp;Email Account Hacking:&lt;br&gt;3.&amp;nbsp;Credit Card Fraud:&lt;br&gt;4.&amp;nbsp;&lt;span&gt;Web Defacement: &lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The homepage of a website is replaced with a&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;pornographic or defamatory page.&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;5.&amp;nbsp;Introducing Viruses, Worms, Backdoors, Rootkits, Trojans, and Bugs:&lt;/div&gt;&lt;div&gt;6.&amp;nbsp;Cyber Terrorism:&lt;/div&gt;&lt;div&gt;7. Online sale of illegal Articles:&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&amp;nbsp;Cyber Pornography:&lt;/div&gt;&lt;div&gt;9.&amp;nbsp;Phishing and Email Scams:&lt;/div&gt;&lt;div&gt;10.&amp;nbsp;Theft of Confidential Information:&lt;/div&gt;&lt;div&gt;11.&amp;nbsp;Source Code Theft:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8OZ3cucDwTNeZ1lgkhnb-84">
+          <mxGeometry y="40" width="470" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
