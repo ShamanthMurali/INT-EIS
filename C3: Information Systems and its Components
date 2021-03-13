@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T23:00:20.038Z" agent="5.0 (X11)" etag="p0SUtoPXO_KoEtF7hNAi" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T23:12:03.030Z" agent="5.0 (X11)" etag="7rj6MLVh7qYuNMrxTEza" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2228" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2730" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,6 +581,9 @@
         <mxCell id="WNgWYACzQTJIvaHVFque-103" value="A data warehouse is a large collection of business data used to help an organization make decisions. The process of&amp;nbsp; extracting data from source systems and bringing it into the data warehouse is&amp;nbsp; commonly called ETL, which stands for Extraction, Transformation, and &lt;br&gt;Loading." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="930" width="400" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WNgWYACzQTJIvaHVFque-104" target="16K27zCDctFIK5bj_1se-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-104" value="Benefits" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="10" y="1460" width="120" height="40" as="geometry">
             <mxRectangle x="10" y="1460" width="380" height="320" as="alternateBounds" />
@@ -662,6 +665,47 @@
         </mxCell>
         <mxCell id="WNgWYACzQTJIvaHVFque-133" value="start big then split into small parts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="16K27zCDctFIK5bj_1se-3" target="16K27zCDctFIK5bj_1se-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-3" value="Data Mining" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="16K27zCDctFIK5bj_1se-5" target="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-5" value="Data Mining is the process of analysing data to find previously&lt;br&gt;unknown trends, patterns, and associations to make decisions. It involves extracting&lt;br&gt;useful data as per the requirement from a collection of raw facts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1600" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-16" value="Data Mining process" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="1670" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-17" value="Data &#xa;Integration" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-18" value="Data&#xa; Selection" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-19" value="Data &#xa;Cleaning" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-20" value="Data&#xa; Transformation" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="274" y="33" width="126" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-21" value="Data&#xa; Mining" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="388" y="33" width="102" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-22" value="Pattern &#xa;Evaluation" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="478" y="33" width="102" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-23" value="Knowledge&#xa;   Presentation" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="568" y="33" width="102" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="16K27zCDctFIK5bj_1se-24" value="Decisions" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="16K27zCDctFIK5bj_1se-16">
+          <mxGeometry x="658" y="33" width="102" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
