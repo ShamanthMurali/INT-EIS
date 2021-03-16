@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T15:50:04.114Z" agent="5.0 (X11)" etag="f2o0ueSqylY6zp82IURV" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T15:54:19.860Z" agent="5.0 (X11)" etag="KUQ2ghC4La2KC1pH2sMq" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2948" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1038,8 +1038,10 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="P1whtggGsQy8yPSGM--a-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="P1whtggGsQy8yPSGM--a-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="w9T0O8eBJ9PRjbyhEmXW-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3750" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="P1whtggGsQy8yPSGM--a-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1125,35 +1127,33 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-58" value="&lt;div&gt;Controls:&lt;/div&gt;&lt;div&gt;3 steps –&amp;nbsp;&lt;span&gt;mechanism - Identification,&amp;nbsp;&lt;/span&gt;&lt;span&gt;Authentication &amp;amp; Authorization.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Cryptography: Transform data&amp;nbsp;&lt;span&gt;into codes that are meaningless&amp;nbsp;&lt;/span&gt;&lt;span&gt;for a non-authenticated person.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Passwords: User identification&amp;nbsp;&lt;span&gt;by authentication mechanism&amp;nbsp;&lt;/span&gt;&lt;span&gt;with characteristics like DoB&amp;nbsp;&lt;/span&gt;&lt;span&gt;etc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-PIN: Random no. assigned to&amp;nbsp;&lt;span&gt;user-based on user&amp;nbsp;&lt;/span&gt;&lt;span&gt;characteristics.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Identification Cards: Used to&amp;nbsp;&lt;span&gt;store information required. in&amp;nbsp;&lt;/span&gt;&lt;span&gt;authentication.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Biometric Devices:&amp;nbsp;&lt;span&gt;Identification through electronic forms&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-57" vertex="1">
           <mxGeometry y="40" width="330" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-78" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3750" y="440" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-80" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-80" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3750" y="440" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-76" edge="1">
+        <mxCell id="P1whtggGsQy8yPSGM--a-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-76" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3750" y="460" />
               <mxPoint x="3555" y="460" />
             </Array>
+            <mxPoint x="3750" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-82" edge="1">
+        <mxCell id="P1whtggGsQy8yPSGM--a-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-82" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3750" y="460" />
               <mxPoint x="3945" y="460" />
             </Array>
+            <mxPoint x="3750" y="440" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-59" value="Input &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3690" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="3690" y="400" width="300" height="330" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-60" value="&lt;div&gt;Ensure&amp;nbsp;&lt;span&gt;accuracy/completeness of&amp;nbsp;&lt;/span&gt;&lt;span&gt;data to be inputted into&amp;nbsp;&lt;/span&gt;&lt;span&gt;application system.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Source Document Control:&amp;nbsp;&lt;span&gt;To implement control&amp;nbsp;&lt;/span&gt;&lt;span&gt;procedures over source&amp;nbsp;&lt;/span&gt;&lt;span&gt;documents to account for&amp;nbsp;&lt;/span&gt;&lt;span&gt;each document.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Data Coding Control: To&amp;nbsp;&lt;span&gt;reduce user error during&amp;nbsp;&lt;/span&gt;&lt;span&gt;data feeding.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Batch Control: To&amp;nbsp;&lt;span&gt;prevent/detect errors in&amp;nbsp;&lt;/span&gt;&lt;span&gt;physical/logical batch.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Validation Control: Detect&amp;nbsp;&lt;span&gt;errors in transaction data&amp;nbsp;&lt;/span&gt;&lt;span&gt;before data are processed.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-59" vertex="1">
-          <mxGeometry y="40" width="300" height="290" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-61" value="Communication &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="3560" y="400" width="120" height="40" as="geometry">
@@ -1187,7 +1187,7 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-68" value="&lt;div&gt;Responsible for daily running of h/w/&lt;/div&gt;&lt;div&gt;&amp;amp; s/w computer, n/w operations, file library etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Computer Operations: Directly support daily execution of test or&lt;/div&gt;&lt;div&gt;production systems on h/w or s/w platform.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Network Operations: Functioning of n/w operations, monitoring&lt;/div&gt;&lt;div&gt;communication channels, devices etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Data Preparation &amp;amp; Entry: Keyboard environments designed to&lt;/div&gt;&lt;div&gt;promote speed/accuracy to maintain wellbeing of operators.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Production Control: Includes functions like receipt/dispatch of&lt;/div&gt;&lt;div&gt;I/O; job scheduling; mgt. of SLAs etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-File Library: Includes mgt. of storage media - magnetic tapes etc.&lt;/div&gt;&lt;div&gt;-Documentation and Program Library: Ensures that&lt;/div&gt;&lt;div&gt;documentation is stored securely; up-to-date and that adequate&lt;/div&gt;&lt;div&gt;backup exists for documentation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Technical support: Assist end-users to employ h/w, software&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;-Capacity Planning and Monitoring Performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Management of Outsourced Operations.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-67" vertex="1">
           <mxGeometry y="40" width="380" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-76" value="Source &#xa;Document Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="P1whtggGsQy8yPSGM--a-76" value="Source &#xa;Document Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="3495" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3495" y="480" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
@@ -1195,7 +1195,7 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-77" value="&lt;div&gt;To implement control procedures over source documents to account for each document.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-76" vertex="1">
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-78" value="Data Coding &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="P1whtggGsQy8yPSGM--a-78" value="Data Coding &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="3625" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3625" y="480" width="390" height="140" as="alternateBounds" />
           </mxGeometry>
@@ -1203,7 +1203,7 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-79" value="1.&amp;nbsp;Transcription Errors:&amp;nbsp;Addition errors,&amp;nbsp;&lt;span&gt;Truncation Errors (when a digit is&lt;/span&gt;&lt;div&gt;removed from the code),&lt;span&gt;Substitution Errors (replacement of on&lt;/span&gt;&lt;/div&gt;&lt;div&gt;digit in a code with another).&lt;/div&gt;&lt;br&gt;2. Transposition Errors:&amp;nbsp;&lt;span&gt;987654 that is transposed into&lt;/span&gt;&lt;div&gt;897654&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-78" vertex="1">
           <mxGeometry y="40" width="390" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-80" value="Batch Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="P1whtggGsQy8yPSGM--a-80" value="Batch Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="3755" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3755" y="480" width="410" height="220" as="alternateBounds" />
           </mxGeometry>
@@ -1211,7 +1211,7 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-81" value="&lt;div&gt;&lt;div&gt;Batching is the process of grouping together transactions&lt;/div&gt;&lt;div&gt;that bear some type of relationship to each other.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Financial totals: Grand totals calculated for each field containing&lt;/div&gt;&lt;div&gt;monetary amounts, e.g. the total salary paid to employees of an&lt;/div&gt;&lt;div&gt;organization can be totaled.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Hash totals: Grand totals calculated for any code on a document in&lt;/div&gt;&lt;div&gt;the batch, e.g., the source document serial numbers can be totaled.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Document/Record Counts: Grand totals for number of documents /&lt;/div&gt;&lt;div&gt;record in batch.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-80" vertex="1">
           <mxGeometry y="40" width="410" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-82" value="Validation Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="P1whtggGsQy8yPSGM--a-82" value="Validation Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
           <mxGeometry x="3885" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3885" y="480" width="240" height="110" as="alternateBounds" />
           </mxGeometry>
@@ -1219,6 +1219,11 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-83" value="&lt;div&gt;[data validation]&lt;/div&gt;&lt;div&gt;Input validation controls are intended to detect errors in the transaction data before the data are processed.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-82" vertex="1">
           <mxGeometry y="40" width="240" height="70" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;b&gt;Input&lt;br&gt;Controls&lt;/b&gt;" treeRoot="1" id="w9T0O8eBJ9PRjbyhEmXW-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="3690" y="400" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
