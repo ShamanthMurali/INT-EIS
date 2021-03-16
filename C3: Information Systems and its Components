@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T23:02:18.704Z" agent="5.0 (X11)" etag="zlipFM2vqCsjGRGZGv2X" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T23:14:06.338Z" agent="5.0 (X11)" etag="Hfm3rUdNgJwaKNE6CAyq" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2740" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -168,9 +168,6 @@
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-25" value="&lt;div&gt;Objectives of&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-31" value="&lt;div&gt;Logical Access&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4600" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-32" value="&lt;div&gt;Managerial&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4740" y="400" width="120" height="40" as="geometry" />
@@ -1309,8 +1306,10 @@
             <mxPoint x="4520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4660" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-32">
           <mxGeometry relative="1" as="geometry" />
@@ -1321,16 +1320,8 @@
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. detecting unauthorized users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reconstructing Events&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;keep a log of system errors, security violation, processing errors etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Personal Accountability&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;monitor user activity at the lowest level of detail- prevention of violation of cos policy.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="4520" y="200" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-44" value="&lt;div&gt;Physical &lt;br&gt;&lt;/div&gt;&lt;div&gt;Security Controls&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="4460" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="4460" y="400" width="480" height="240" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-45" value="• &lt;u&gt;&lt;b&gt;Risk Assessment&lt;/b&gt;&lt;/u&gt;: The auditor must satisfy him/herself that the risk&lt;br&gt;assessment procedure adequately covers periodic and timely assessment&lt;br&gt;of all assets, physical access threats, vulnerabilities of safeguards and&lt;br&gt;&lt;div&gt;exposures there from.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• &lt;u&gt;&lt;b&gt;Controls Assessment&lt;/b&gt;&lt;/u&gt;: The auditor based on the risk profile evaluates&lt;br&gt;whether the physical access controls are in place and adequate to protect&lt;br&gt;&lt;div&gt;the IS assets against the risks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• &lt;u&gt;&lt;b&gt;Review of Documents&lt;/b&gt;&lt;/u&gt;: It requires examination of relevant&lt;br&gt;documentation such as the security policy and procedures, premises&lt;br&gt;plans, building plans, inventory list and cabling diagrams." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-44">
-          <mxGeometry y="40" width="480" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-46" value="C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="4600" y="460" width="120" height="40" as="geometry">
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-46" value="Logical Access&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4600" y="400" width="120" height="40" as="geometry">
             <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1352,6 +1343,14 @@
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-50">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-44" value="&lt;div&gt;Physical &lt;br&gt;&lt;/div&gt;&lt;div&gt;Security Controls&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4460" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="4460" y="400" width="480" height="790" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-45" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;(a) Role of IS Auditor in Auditing Physical Access Controls:&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• &lt;u&gt;&lt;b&gt;Risk Assessment&lt;/b&gt;&lt;/u&gt;: The auditor must satisfy him/herself that the risk&lt;/div&gt;assessment procedure adequately covers periodic and timely assessment&lt;br&gt;of all assets, physical access threats, vulnerabilities of safeguards and&lt;br&gt;&lt;div&gt;exposures there from.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• &lt;u&gt;&lt;b&gt;Controls Assessment&lt;/b&gt;&lt;/u&gt;: The auditor based on the risk profile evaluates&lt;br&gt;whether the physical access controls are in place and adequate to protect&lt;br&gt;&lt;div&gt;the IS assets against the risks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• &lt;u&gt;&lt;b&gt;Review of Documents&lt;/b&gt;&lt;/u&gt;: It requires examination of relevant&lt;br&gt;documentation such as the security policy and procedures, premises&lt;br&gt;&lt;div&gt;plans, building plans, inventory list and cabling diagrams.&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;(b) Audit of Physical Access Controls:&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(i) &lt;u&gt;&lt;b&gt;Sitting and Marking&lt;/b&gt;&lt;/u&gt;: Auditing building sitting and marking requires&lt;br&gt;attention to several key factors and features, including:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;o &lt;u&gt;&lt;b&gt;Proximity to hazards&lt;/b&gt;&lt;/u&gt;: The IS auditor should estimate the&lt;br&gt;building’s distance to natural and manmade hazards, such as&lt;br&gt;Dams; Rivers, lakes, and canals; Natural gas and petroleum&lt;br&gt;pipelines etc.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;o &lt;u&gt;&lt;b&gt;Marking&lt;/b&gt;&lt;/u&gt;: The IS auditor should inspect the building and&lt;br&gt;surrounding area to see if building(s) containing information&lt;br&gt;processing equipment identify the organization. Marking may be&lt;br&gt;visible on the building itself, but also on signs or parking stickers&lt;br&gt;on vehicles.&lt;br&gt;&lt;br&gt;(ii) &lt;u&gt;&lt;b&gt;Physical barriers&lt;/b&gt;&lt;/u&gt;: This includes fencing, walls, barbed/razor wire,&lt;br&gt;bollards, and crash gates. The IS auditor needs to understand how&lt;br&gt;these are used to control access to the facility and determine their&lt;br&gt;effectiveness.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iii) &lt;u&gt;&lt;b&gt;Surveillance&lt;/b&gt;&lt;/u&gt;: The IS auditor needs to understand how video and&lt;br&gt;human surveillance are used to control and monitor access. He or she&lt;br&gt;needs to understand how (and if) video is recorded and reviewed, and&lt;br&gt;if it is effective in preventing or detecting incidents.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(iv) &lt;b&gt;&lt;u&gt;Guards and dogs&lt;/u&gt;&lt;/b&gt;: The IS auditor need to understand the use and&lt;br&gt;effectiveness of security guards and guard dogs. Processes, policies,&lt;br&gt;procedures, and records should be examined to understand required&lt;br&gt;activities and how they are carried out.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(v) &lt;u&gt;&lt;b&gt;Key-Card systems&lt;/b&gt;&lt;/u&gt;: The IS auditor needs to understand how key-card&lt;br&gt;systems are used to control access to the facility. Some points to&lt;br&gt;consider include: Work zones: Whether the facility is divided into&lt;br&gt;security zones and which persons are permitted to access which zones whether key-card systems record personnel movement; What&lt;br&gt;processes and procedures are used to issue keycards to employees?&lt;br&gt;etc.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-44">
+          <mxGeometry y="40" width="480" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
