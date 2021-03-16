@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T21:52:07.692Z" agent="5.0 (X11)" etag="q9I7UAmfymsPUqU3816k" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T23:02:18.704Z" agent="5.0 (X11)" etag="zlipFM2vqCsjGRGZGv2X" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2294" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2740" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,41 +34,8 @@
         <mxCell id="PJSLrxo2yEzTVkuicQqN-2" value="Components" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-3" target="PJSLrxo2yEzTVkuicQqN-31" edge="1">
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJSLrxo2yEzTVkuicQqN-3" target="w9T0O8eBJ9PRjbyhEmXW-33">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-3" target="PJSLrxo2yEzTVkuicQqN-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4660" y="140" />
-              <mxPoint x="4520" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-3" target="PJSLrxo2yEzTVkuicQqN-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4660" y="140" />
-              <mxPoint x="4380" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-3" target="PJSLrxo2yEzTVkuicQqN-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4660" y="140" />
-              <mxPoint x="4800" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="PJSLrxo2yEzTVkuicQqN-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4660" y="140" />
-              <mxPoint x="4940" y="140" />
-            </Array>
-            <mxPoint x="4650" y="100" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-3" value="Audit Trail" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4600" y="80" width="120" height="40" as="geometry" />
@@ -203,19 +170,21 @@
           <mxGeometry x="790" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-31" value="&lt;div&gt;Logical Access&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4600" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="4600" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-32" value="&lt;div&gt;Managerial&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4740" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="4740" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-33" value="&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4880" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="4880" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-34" value="&lt;div&gt;Physical Security&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4460" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="PJSLrxo2yEzTVkuicQqN-35" value="&lt;div&gt;Environmental&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="4320" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="4320" y="400" width="480" height="530" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-35" value="&lt;div&gt;Environmental&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4320" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-43" value="• &lt;u&gt;&lt;b&gt;Power conditioning&lt;/b&gt;&lt;/u&gt;: The IS auditor should determine how frequently&lt;br&gt;power conditioning equipment, such as UPS, line conditioners, surge&lt;br&gt;protectors, or motor generators, are used, inspected and maintained&lt;br&gt;and if this is performed by qualified personnel.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• &lt;u&gt;&lt;b&gt;Backup power&lt;/b&gt;&lt;/u&gt;: The IS auditor should determine if backup power is&lt;/div&gt;available via electric generators or UPS and how frequently they are&lt;br&gt;tested. S/he should examine maintenance records to see how&lt;br&gt;frequently these components are maintained and if this is done by&lt;br&gt;&lt;div&gt;qualified personnel.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• &lt;u&gt;&lt;b&gt;Heating, Ventilation, and Air Conditioning&lt;/b&gt;&lt;/u&gt; (HVAC): The IS auditor&lt;/div&gt;should determine if HVAC systems are providing adequate&lt;br&gt;temperature and humidity levels, and if they are monitored. Also, the&lt;br&gt;auditor should determine if HVAC systems are properly maintained&lt;br&gt;and if qualified persons do this.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• &lt;u&gt;&lt;b&gt;Water detection&lt;/b&gt;&lt;/u&gt;: The IS auditor should determine if any water&lt;/div&gt;detectors are used in rooms where computers are used. He or she&lt;br&gt;should determine how frequently these are tested and if they are&lt;br&gt;monitored.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• &lt;u&gt;&lt;b&gt;Fire detection and suppression&lt;/b&gt;&lt;/u&gt;: The IS auditor should determine if&lt;/div&gt;fire detection equipment is adequate, if staff members understand&lt;br&gt;their function, and if they are tested. He or she should determine how&lt;br&gt;frequently fire suppression systems are inspected and tested, and if&lt;br&gt;the organization has emergency evacuation plans and conducts fire&lt;br&gt;drills.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• &lt;u&gt;&lt;b&gt;Cleanliness&lt;/b&gt;&lt;/u&gt;: The IS auditor should examine data centers to see how&lt;/div&gt;clean they are. IT equipment air filters and the inside of some IT&lt;br&gt;components should be examined to see if there is an accumulation of&lt;br&gt;dust and dirt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PJSLrxo2yEzTVkuicQqN-35">
+          <mxGeometry y="40" width="480" height="490" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-44" value="input devices" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-1170" y="320" width="120" height="40" as="geometry">
@@ -1324,6 +1293,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-14" value="&lt;div&gt;1. an snapshot(screenshot) is taken when ever an transaction of material in nature happens&lt;/div&gt;&lt;div&gt;2. the auditor shall audit based on the images&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;features - simple, basic method&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;disadvantages - completely manual, time consuming, and difficult.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-13">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-33" target="w9T0O8eBJ9PRjbyhEmXW-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-33" value="it refers to recording or logging of activities at the operating system network, application user and database levels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="140" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. detecting unauthorized users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reconstructing Events&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;keep a log of system errors, security violation, processing errors etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Personal Accountability&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;monitor user activity at the lowest level of detail- prevention of violation of cos policy.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="200" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-44" value="&lt;div&gt;Physical &lt;br&gt;&lt;/div&gt;&lt;div&gt;Security Controls&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4460" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="4460" y="400" width="480" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-45" value="• &lt;u&gt;&lt;b&gt;Risk Assessment&lt;/b&gt;&lt;/u&gt;: The auditor must satisfy him/herself that the risk&lt;br&gt;assessment procedure adequately covers periodic and timely assessment&lt;br&gt;of all assets, physical access threats, vulnerabilities of safeguards and&lt;br&gt;&lt;div&gt;exposures there from.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• &lt;u&gt;&lt;b&gt;Controls Assessment&lt;/b&gt;&lt;/u&gt;: The auditor based on the risk profile evaluates&lt;br&gt;whether the physical access controls are in place and adequate to protect&lt;br&gt;&lt;div&gt;the IS assets against the risks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;• &lt;u&gt;&lt;b&gt;Review of Documents&lt;/b&gt;&lt;/u&gt;: It requires examination of relevant&lt;br&gt;documentation such as the security policy and procedures, premises&lt;br&gt;plans, building plans, inventory list and cabling diagrams." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-44">
+          <mxGeometry y="40" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-46" value="C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4600" y="460" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-46">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-48" value="C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4740" y="460" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-48">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-50" value="C" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="4880" y="460" width="120" height="40" as="geometry">
+            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-50">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
