@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T01:51:28.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NWg7Ri0LVD5JYr5A6qha" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T02:28:23.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6TAFqMLL0T9IMvkTukl_" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2951" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -944,32 +944,24 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-1" value="Access controls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-5" value="Network Access &#xa;Control" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="2175" y="680" width="120" height="60" as="geometry">
-            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-5">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-7" value="User &#xa;Responsibilities" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2045" y="740" width="120" height="40" as="geometry">
-            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="2045" y="740" width="220" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-7">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-8" value="&lt;div&gt;• Password use&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(strong passwords)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Unattended user equipment&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(all equipment is safe guarded)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-7">
+          <mxGeometry y="40" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-9" target="P1whtggGsQy8yPSGM--a-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-9" value="User Access&#xa;Management" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2045" y="680" width="120" height="40" as="geometry">
-            <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
+            <mxRectangle x="2045" y="680" width="290" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-9">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-10" value="&lt;div&gt;• User Registration&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(user details must be documented)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Privilege managemen&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(access rights as much as required)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• User password management&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Review of user access rights&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;(user’s need&amp;nbsp;&lt;span&gt;changes with time and requires a periodic so access rights must be reviewed)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-9">
+          <mxGeometry y="40" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-11" value="Operating System&#xa;Access Control" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2305" y="680" width="120" height="60" as="geometry">
@@ -986,6 +978,14 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-13">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-5" value="Network Access &#xa;Control" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2175" y="680" width="120" height="60" as="geometry">
+            <mxRectangle x="2175" y="680" width="410" height="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-6" value="&lt;div&gt;• have a enterprise policy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;• Enforced path&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(internet access path should be protected and enforced)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Firewall&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Encryption:&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Encryption is the conversion of data into a secret code for&amp;nbsp;&lt;span&gt;storage in databases and transmission over networks)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Call Back Device&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(A security feature that verifies the dial-in user is who they say they are by calling the person back)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-5">
+          <mxGeometry y="60" width="410" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
