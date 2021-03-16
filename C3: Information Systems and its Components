@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T17:59:50.390Z" agent="5.0 (X11)" etag="VpWU_KBCiEDJF7MllQrE" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T21:24:15.000Z" agent="5.0 (X11)" etag="EoUzCf2qyEZvDzv2fnkL" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2294" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1256,8 +1256,72 @@
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-5" value="&lt;div&gt;1. Organizational Costs of Data Loss&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;If data is lost, an organization can incur substantial losses.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cost of Incorrect Decision Making:&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;incorrect data - wrong decisions - loss - loss of stake holders&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Costs of Computer Abuse&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Unauthorized access to computer systems, malwares, unauthorized physical access to computer facilities, unauthorized copies of sensitive data, viruses, and hacking can lead to destruction of assets.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Value of Computer Hardware, Software and Personnel&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The intentional or unintentional loss of hardware, the destruction&#39;s or corruption of software, and non-availability of skilled computer professionals in some countries; an organization might be unable to continue their operations seamlessly.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. High Costs of Computer Error: In a computerized enterprise environment&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a small error in an important place can have huge losses.&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Maintenance of Privacy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Controlled evolution of computer Use&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt; Use of Technology and reliability of complex computer systems cannot be guaranteed&amp;nbsp; and the consequences of using unreliable systems can be destructive.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-4">
           <mxGeometry y="40" width="380" height="360" as="geometry" />
         </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-7" target="w9T0O8eBJ9PRjbyhEmXW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-7" value="&lt;u&gt;&lt;b&gt;Information Systems Auditing&lt;/b&gt;&lt;/u&gt; is defined as the process of attesting objectives&lt;br&gt;(those of the external auditor) that focus on asset safeguarding, data integrity and&lt;br&gt;management objectives (those of the internal auditor) that include effectiveness&lt;br&gt;and efficiency both." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3640" y="200" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-9" target="w9T0O8eBJ9PRjbyhEmXW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Asset Safeguarding Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;information system assets like hardware, software, facilities, people, data files, system documentation, information etc. must be protected by a system of internal controls from unauthorized access.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Data Integrity Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;completeness, reliability, transparency, and accuracy must be maintained&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. System Effectiveness Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Effectiveness of a system is done to evaluate whether a system reports information in a way that facilitates its users in decision- making or not.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. System Efficiency Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;efficient information system uses minimum resources to achieve its required objectives, therefore the use of various information system resources like machine time, peripherals, system software and labor must be optimally utilized along with the impact on its computing environment.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="280" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-11" value="&lt;b&gt;Types of audit / techniques&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="580" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-13" target="w9T0O8eBJ9PRjbyhEmXW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-13" value="Snapshots" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3800" y="620" width="120" height="40" as="geometry">
+            <mxRectangle x="3800" y="620" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-14" value="&lt;div&gt;1. an snapshot(screenshot) is taken when ever an transaction of material in nature happens&lt;/div&gt;&lt;div&gt;2. the auditor shall audit based on the images&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;features - simple, basic method&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;disadvantages - completely manual, time consuming, and difficult.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-13">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-15" target="w9T0O8eBJ9PRjbyhEmXW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-15" value="System Control &#xa;Audit Review File &#xa;(SCARF)" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3800" y="680" width="120" height="50" as="geometry">
+            <mxRectangle x="3800" y="680" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-16" value="&lt;div&gt;similar to snapshot&lt;/div&gt;&lt;div&gt;1. it will take a snapshot&lt;/div&gt;&lt;div&gt;2. along with that other information like-&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a. statistical analysis&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;b. user details(the guy input it)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;c. system errors&lt;/font&gt;&lt;/div&gt;&lt;div&gt;3. it will store it in a special file called scarf master file&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-15">
+          <mxGeometry y="50" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-17" target="w9T0O8eBJ9PRjbyhEmXW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-17" value="Continuous and &#xa;Intermittent &#xa;Simulation (CIS):" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3800" y="820" width="120" height="50" as="geometry">
+            <mxRectangle x="3800" y="680" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-18" value="&lt;div&gt;similar to snapshot&lt;/div&gt;&lt;div&gt;1. it will take a snapshot&lt;/div&gt;&lt;div&gt;2. along with that other information like-&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a. statistical analysis&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;b. user details(the guy input it)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;c. system errors&lt;/font&gt;&lt;/div&gt;&lt;div&gt;3. it will store it in a special file called scarf master file&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-17">
+          <mxGeometry y="50" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-19" target="w9T0O8eBJ9PRjbyhEmXW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-19" value="Integrated &#xa;Test Facility &#xa;(ITF)" style="swimlane;startSize=50;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3800" y="750" width="120" height="50" as="geometry">
+            <mxRectangle x="3800" y="750" width="290" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-20" value="&lt;div&gt;1. create dummy entries to test the companies processing accuracy and completeness.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;but the problem with this method is that the test entries would also be shown with the actual entries. so there was a confusion with the accountants. which is test entry which is real entry&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;you are also not allowed to delete any entries&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this is no longer used.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-19">
+          <mxGeometry y="50" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-26" value="Audit hooks" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3800" y="890" width="120" height="40" as="geometry">
+            <mxRectangle x="3800" y="890" width="200" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-27" value="&lt;div&gt;1. it is just a real-time notification software&lt;/div&gt;&lt;div&gt;2. sends notifications when there is a suspicious transactions&lt;/div&gt;&lt;div&gt;3. it will also tag them&lt;/div&gt;&lt;div&gt;4. the auditors can look into them&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-26">
+          <mxGeometry y="40" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
