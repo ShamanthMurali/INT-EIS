@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T02:28:23.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6TAFqMLL0T9IMvkTukl_" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:05:36.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ydE1EUEPeCI1dGkVap96" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2951" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,9 @@
         <mxCell id="RWugV7pzo6tbbd6pbP86-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-19" target="PJSLrxo2yEzTVkuicQqN-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJSLrxo2yEzTVkuicQqN-19" target="PJSLrxo2yEzTVkuicQqN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-19" value="Classification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1890" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -164,8 +167,11 @@
         <mxCell id="PJSLrxo2yEzTVkuicQqN-23" value="&lt;div&gt;Nature of&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;&lt;div&gt;System&lt;/div&gt;&lt;div&gt;Resources&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1890" y="320" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJSLrxo2yEzTVkuicQqN-24" target="P1whtggGsQy8yPSGM--a-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-24" value="Audit Functions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2480" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="3160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-25" target="RWugV7pzo6tbbd6pbP86-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -963,6 +969,9 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-10" value="&lt;div&gt;• User Registration&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(user details must be documented)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Privilege managemen&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(access rights as much as required)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• User password management&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Review of user access rights&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;(user’s need&amp;nbsp;&lt;span&gt;changes with time and requires a periodic so access rights must be reviewed)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-9">
           <mxGeometry y="40" width="290" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-11" target="P1whtggGsQy8yPSGM--a-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-11" value="Operating System&#xa;Access Control" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2305" y="680" width="120" height="60" as="geometry">
             <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
@@ -970,6 +979,9 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-11">
           <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-13" target="P1whtggGsQy8yPSGM--a-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-13" value="Application and &#xa;Monitoring &#xa;System Access &#xa;Control" style="swimlane;startSize=60;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="2435" y="680" width="120" height="60" as="geometry">
@@ -986,6 +998,103 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-6" value="&lt;div&gt;• have a enterprise policy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;• Enforced path&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(internet access path should be protected and enforced)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Firewall&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Encryption:&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(Encryption is the conversion of data into a secret code for&amp;nbsp;&lt;span&gt;storage in databases and transmission over networks)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Call Back Device&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;(A security feature that verifies the dial-in user is who they say they are by calling the person back)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-5">
           <mxGeometry y="60" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-22" value="incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.error;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="780" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-26" value="MANAGERIAL CONTROLS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2975" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-27" value="APPLICATION CONTROLS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-30" value="Top Mgt. &amp; IS&#xa;Mgt. Controls:" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2520" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2520" y="400" width="360" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-31" value="&lt;div&gt;Functions&amp;nbsp;&lt;span&gt;performed by a&amp;nbsp;&lt;/span&gt;&lt;span&gt;Senior&amp;nbsp;&lt;/span&gt;&lt;span&gt;Manager.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Planning&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Determining&amp;nbsp;&lt;/span&gt;&lt;span&gt;goals of&amp;nbsp;&lt;/span&gt;&lt;span&gt;information&amp;nbsp;&lt;/span&gt;&lt;span&gt;systems&amp;nbsp;&lt;/span&gt;&lt;span&gt;function &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;means of&amp;nbsp;&lt;/span&gt;&lt;span&gt;achieving&amp;nbsp;&lt;/span&gt;&lt;span&gt;goals;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Organizing&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Gathering,&amp;nbsp;&lt;/span&gt;&lt;span&gt;allocating,&amp;nbsp;&lt;/span&gt;&lt;span&gt;coordinating&amp;nbsp;&lt;/span&gt;&lt;span&gt;resources to&amp;nbsp;&lt;/span&gt;&lt;span&gt;accomplish&amp;nbsp;&lt;/span&gt;&lt;span&gt;goals;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Leading&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Motivating,&amp;nbsp;&lt;/span&gt;&lt;span&gt;communicating&amp;nbsp;&lt;/span&gt;&lt;span&gt;with personnel;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Controlling&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;To compare&amp;nbsp;&lt;/span&gt;&lt;span&gt;actual with&amp;nbsp;&lt;/span&gt;&lt;span&gt;planned&amp;nbsp;&lt;/span&gt;&lt;span&gt;performance.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-30">
+          <mxGeometry y="40" width="360" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-32" value="System &#xa;Development Mgt." style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2650" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2650" y="400" width="360" height="430" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-33" value="&lt;div&gt;-&lt;b&gt;&lt;u&gt;Controls&lt;/u&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;Responsible for&amp;nbsp;&lt;/span&gt;&lt;span&gt;functions concerned with&amp;nbsp;&lt;/span&gt;&lt;span&gt;analyzing, designing, building,&amp;nbsp;&lt;/span&gt;&lt;span&gt;implementing, maintaining IS.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;System Authorization&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;span&gt;&lt;b&gt;&lt;u&gt;Activities&lt;/u&gt;&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;Systems must be&amp;nbsp;&lt;/span&gt;&lt;span&gt;properly authorized to ensure&amp;nbsp;&lt;/span&gt;&lt;span&gt;their economic justification &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;feasibility.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;User Specification Activities&lt;/u&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;span&gt;User creates detailed written&amp;nbsp;&lt;/span&gt;&lt;span&gt;description of logical needs&amp;nbsp;&lt;/span&gt;&lt;span&gt;that are satisfied by system.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Technical Design Activities&lt;/u&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;Translation of user&amp;nbsp;&lt;span&gt;specifications into technical&amp;nbsp;&lt;/span&gt;&lt;span&gt;specifications of system to&amp;nbsp;&lt;/span&gt;&lt;span&gt;meet user&#39;s needs.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Internal Auditor’s&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Participation Throughout all&amp;nbsp;&lt;span&gt;phases of development till&amp;nbsp;&lt;/span&gt;&lt;span&gt;maintenance.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Program Testing&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;All modules&amp;nbsp;&lt;span&gt;tested before implementation.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;u&gt;&lt;b&gt;User Test &amp;amp; Acceptance&amp;nbsp;&lt;/b&gt;&lt;b&gt;Procedures&lt;/b&gt;&lt;/u&gt;:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Individual modules&lt;/span&gt;&lt;span&gt;must be tested as a unified&amp;nbsp;&lt;/span&gt;&lt;span&gt;whole before implementation.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-32">
+          <mxGeometry y="40" width="360" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-34" value="Programming&#xa;Mgt. Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2780" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2780" y="400" width="300" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-35" value="&lt;div&gt;To&amp;nbsp;&lt;span&gt;acquire &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;implement high-&amp;nbsp;&lt;/span&gt;&lt;span&gt;quality programs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Planning&lt;/u&gt;&lt;/b&gt;: Using&amp;nbsp;&lt;span&gt;WBS, Gantt Charts,&amp;nbsp;&lt;/span&gt;&lt;span&gt;PERT.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Control&lt;/u&gt;&lt;/b&gt;: Over s/w&amp;nbsp;&lt;span&gt;development,&amp;nbsp;&lt;/span&gt;&lt;span&gt;acquisition, &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;implementation&amp;nbsp;&lt;/span&gt;&lt;span&gt;tasks.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Design&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Systematic&amp;nbsp;&lt;/span&gt;&lt;span&gt;approach to&amp;nbsp;&lt;/span&gt;&lt;span&gt;program design.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Coding&lt;/u&gt;&lt;/b&gt;: Using&amp;nbsp;&lt;span&gt;Top-down,&amp;nbsp;&lt;/span&gt;&lt;span&gt;Bottom-up&amp;nbsp;&lt;/span&gt;&lt;span&gt;approach.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Testing&lt;/u&gt;&lt;/b&gt;: Could be&amp;nbsp;&lt;span&gt;Unit, Integration &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;WOP Testing.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;u&gt;&lt;b&gt;Operation &amp;amp;&lt;/b&gt;&lt;b&gt;Maintenance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp;Could be Repair,&amp;nbsp;Adaptive,&amp;nbsp;Perfective&amp;nbsp;Maintenance.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-34">
+          <mxGeometry y="40" width="300" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-36" value="Data Resource&#xa;Mgt. Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="2910" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2910" y="400" width="250" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-37" value="&lt;div&gt;Data must be&amp;nbsp;&lt;span&gt;available to&amp;nbsp;&lt;/span&gt;&lt;span&gt;users at a&amp;nbsp;&lt;/span&gt;&lt;span&gt;location and&amp;nbsp;&lt;/span&gt;&lt;span&gt;the form in&amp;nbsp;&lt;/span&gt;&lt;span&gt;which it is&amp;nbsp;&lt;/span&gt;&lt;span&gt;needed&amp;nbsp;&lt;/span&gt;&lt;span&gt;integrity of data&amp;nbsp;&lt;/span&gt;&lt;span&gt;preserved etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-36">
+          <mxGeometry y="40" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-38" value="Quality&#xa;Assurance Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3040" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-38">
+          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-40" value="BCP&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3170" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-40">
+          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-42" value="Security Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3300" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-42">
+          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-53" value="Operations &#xa;Mgt. Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3430" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-53">
+          <mxGeometry y="40" width="290" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
