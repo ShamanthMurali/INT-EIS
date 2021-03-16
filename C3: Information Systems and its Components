@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:27:02.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="LwdBwT3p-nkMoxjPX6Kz" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T04:00:38.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="nqN8X-fHslOdOXyI7pU2" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2744" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1119,23 +1119,45 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-57" value="Boundary &#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3430" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="2780" y="400" width="300" height="280" as="alternateBounds" />
+            <mxRectangle x="3430" y="400" width="330" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-58" value="&lt;div&gt;To&amp;nbsp;&lt;span&gt;acquire &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;implement high-&amp;nbsp;&lt;/span&gt;&lt;span&gt;quality programs&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Planning&lt;/u&gt;&lt;/b&gt;: Using&amp;nbsp;&lt;span&gt;WBS, Gantt Charts,&amp;nbsp;&lt;/span&gt;&lt;span&gt;PERT.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Control&lt;/u&gt;&lt;/b&gt;: Over s/w&amp;nbsp;&lt;span&gt;development,&amp;nbsp;&lt;/span&gt;&lt;span&gt;acquisition, &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;implementation&amp;nbsp;&lt;/span&gt;&lt;span&gt;tasks.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Design&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Systematic&amp;nbsp;&lt;/span&gt;&lt;span&gt;approach to&amp;nbsp;&lt;/span&gt;&lt;span&gt;program design.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Coding&lt;/u&gt;&lt;/b&gt;: Using&amp;nbsp;&lt;span&gt;Top-down,&amp;nbsp;&lt;/span&gt;&lt;span&gt;Bottom-up&amp;nbsp;&lt;/span&gt;&lt;span&gt;approach.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Testing&lt;/u&gt;&lt;/b&gt;: Could be&amp;nbsp;&lt;span&gt;Unit, Integration &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;WOP Testing.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;u&gt;&lt;b&gt;Operation &amp;amp;&lt;/b&gt;&lt;b&gt;Maintenance&lt;/b&gt;&lt;/u&gt;:&amp;nbsp;Could be Repair,&amp;nbsp;Adaptive,&amp;nbsp;Perfective&amp;nbsp;Maintenance.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-57">
-          <mxGeometry y="40" width="300" height="240" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-58" value="&lt;div&gt;Controls:&lt;/div&gt;&lt;div&gt;3 steps –&amp;nbsp;&lt;span&gt;mechanism - Identification,&amp;nbsp;&lt;/span&gt;&lt;span&gt;Authentication &amp;amp; Authorization.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Cryptography: Transform data&amp;nbsp;&lt;span&gt;into codes that are meaningless&amp;nbsp;&lt;/span&gt;&lt;span&gt;for a non-authenticated person.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Passwords: User identification&amp;nbsp;&lt;span&gt;by authentication mechanism&amp;nbsp;&lt;/span&gt;&lt;span&gt;with characteristics like DoB&amp;nbsp;&lt;/span&gt;&lt;span&gt;etc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-PIN: Random no. assigned to&amp;nbsp;&lt;span&gt;user-based on user&amp;nbsp;&lt;/span&gt;&lt;span&gt;characteristics.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Identification Cards: Used to&amp;nbsp;&lt;span&gt;store information required. in&amp;nbsp;&lt;/span&gt;&lt;span&gt;authentication.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Biometric Devices:&amp;nbsp;&lt;span&gt;Identification through electronic forms&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-57">
+          <mxGeometry y="40" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3750" y="460" />
+              <mxPoint x="3555" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P1whtggGsQy8yPSGM--a-59" target="P1whtggGsQy8yPSGM--a-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3750" y="460" />
+              <mxPoint x="3945" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-59" value="Input &#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3690" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="2910" y="400" width="250" height="120" as="alternateBounds" />
+            <mxRectangle x="3690" y="400" width="300" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-60" value="&lt;div&gt;Data must be&amp;nbsp;&lt;span&gt;available to&amp;nbsp;&lt;/span&gt;&lt;span&gt;users at a&amp;nbsp;&lt;/span&gt;&lt;span&gt;location and&amp;nbsp;&lt;/span&gt;&lt;span&gt;the form in&amp;nbsp;&lt;/span&gt;&lt;span&gt;which it is&amp;nbsp;&lt;/span&gt;&lt;span&gt;needed&amp;nbsp;&lt;/span&gt;&lt;span&gt;integrity of data&amp;nbsp;&lt;/span&gt;&lt;span&gt;preserved etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-59">
-          <mxGeometry y="40" width="250" height="80" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-60" value="&lt;div&gt;Ensure&amp;nbsp;&lt;span&gt;accuracy/completeness of&amp;nbsp;&lt;/span&gt;&lt;span&gt;data to be inputted into&amp;nbsp;&lt;/span&gt;&lt;span&gt;application system.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Source Document Control:&amp;nbsp;&lt;span&gt;To implement control&amp;nbsp;&lt;/span&gt;&lt;span&gt;procedures over source&amp;nbsp;&lt;/span&gt;&lt;span&gt;documents to account for&amp;nbsp;&lt;/span&gt;&lt;span&gt;each document.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Data Coding Control: To&amp;nbsp;&lt;span&gt;reduce user error during&amp;nbsp;&lt;/span&gt;&lt;span&gt;data feeding.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Batch Control: To&amp;nbsp;&lt;span&gt;prevent/detect errors in&amp;nbsp;&lt;/span&gt;&lt;span&gt;physical/logical batch.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Validation Control: Detect&amp;nbsp;&lt;span&gt;errors in transaction data&amp;nbsp;&lt;/span&gt;&lt;span&gt;before data are processed.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-59">
+          <mxGeometry y="40" width="300" height="290" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-61" value="Communication &#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3560" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="3040" y="400" width="200" height="80" as="alternateBounds" />
+            <mxRectangle x="3560" y="400" width="200" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-62" value="&lt;div&gt;To&amp;nbsp;&lt;span&gt;achieve the&amp;nbsp;&lt;/span&gt;&lt;span&gt;quality goals&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;amp; IS comply&amp;nbsp;&lt;/span&gt;&lt;span&gt;with set of&amp;nbsp;&lt;/span&gt;&lt;span&gt;quality&amp;nbsp;&lt;/span&gt;&lt;span&gt;standards.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-61">
@@ -1164,6 +1186,38 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-68" value="&lt;div&gt;Responsible for daily running of h/w/&lt;/div&gt;&lt;div&gt;&amp;amp; s/w computer, n/w operations, file library etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Computer Operations: Directly support daily execution of test or&lt;/div&gt;&lt;div&gt;production systems on h/w or s/w platform.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Network Operations: Functioning of n/w operations, monitoring&lt;/div&gt;&lt;div&gt;communication channels, devices etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Data Preparation &amp;amp; Entry: Keyboard environments designed to&lt;/div&gt;&lt;div&gt;promote speed/accuracy to maintain wellbeing of operators.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Production Control: Includes functions like receipt/dispatch of&lt;/div&gt;&lt;div&gt;I/O; job scheduling; mgt. of SLAs etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-File Library: Includes mgt. of storage media - magnetic tapes etc.&lt;/div&gt;&lt;div&gt;-Documentation and Program Library: Ensures that&lt;/div&gt;&lt;div&gt;documentation is stored securely; up-to-date and that adequate&lt;/div&gt;&lt;div&gt;backup exists for documentation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Technical support: Assist end-users to employ h/w, software&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;-Capacity Planning and Monitoring Performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Management of Outsourced Operations.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-67">
           <mxGeometry y="40" width="380" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-76" value="Source &#xa;Document Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3495" y="480" width="120" height="40" as="geometry">
+            <mxRectangle x="3495" y="480" width="200" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-77" value="&lt;div&gt;To implement control procedures over source documents to account for each document.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-76">
+          <mxGeometry y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-78" value="Data Coding &#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3625" y="480" width="120" height="40" as="geometry">
+            <mxRectangle x="3625" y="480" width="390" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-79" value="1.&amp;nbsp;Transcription Errors:&amp;nbsp;Addition errors,&amp;nbsp;&lt;span&gt;Truncation Errors (when a digit is&lt;/span&gt;&lt;div&gt;removed from the code),&lt;span&gt;Substitution Errors (replacement of on&lt;/span&gt;&lt;/div&gt;&lt;div&gt;digit in a code with another).&lt;/div&gt;&lt;br&gt;2. Transposition Errors:&amp;nbsp;&lt;span&gt;987654 that is transposed into&lt;/span&gt;&lt;div&gt;897654&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-78">
+          <mxGeometry y="40" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-80" value="Batch Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3755" y="480" width="120" height="40" as="geometry">
+            <mxRectangle x="3755" y="480" width="410" height="220" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-81" value="&lt;div&gt;&lt;div&gt;Batching is the process of grouping together transactions&lt;/div&gt;&lt;div&gt;that bear some type of relationship to each other.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Financial totals: Grand totals calculated for each field containing&lt;/div&gt;&lt;div&gt;monetary amounts, e.g. the total salary paid to employees of an&lt;/div&gt;&lt;div&gt;organization can be totaled.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Hash totals: Grand totals calculated for any code on a document in&lt;/div&gt;&lt;div&gt;the batch, e.g., the source document serial numbers can be totaled.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• Document/Record Counts: Grand totals for number of documents /&lt;/div&gt;&lt;div&gt;record in batch.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-80">
+          <mxGeometry y="40" width="410" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-82" value="Validation Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3885" y="480" width="120" height="40" as="geometry">
+            <mxRectangle x="3885" y="480" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1whtggGsQy8yPSGM--a-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-82">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
