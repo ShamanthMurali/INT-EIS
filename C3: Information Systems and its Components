@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:22:55.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="xTsINJ3EVrTUTNhJEKas" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:23:48.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6tbbtH8FW2ZojMuB4UGX" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2953" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1074,11 +1074,11 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-40" value="BCP&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3170" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="3170" y="400" width="290" height="210" as="alternateBounds" />
+            <mxRectangle x="3170" y="400" width="270" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-41" value="BCP (Business Continuity Planning) Controls&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-40">
-          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-41" value="BCP (Business Continuity Planning) Controls&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Having&amp;nbsp;&lt;span&gt;operational&amp;nbsp;&lt;/span&gt;&lt;span&gt;IT continuity&amp;nbsp;&lt;/span&gt;&lt;span&gt;plan in line&amp;nbsp;&lt;/span&gt;&lt;span&gt;with overall&amp;nbsp;&lt;/span&gt;&lt;span&gt;BCP business&amp;nbsp;&lt;/span&gt;&lt;span&gt;needs.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-40">
+          <mxGeometry y="40" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-42" value="Security Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3300" y="400" width="120" height="40" as="geometry">
