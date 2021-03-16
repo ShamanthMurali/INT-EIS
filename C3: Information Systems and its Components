@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:05:51.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VDZHKCMy-gE8kk2QfB5N" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:22:55.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="xTsINJ3EVrTUTNhJEKas" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2951" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2953" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1064,37 +1064,37 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-37" value="&lt;div&gt;Data must be&amp;nbsp;&lt;span&gt;available to&amp;nbsp;&lt;/span&gt;&lt;span&gt;users at a&amp;nbsp;&lt;/span&gt;&lt;span&gt;location and&amp;nbsp;&lt;/span&gt;&lt;span&gt;the form in&amp;nbsp;&lt;/span&gt;&lt;span&gt;which it is&amp;nbsp;&lt;/span&gt;&lt;span&gt;needed&amp;nbsp;&lt;/span&gt;&lt;span&gt;integrity of data&amp;nbsp;&lt;/span&gt;&lt;span&gt;preserved etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-36">
           <mxGeometry y="40" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-38" value="Quality&#xa;Assurance Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="400" width="290" height="210" as="geometry">
-            <mxRectangle x="3040" y="400" width="120" height="40" as="alternateBounds" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-38" value="Quality&#xa;Assurance Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3040" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="3040" y="400" width="200" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-38">
-          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-39" value="&lt;div&gt;To&amp;nbsp;&lt;span&gt;achieve the&amp;nbsp;&lt;/span&gt;&lt;span&gt;quality goals&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;amp; IS comply&amp;nbsp;&lt;/span&gt;&lt;span&gt;with set of&amp;nbsp;&lt;/span&gt;&lt;span&gt;quality&amp;nbsp;&lt;/span&gt;&lt;span&gt;standards.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-38">
+          <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-40" value="BCP&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3170" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+            <mxRectangle x="3170" y="400" width="290" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-40">
+        <mxCell id="P1whtggGsQy8yPSGM--a-41" value="BCP (Business Continuity Planning) Controls&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-40">
           <mxGeometry y="40" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-42" value="Security Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3300" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+            <mxRectangle x="3300" y="400" width="180" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-42">
-          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-43" value="1. &lt;b&gt;&lt;u&gt;Disaster Recovery Plan&lt;/u&gt;&lt;/b&gt;&lt;br&gt;a.&amp;nbsp;Emergency Plan&lt;br&gt;b.&amp;nbsp;Backup Plan&lt;br&gt;c.&amp;nbsp;Recovery Plan&lt;br&gt;d.&amp;nbsp;Test Plan&lt;br&gt;&lt;br&gt;2.&amp;nbsp;&lt;b&gt;&lt;u&gt;Insurance&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-42">
+          <mxGeometry y="40" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-53" value="Operations &#xa;Mgt. Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="3430" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+            <mxRectangle x="3430" y="400" width="380" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-53">
-          <mxGeometry y="40" width="290" height="170" as="geometry" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-54" value="&lt;div&gt;Responsible for daily running of h/w/&lt;/div&gt;&lt;div&gt;&amp;amp; s/w computer, n/w operations, file library etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Computer Operations: Directly support daily execution of test or&lt;/div&gt;&lt;div&gt;production systems on h/w or s/w platform.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Network Operations: Functioning of n/w operations, monitoring&lt;/div&gt;&lt;div&gt;communication channels, devices etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Data Preparation &amp;amp; Entry: Keyboard environments designed to&lt;/div&gt;&lt;div&gt;promote speed/accuracy to maintain wellbeing of operators.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Production Control: Includes functions like receipt/dispatch of&lt;/div&gt;&lt;div&gt;I/O; job scheduling; mgt. of SLAs etc.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-File Library: Includes mgt. of storage media - magnetic tapes etc.&lt;/div&gt;&lt;div&gt;-Documentation and Program Library: Ensures that&lt;/div&gt;&lt;div&gt;documentation is stored securely; up-to-date and that adequate&lt;/div&gt;&lt;div&gt;backup exists for documentation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Technical support: Assist end-users to employ h/w, software&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;-Capacity Planning and Monitoring Performance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Management of Outsourced Operations.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-53">
+          <mxGeometry y="40" width="380" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
