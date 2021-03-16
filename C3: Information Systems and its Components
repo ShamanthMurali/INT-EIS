@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T03:05:36.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="ydE1EUEPeCI1dGkVap96" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T03:05:51.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="VDZHKCMy-gE8kk2QfB5N" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
     <mxGraphModel dx="2951" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1064,9 +1064,9 @@
         <mxCell id="P1whtggGsQy8yPSGM--a-37" value="&lt;div&gt;Data must be&amp;nbsp;&lt;span&gt;available to&amp;nbsp;&lt;/span&gt;&lt;span&gt;users at a&amp;nbsp;&lt;/span&gt;&lt;span&gt;location and&amp;nbsp;&lt;/span&gt;&lt;span&gt;the form in&amp;nbsp;&lt;/span&gt;&lt;span&gt;which it is&amp;nbsp;&lt;/span&gt;&lt;span&gt;needed&amp;nbsp;&lt;/span&gt;&lt;span&gt;integrity of data&amp;nbsp;&lt;/span&gt;&lt;span&gt;preserved etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-36">
           <mxGeometry y="40" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P1whtggGsQy8yPSGM--a-38" value="Quality&#xa;Assurance Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="3040" y="400" width="120" height="40" as="geometry">
-            <mxRectangle x="2555" y="400" width="290" height="210" as="alternateBounds" />
+        <mxCell id="P1whtggGsQy8yPSGM--a-38" value="Quality&#xa;Assurance Mgt.&#xa;Controls" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="400" width="290" height="210" as="geometry">
+            <mxRectangle x="3040" y="400" width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1whtggGsQy8yPSGM--a-38">
