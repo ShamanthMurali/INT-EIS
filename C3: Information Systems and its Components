@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T16:28:27.398Z" agent="5.0 (X11)" etag="SifZ0JwOMpHLjMdHaLqy" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T17:59:50.390Z" agent="5.0 (X11)" etag="VpWU_KBCiEDJF7MllQrE" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2948" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2294" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-3" value="Audit Trail" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4600" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJSLrxo2yEzTVkuicQqN-4" target="w9T0O8eBJ9PRjbyhEmXW-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-4" value="Auditing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3800" y="80" width="120" height="40" as="geometry" />
@@ -1239,6 +1242,23 @@
             <mxGeometry x="2945" y="395" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-3" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="3195" y="470" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-4" target="w9T0O8eBJ9PRjbyhEmXW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-4" value="problems of IS" style="swimlane;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="3800" y="140" width="120" height="40" as="geometry">
+            <mxRectangle x="3800" y="140" width="380" height="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-5" value="&lt;div&gt;1. Organizational Costs of Data Loss&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;If data is lost, an organization can incur substantial losses.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Cost of Incorrect Decision Making:&lt;/div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;incorrect data - wrong decisions - loss - loss of stake holders&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Costs of Computer Abuse&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Unauthorized access to computer systems, malwares, unauthorized physical access to computer facilities, unauthorized copies of sensitive data, viruses, and hacking can lead to destruction of assets.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Value of Computer Hardware, Software and Personnel&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;The intentional or unintentional loss of hardware, the destruction&#39;s or corruption of software, and non-availability of skilled computer professionals in some countries; an organization might be unable to continue their operations seamlessly.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;5. High Costs of Computer Error: In a computerized enterprise environment&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;a small error in an important place can have huge losses.&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Maintenance of Privacy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7. Controlled evolution of computer Use&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt; Use of Technology and reliability of complex computer systems cannot be guaranteed&amp;nbsp; and the consequences of using unreliable systems can be destructive.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w9T0O8eBJ9PRjbyhEmXW-4">
+          <mxGeometry y="40" width="380" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-7" value="&lt;u&gt;&lt;b&gt;Information Systems Auditing&lt;/b&gt;&lt;/u&gt; is defined as the process of attesting objectives&lt;br&gt;(those of the external auditor) that focus on asset safeguarding, data integrity and&lt;br&gt;management objectives (those of the internal auditor) that include effectiveness&lt;br&gt;and efficiency both." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="200" width="440" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
