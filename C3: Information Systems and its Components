@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T17:29:26.272Z" agent="5.0 (X11)" etag="E1luR02Mpu--ynikFFet" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T17:29:54.756Z" agent="5.0 (X11)" etag="h0kGIJ87995Yo2qgh9Yb" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="3165" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6680" dy="2508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1305,11 +1305,20 @@
           <mxGeometry x="3720" y="135" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3980" y="370" />
+              <mxPoint x="3700" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3840" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3980" y="370" />
+              <mxPoint x="3840" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-46" edge="1">
@@ -1318,11 +1327,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3980" y="370" />
+              <mxPoint x="4120" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4260.000000000001" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3980" y="370" />
+              <mxPoint x="4260" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. detecting unauthorized users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reconstructing Events&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;keep a log of system errors, security violation, processing errors etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Personal Accountability&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;monitor user activity at the lowest level of detail- prevention of violation of cos policy.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
