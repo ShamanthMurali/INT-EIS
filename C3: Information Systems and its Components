@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T17:12:04.643Z" agent="5.0 (X11)" etag="d70NMrk-BZSpyNwxWwUl" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T17:29:26.272Z" agent="5.0 (X11)" etag="E1luR02Mpu--ynikFFet" version="14.4.8" type="github">
   <diagram id="VI3feAIXqumG6OXQy2fT" name="Page-1">
-    <mxGraphModel dx="2945" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3165" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,13 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-3" value="Audit Trail" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4600" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="3920" y="75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-4" target="w9T0O8eBJ9PRjbyhEmXW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-4" value="Auditing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3800" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="3390" y="75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-5" target="PJSLrxo2yEzTVkuicQqN-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,21 +132,21 @@
         <mxCell id="RWugV7pzo6tbbd6pbP86-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-23" target="RWugV7pzo6tbbd6pbP86-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1270" y="420" />
-              <mxPoint x="930" y="420" />
+              <mxPoint x="1140" y="410" />
+              <mxPoint x="800" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RWugV7pzo6tbbd6pbP86-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-23" target="RWugV7pzo6tbbd6pbP86-45" edge="1">
+        <mxCell id="Q9GPvrwFVX75FrHOYmMz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJSLrxo2yEzTVkuicQqN-23" target="RWugV7pzo6tbbd6pbP86-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1270" y="420" />
-              <mxPoint x="1555" y="420" />
+              <mxPoint x="1140" y="410" />
+              <mxPoint x="1345" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-23" value="&lt;div&gt;Nature of&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;&lt;div&gt;System&lt;/div&gt;&lt;div&gt;Resources&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="320" width="120" height="70" as="geometry" />
+          <mxGeometry x="1080" y="315" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-24" target="P1whtggGsQy8yPSGM--a-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +155,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-24" value="Audit Functions" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2615" y="235" width="120" height="40" as="geometry" />
+          <mxGeometry x="2415" y="235" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PJSLrxo2yEzTVkuicQqN-25" target="RWugV7pzo6tbbd6pbP86-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,13 +173,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-32" value="&lt;div&gt;Managerial&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4740" y="400" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PJSLrxo2yEzTVkuicQqN-33" value="&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4880" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="4060" y="395" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJSLrxo2yEzTVkuicQqN-35" value="&lt;div&gt;Environmental&lt;/div&gt;&lt;div&gt;Controls&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4320" y="400" width="120" height="40" as="geometry">
+          <mxGeometry x="3640" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="4320" y="400" width="480" height="530" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -811,21 +808,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-43" value="Environmental Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="740" y="435" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RWugV7pzo6tbbd6pbP86-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Q9GPvrwFVX75FrHOYmMz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWugV7pzo6tbbd6pbP86-44" target="RWugV7pzo6tbbd6pbP86-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-44" value="Physical Access Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="1080" y="435" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-45" target="RWugV7pzo6tbbd6pbP86-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-45" value="Logical Access Controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1495" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="1285" y="435" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-49" target="RWugV7pzo6tbbd6pbP86-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -840,34 +835,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-49" value="These are the controls relating to IT environment&amp;nbsp; such as power, air-conditioning, Uninterrupted Power Supply (UPS), smoke&amp;nbsp; detection, fire-extinguishers, dehumidifiers etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="830" y="500" width="200" height="80" as="geometry" />
+          <mxGeometry x="700" y="495" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-51" target="RWugV7pzo6tbbd6pbP86-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-51" value="Fire" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="635" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-52" target="RWugV7pzo6tbbd6pbP86-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-52" value="Electrical Exposures" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="670" y="635" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-53" target="RWugV7pzo6tbbd6pbP86-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-53" value="Water Damage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="810" y="635" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RWugV7pzo6tbbd6pbP86-54" target="RWugV7pzo6tbbd6pbP86-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-54" value="Pollution Damage and others" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="635" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-60" value="Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="660" y="700" width="120" height="40" as="geometry">
+          <mxGeometry x="530" y="695" width="120" height="40" as="geometry">
             <mxRectangle x="1250" y="700" width="500" height="820" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -875,7 +870,7 @@
           <mxGeometry y="40" width="500" height="780" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-63" value="Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="800" y="700" width="120" height="40" as="geometry">
+          <mxGeometry x="670" y="695" width="120" height="40" as="geometry">
             <mxRectangle x="1410" y="700" width="500" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -883,7 +878,7 @@
           <mxGeometry y="40" width="500" height="290" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-66" value="Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="940" y="700" width="120" height="40" as="geometry">
+          <mxGeometry x="810" y="695" width="120" height="40" as="geometry">
             <mxRectangle x="1570" y="700" width="400" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -891,23 +886,21 @@
           <mxGeometry y="40" width="400" height="170" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-69" value="Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1080" y="700" width="120" height="40" as="geometry">
+          <mxGeometry x="950" y="695" width="120" height="40" as="geometry">
             <mxRectangle x="1920" y="700" width="400" height="320" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-70" value="&lt;div&gt;The major pollutant in a computer&lt;/div&gt;&lt;div&gt;installation is dust. Dust caught between the surfaces of magnetic tape /&lt;span&gt;disk and the reading and writing heads may cause either permanent&lt;/span&gt;&lt;/div&gt;&lt;div&gt;damage to data or read / write errors.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;♦ Power Leads from Two Substations: Electrical power lines that are&lt;/div&gt;&lt;div&gt;exposed to many environmental dangers such as water, fire,&lt;/div&gt;&lt;div&gt;lightning, cutting due to careless digging etc. To avoid these types&lt;/div&gt;&lt;div&gt;of events, redundant power links should feed into the facility.&lt;/div&gt;&lt;div&gt;Interruption of one power supply does not adversely affect electrical&lt;/div&gt;&lt;div&gt;supply.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Prohibitions against Eating, Drinking and Smoking within the&lt;/div&gt;&lt;div&gt;Information Processing Facility: These activities should be&lt;/div&gt;&lt;div&gt;prohibited from the information processing facility especially food&lt;/div&gt;&lt;div&gt;and beverages to protect the systems from rodents which could&lt;/div&gt;&lt;div&gt;damage the electrical wirings and cables and also to prevent fire&lt;/div&gt;&lt;div&gt;caused due to smoking. This prohibition should be clear, e.g. a sign&lt;/div&gt;&lt;div&gt;on the entry door.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="RWugV7pzo6tbbd6pbP86-69" vertex="1">
           <mxGeometry y="40" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="RWugV7pzo6tbbd6pbP86-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="RWugV7pzo6tbbd6pbP86-74" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="570" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="Q9GPvrwFVX75FrHOYmMz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RWugV7pzo6tbbd6pbP86-72" target="RWugV7pzo6tbbd6pbP86-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-72" value="&lt;div&gt;controls relating to physical&lt;/div&gt;&lt;div&gt;security of the tangible resources and intangible resources stored on&lt;/div&gt;&lt;div&gt;tangible media etc.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="510" width="200" height="60" as="geometry" />
+          <mxGeometry x="1040" y="495" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-74" value="Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1210" y="590" width="120" height="40" as="geometry">
+          <mxGeometry x="1080" y="580" width="120" height="40" as="geometry">
             <mxRectangle x="1890" y="590" width="410" height="950" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -918,7 +911,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWugV7pzo6tbbd6pbP86-80" value="Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1495" y="510" width="120" height="40" as="geometry">
+          <mxGeometry x="1285" y="505" width="120" height="40" as="geometry">
             <mxRectangle x="2070" y="510" width="400" height="720" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -929,19 +922,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-1" target="P1whtggGsQy8yPSGM--a-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1345" y="650" />
+              <mxPoint x="1150" y="650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-1" target="P1whtggGsQy8yPSGM--a-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-1" target="P1whtggGsQy8yPSGM--a-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1345" y="650" />
+              <mxPoint x="1540" y="650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-1" value="Access controls" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1495" y="590" width="120" height="40" as="geometry" />
+          <mxGeometry x="1285" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-7" value="User &#xa;Responsibilities" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1300" y="740" width="120" height="40" as="geometry">
+          <mxGeometry x="1090" y="735" width="120" height="40" as="geometry">
             <mxRectangle x="2045" y="740" width="220" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -952,7 +955,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-9" value="User Access&#xa;Management" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1300" y="680" width="120" height="40" as="geometry">
+          <mxGeometry x="1090" y="675" width="120" height="40" as="geometry">
             <mxRectangle x="2045" y="680" width="290" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -963,7 +966,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-11" value="Operating System&#xa;Access Control" style="swimlane;startSize=60;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1560" y="680" width="120" height="60" as="geometry">
+          <mxGeometry x="1350" y="675" width="120" height="60" as="geometry">
             <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -974,7 +977,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-13" value="Application and &#xa;Monitoring &#xa;System Access &#xa;Control" style="swimlane;startSize=60;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1690" y="680" width="120" height="60" as="geometry">
+          <mxGeometry x="1480" y="675" width="120" height="60" as="geometry">
             <mxRectangle x="1160" y="280" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -982,7 +985,7 @@
           <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-5" value="Network Access &#xa;Control" style="swimlane;startSize=60;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1430" y="680" width="120" height="60" as="geometry">
+          <mxGeometry x="1220" y="675" width="120" height="60" as="geometry">
             <mxRectangle x="2175" y="680" width="410" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -990,7 +993,7 @@
           <mxGeometry y="60" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-22" value="incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.error;" parent="1" vertex="1">
-          <mxGeometry x="1625" y="780" width="120" height="70" as="geometry" />
+          <mxGeometry x="1415" y="775" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-26" target="P1whtggGsQy8yPSGM--a-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1017,7 +1020,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-26" value="MANAGERIAL CONTROLS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2100" y="315" width="120" height="40" as="geometry" />
+          <mxGeometry x="1900" y="315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="P1whtggGsQy8yPSGM--a-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1027,7 +1030,7 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="w9T0O8eBJ9PRjbyhEmXW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3005" y="395" as="targetPoint" />
+            <mxPoint x="2805" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P1whtggGsQy8yPSGM--a-27" target="P1whtggGsQy8yPSGM--a-57" edge="1">
@@ -1040,18 +1043,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-27" value="APPLICATION CONTROLS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3005" y="315" width="120" height="40" as="geometry" />
+          <mxGeometry x="2805" y="315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-30" value="Top Mgt. &amp; IS&#xa;Mgt. Controls:" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1640" y="395" width="120" height="40" as="geometry">
-            <mxRectangle x="2520" y="400" width="360" height="270" as="alternateBounds" />
+          <mxGeometry x="1440" y="395" width="120" height="40" as="geometry">
+            <mxRectangle x="1500" y="395" width="360" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-31" value="&lt;div&gt;Functions&amp;nbsp;&lt;span&gt;performed by a&amp;nbsp;&lt;/span&gt;&lt;span&gt;Senior&amp;nbsp;&lt;/span&gt;&lt;span&gt;Manager.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Planning&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Determining&amp;nbsp;&lt;/span&gt;&lt;span&gt;goals of&amp;nbsp;&lt;/span&gt;&lt;span&gt;information&amp;nbsp;&lt;/span&gt;&lt;span&gt;systems&amp;nbsp;&lt;/span&gt;&lt;span&gt;function &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;means of&amp;nbsp;&lt;/span&gt;&lt;span&gt;achieving&amp;nbsp;&lt;/span&gt;&lt;span&gt;goals;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Organizing&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Gathering,&amp;nbsp;&lt;/span&gt;&lt;span&gt;allocating,&amp;nbsp;&lt;/span&gt;&lt;span&gt;coordinating&amp;nbsp;&lt;/span&gt;&lt;span&gt;resources to&amp;nbsp;&lt;/span&gt;&lt;span&gt;accomplish&amp;nbsp;&lt;/span&gt;&lt;span&gt;goals;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Leading&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;Motivating,&amp;nbsp;&lt;/span&gt;&lt;span&gt;communicating&amp;nbsp;&lt;/span&gt;&lt;span&gt;with personnel;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&lt;b&gt;&lt;u&gt;Controlling&lt;/u&gt;&lt;/b&gt;:&amp;nbsp;&lt;span&gt;To compare&amp;nbsp;&lt;/span&gt;&lt;span&gt;actual with&amp;nbsp;&lt;/span&gt;&lt;span&gt;planned&amp;nbsp;&lt;/span&gt;&lt;span&gt;performance.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="P1whtggGsQy8yPSGM--a-30" vertex="1">
           <mxGeometry y="40" width="360" height="230" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-32" value="System &#xa;Development Mgt." style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1775" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="1575" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="2650" y="400" width="360" height="430" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1059,7 +1062,7 @@
           <mxGeometry y="40" width="360" height="390" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-34" value="Programming&#xa;Mgt. Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1905" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="1705" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="2780" y="400" width="300" height="280" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1067,7 +1070,7 @@
           <mxGeometry y="40" width="300" height="240" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-36" value="Data Resource&#xa;Mgt. Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2035" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="1835" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="2910" y="400" width="250" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1075,7 +1078,7 @@
           <mxGeometry y="40" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-38" value="Quality&#xa;Assurance Mgt.&#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2165" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="1965" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3040" y="400" width="200" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1083,7 +1086,7 @@
           <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-40" value="BCP&#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2295" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="2095" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3170" y="400" width="270" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1091,7 +1094,7 @@
           <mxGeometry y="40" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-42" value="Security Mgt.&#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2425" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="2225" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3300" y="400" width="180" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1099,7 +1102,7 @@
           <mxGeometry y="40" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-53" value="Operations &#xa;Mgt. Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2555" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="2355" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3430" y="400" width="380" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1107,7 +1110,7 @@
           <mxGeometry y="40" width="380" height="370" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-57" value="Boundary &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2685" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="2485" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3430" y="400" width="330" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1116,34 +1119,34 @@
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-78" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3750" y="440" as="sourcePoint" />
+            <mxPoint x="3535" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-80" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3750" y="440" as="sourcePoint" />
+            <mxPoint x="3535" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-76" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3750" y="460" />
-              <mxPoint x="3555" y="460" />
+              <mxPoint x="3535" y="460" />
+              <mxPoint x="3340" y="460" />
             </Array>
-            <mxPoint x="3750" y="440" as="sourcePoint" />
+            <mxPoint x="3535" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-1" target="P1whtggGsQy8yPSGM--a-82" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3750" y="460" />
-              <mxPoint x="3945" y="460" />
+              <mxPoint x="3535" y="460" />
+              <mxPoint x="3730" y="460" />
             </Array>
-            <mxPoint x="3750" y="440" as="sourcePoint" />
+            <mxPoint x="3535" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-61" value="Communication &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="2815" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="2615" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3560" y="400" width="270" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1151,7 +1154,7 @@
           <mxGeometry y="40" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-63" value="Processing &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3075" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="2875" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3820" y="400" width="270" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1159,7 +1162,7 @@
           <mxGeometry y="40" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-65" value="Database &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3205" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="3005" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3300" y="400" width="180" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1167,7 +1170,7 @@
           <mxGeometry y="40" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-67" value="Output &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3335" y="395" width="120" height="40" as="geometry">
+          <mxGeometry x="3135" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="3430" y="400" width="380" height="410" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1175,7 +1178,7 @@
           <mxGeometry y="40" width="380" height="370" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-76" value="Source &#xa;Document Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="3495" y="480" width="120" height="40" as="geometry">
+          <mxGeometry x="3280" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3495" y="480" width="200" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1183,7 +1186,7 @@
           <mxGeometry y="40" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-78" value="Data Coding &#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="3625" y="480" width="120" height="40" as="geometry">
+          <mxGeometry x="3410" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3625" y="480" width="390" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1191,7 +1194,7 @@
           <mxGeometry y="40" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-80" value="Batch Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="3755" y="480" width="120" height="40" as="geometry">
+          <mxGeometry x="3540" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3755" y="480" width="410" height="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1199,7 +1202,7 @@
           <mxGeometry y="40" width="410" height="180" as="geometry" />
         </mxCell>
         <mxCell id="P1whtggGsQy8yPSGM--a-82" value="Validation Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="3885" y="480" width="120" height="40" as="geometry">
+          <mxGeometry x="3670" y="480" width="120" height="40" as="geometry">
             <mxRectangle x="3885" y="480" width="240" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1208,17 +1211,17 @@
         </mxCell>
         <UserObject label="&lt;b&gt;Input&lt;br&gt;Controls&lt;/b&gt;" treeRoot="1" id="w9T0O8eBJ9PRjbyhEmXW-1">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="2945" y="395" width="120" height="40" as="geometry" />
+            <mxGeometry x="2745" y="395" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-3" value="Incomplete" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.warning;rounded=1;startSize=40;" parent="1" vertex="1">
-          <mxGeometry x="3195" y="470" width="120" height="70" as="geometry" />
+          <mxGeometry x="3090" y="465" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-4" target="w9T0O8eBJ9PRjbyhEmXW-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-4" value="problems of IS" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3800" y="140" width="120" height="40" as="geometry">
+          <mxGeometry x="3390" y="135" width="120" height="40" as="geometry">
             <mxRectangle x="3800" y="140" width="380" height="400" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1229,19 +1232,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-7" value="&lt;u&gt;&lt;b&gt;Information Systems Auditing&lt;/b&gt;&lt;/u&gt; is defined as the process of attesting objectives&lt;br&gt;(those of the external auditor) that focus on asset safeguarding, data integrity and&lt;br&gt;management objectives (those of the internal auditor) that include effectiveness&lt;br&gt;and efficiency both." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3640" y="200" width="440" height="60" as="geometry" />
+          <mxGeometry x="3230" y="195" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-9" target="w9T0O8eBJ9PRjbyhEmXW-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-9" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Asset Safeguarding Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;information system assets like hardware, software, facilities, people, data files, system documentation, information etc. must be protected by a system of internal controls from unauthorized access.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Data Integrity Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;completeness, reliability, transparency, and accuracy must be maintained&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. System Effectiveness Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Effectiveness of a system is done to evaluate whether a system reports information in a way that facilitates its users in decision- making or not.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. System Efficiency Objectives&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;efficient information system uses minimum resources to achieve its required objectives, therefore the use of various information system resources like machine time, peripherals, system software and labor must be optimally utilized along with the impact on its computing environment.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="3720" y="280" width="280" height="280" as="geometry" />
+          <mxGeometry x="3310" y="275" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-11" target="w9T0O8eBJ9PRjbyhEmXW-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-11" value="&lt;b&gt;Types of audit / techniques&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3780" y="580" width="160" height="20" as="geometry" />
+          <mxGeometry x="3370" y="575" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-13" target="w9T0O8eBJ9PRjbyhEmXW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1256,7 +1259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-26" value="Audit hooks" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3800" y="890" width="120" height="40" as="geometry">
+          <mxGeometry x="3390" y="885" width="120" height="40" as="geometry">
             <mxRectangle x="3800" y="890" width="200" height="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1264,7 +1267,7 @@
           <mxGeometry y="40" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-17" value="Continuous and &#xa;Intermittent &#xa;Simulation (CIS):" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3800" y="820" width="120" height="50" as="geometry">
+          <mxGeometry x="3390" y="815" width="120" height="50" as="geometry">
             <mxRectangle x="3800" y="820" width="280" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1272,7 +1275,7 @@
           <mxGeometry y="50" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-19" value="Integrated &#xa;Test Facility &#xa;(ITF)" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3800" y="750" width="120" height="50" as="geometry">
+          <mxGeometry x="3390" y="745" width="120" height="50" as="geometry">
             <mxRectangle x="3800" y="750" width="290" height="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1280,7 +1283,7 @@
           <mxGeometry y="50" width="290" height="170" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-15" value="System Control &#xa;Audit Review File &#xa;(SCARF)" style="swimlane;startSize=50;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3800" y="680" width="120" height="50" as="geometry">
+          <mxGeometry x="3390" y="675" width="120" height="50" as="geometry">
             <mxRectangle x="3800" y="680" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1288,7 +1291,7 @@
           <mxGeometry y="50" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-13" value="Snapshots" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="3800" y="620" width="120" height="40" as="geometry">
+          <mxGeometry x="3390" y="615" width="120" height="40" as="geometry">
             <mxRectangle x="3800" y="620" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1299,40 +1302,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-33" value="it refers to recording or logging of activities at the operating system network, application user and database levels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4400" y="140" width="520" height="40" as="geometry" />
+          <mxGeometry x="3720" y="135" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-44" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4520" y="400" as="targetPoint" />
+            <mxPoint x="3840" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-46" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4660" y="400" as="targetPoint" />
+            <mxPoint x="3980" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="PJSLrxo2yEzTVkuicQqN-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. detecting unauthorized users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reconstructing Events&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;keep a log of system errors, security violation, processing errors etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Personal Accountability&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;monitor user activity at the lowest level of detail- prevention of violation of cos policy.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="4520" y="200" width="280" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-50" value="C" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="5030" y="405" width="120" height="40" as="geometry">
-            <mxRectangle x="520" y="440" width="200" height="200" as="alternateBounds" />
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9T0O8eBJ9PRjbyhEmXW-36" target="w9T0O8eBJ9PRjbyhEmXW-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4260.000000000001" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="w9T0O8eBJ9PRjbyhEmXW-50" vertex="1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-36" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;objectives&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. detecting unauthorized users&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Reconstructing Events&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;keep a log of system errors, security violation, processing errors etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Personal Accountability&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;monitor user activity at the lowest level of detail- prevention of violation of cos policy.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="3840" y="195" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-50" value="Application&#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="4200" y="400" width="120" height="40" as="geometry">
+            <mxRectangle x="4200" y="400" width="530" height="1860" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w9T0O8eBJ9PRjbyhEmXW-51" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;I. Boundary Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;This maintains the chronology of events that occur when a user attempts to gain&lt;br&gt;access to and employ systems resources. This includes the following:&lt;br&gt;♦ Identity of the would-be user of the system;&lt;br&gt;♦ Authentication information supplied;&lt;br&gt;♦ Resources requested;&lt;br&gt;♦ Action privileges requested;&lt;br&gt;♦ Terminal Identifier;&lt;br&gt;♦ Start and Finish Time;&lt;br&gt;♦ Number of Sign-on attempts; and&lt;br&gt;♦ Resources provided/denied.Accounting Audit Trail&lt;br&gt;♦ Action privileges allowed/denied.&lt;br&gt;Operations Audit Trail&lt;br&gt;♦ Resource usage from log-on to log-out time.&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ Log of Resource consumption.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;II. Input Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;This maintains the chronology of events from the time data and instructions are&lt;br&gt;captured and entered into an application system until the time they are deemed&lt;br&gt;valid and passed onto other subsystems within the application system.&lt;br&gt;Accounting Audit Trail&lt;br&gt;♦ The identity of the person(organization) who was the source of the data;&lt;br&gt;♦ The identity of the person(organization) who entered the data into the system;&lt;br&gt;♦ The time and date when the data was captured;&lt;br&gt;♦ The identifier of the physical device used to enter the data into the system;&lt;br&gt;♦ The account or record to be updated by the transaction;&lt;br&gt;♦ The standing data to be updated by the transaction;&lt;br&gt;♦ The details of the transaction; and&lt;br&gt;♦ The number of the physical or logical batch to which the transaction belongs.&lt;br&gt;Operations Audit Trail&lt;br&gt;♦ Time to key in a source document or an instrument at a terminal;&lt;br&gt;♦ Number of read errors made by an optical scanning device;&lt;br&gt;♦ Number of keying errors identified during verification;&lt;br&gt;♦ Frequency with which an instruction in a command language is used; and&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ Time taken to invoke an instruction using a light pen versus a mouse.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;III. Communication Controls&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;This maintains a chronology of the events from the time a sender dispatches a&lt;br&gt;message to the time a receiver obtains the message.&lt;br&gt;Accounting Audit Trail&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ Unique identifier of the source/sink node;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ Unique identifier of each node in the network that traverses the message; Unique identifier of the person or process authorizing dispatch of the message; Time and date at which the message was dispatched;&lt;br&gt;♦ Time and date at which the message was received by the sink node;&lt;br&gt;♦ Time and date at which node in the network was traversed by the message;&lt;br&gt;♦ Message sequence number; and&lt;br&gt;♦ The image of the message received at each node traversed in the network. Operations Audit Trail&lt;br&gt;♦ Number of messages that have traversed each link and each node;&lt;br&gt;♦ Queue lengths at each node;&lt;br&gt;♦ Number of errors occurring on each link or at each node;&lt;br&gt;♦ Number of retransmissions that have occurred across each link;&lt;br&gt;♦ Log of errors to identify locations and patterns of errors;&lt;br&gt;♦ Log of system restarts; and&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ Message transit times between nodes and at nodes.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;IV. Processing Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The audit trail maintains the chronology of events from the time data is received&lt;br&gt;from the input or communication subsystem to the time data is dispatched to the&lt;br&gt;database, communication, or output subsystems.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Accounting Audit Trail&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ To trace and replicate the processing performed on a data item.&lt;br&gt;♦ To follow triggered transactions from end to end by monitoring input data entry, intermediate results and output data values.&lt;br&gt;♦ To check for existence of any data flow diagrams or flowcharts that describe data flow in the transaction, and whether such diagrams or flowcharts correctly identify the flow of data.&lt;br&gt;♦ To check whether audit log entries recorded the changes made in the data items at any time including who made them.Operations Audit Trail&lt;br&gt;♦ A comprehensive log on hardware consumption – CPU time used, secondary storage space used, and communication facilities used.&lt;br&gt;♦ A comprehensive log on software consumption – compilers, subroutine libraries, file management facilities and communication software used.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;V. Database Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The audit trail maintains the chronology of events that occur either to the&lt;br&gt;database definition or the database itself.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Accounting Audit Trail&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ To confirm whether an application properly accepts, processes, and stores information.&lt;br&gt;♦ To attach a unique time stamp to all transactions.&lt;br&gt;♦ To attach before-images and after-images of the data item on which a transaction is applied to the audit trail.&lt;br&gt;♦ Any modifications or corrections to audit trail transactions accommodating the changes that occur within an application system.&lt;br&gt;♦ To not only test the stated input, calculation, and output rules for data integrity, but also should assess the efficacy of the rules themselves.&lt;br&gt;Operations Audit Trail&lt;br&gt;♦ To maintain a chronology of resource consumption events that affects the database definition or the database.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;VI. Output Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The audit trail maintains the chronology of events that occur from the time the&lt;br&gt;content of the output is determined until the time users complete their disposal&lt;br&gt;of output because it no longer should be retained.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Accounting Audit Trail&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ What output was presented to users;&lt;br&gt;♦ Who received the output;&lt;br&gt;♦ When the output was received; and&lt;br&gt;♦ What actions were taken with the output?&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Operations Audit Trail&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;♦ To maintain the record of resources consumed – graphs, images, report pages, printing time and display rate to produce the various outputs.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="w9T0O8eBJ9PRjbyhEmXW-50" vertex="1">
+          <mxGeometry y="40" width="530" height="1820" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-44" value="&lt;div&gt;Physical &lt;br&gt;&lt;/div&gt;&lt;div&gt;Security Controls&lt;/div&gt;" style="swimlane;startSize=40;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4460" y="400" width="120" height="40" as="geometry">
+          <mxGeometry x="3780" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="4460" y="400" width="480" height="790" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1340,7 +1345,7 @@
           <mxGeometry y="40" width="480" height="750" as="geometry" />
         </mxCell>
         <mxCell id="w9T0O8eBJ9PRjbyhEmXW-46" value="Logical Access&#xa;Controls" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="4600" y="400" width="120" height="40" as="geometry">
+          <mxGeometry x="3920" y="395" width="120" height="40" as="geometry">
             <mxRectangle x="4600" y="400" width="560" height="1350" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1348,7 +1353,7 @@
           <mxGeometry y="40" width="560" height="1310" as="geometry" />
         </mxCell>
         <mxCell id="Q9GPvrwFVX75FrHOYmMz-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;I. Top Management and Information Systems Management Controls&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ &lt;u&gt;&lt;b&gt;Planning&lt;/b&gt;&lt;/u&gt;: evaluate whether top management formulated high-quality information system’s plan that is appropriate to&lt;br&gt;&lt;/div&gt;&lt;div&gt;the needs of an organization or not. &lt;/div&gt;&lt;br&gt;&lt;div&gt;♦ &lt;u&gt;&lt;b&gt;Organizing&lt;/b&gt;&lt;/u&gt;: Auditors should be concerned about how well top management acquires and manages staff resources.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ &lt;u&gt;&lt;b&gt;Leading&lt;/b&gt;&lt;/u&gt;: evaluate how well top managers&lt;br&gt;&lt;/div&gt;communicate with their staff.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ &lt;u&gt;&lt;b&gt;Controlling&lt;/b&gt;&lt;/u&gt;: evaluate whether top management’s choice&lt;br&gt;&lt;/div&gt;to the means of control over the users of IS services is likely to be effective&lt;br&gt;&lt;div&gt;or not.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;III. Programming Management Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Planning&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ evaluate whether nature of and extent of&lt;br&gt;planning are appropriate to different types of s/w that are&lt;br&gt;developed or acquired.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ evaluate how well the planning work is being&lt;br&gt;undertaken.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Control&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ evaluate whether the nature of an extent of control&lt;br&gt;activities undertaken are appropriate for the different types of&lt;br&gt;software that are developed or acquired.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ gather evidence on whether the control&lt;br&gt;procedures are operating reliably.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Design&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦&amp;nbsp; find out whether programmers use systematic approach to design&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦obtain evidence of the design practices used by&lt;br&gt;undertaking interviews, observations, and reviews of&lt;br&gt;documentation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Coding&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors should seek evidence –&lt;br&gt;&lt;br&gt;• level of care exercised by programming&lt;br&gt;management in choosing a module implementation and&lt;br&gt;integration strategy.&lt;br&gt;• determine whether programming management&lt;br&gt;ensures that programmers follow structured&lt;br&gt;programming conventions.&lt;br&gt;•check whether programmers employ automated&lt;br&gt;facilities to assist them with their coding work.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;Testing&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors can use interviews, observations, and examination of&lt;br&gt;documentation to evaluate how well unit testing is&lt;br&gt;conducted.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors are most likely concerned primarily with the quality&lt;br&gt;of integration testing work carried out by information systems&lt;br&gt;professionals rather than end users.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors primary concern is to see that whole-of-program&lt;br&gt;tests have been undertaken for all material programs and that&lt;br&gt;these tests have been well-designed and executed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Operation and Maintenance&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ensure effectively and timely reporting of&lt;br&gt;maintenance needs that occur so that maintenance is carried&lt;br&gt;out in a well-controlled manner&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ ensure that management has implemented a&lt;br&gt;review system and assigned responsibility for monitoring the&lt;br&gt;status of operational programs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IV. Data Resource Management Controls&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ determine what controls are exercised to maintain data&lt;br&gt;integrity.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors might employ test data to evaluate whether access controls and&lt;br&gt;update controls are working.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;V. Quality Assurance Management Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors might use interviews, observations and reviews of documentation&lt;br&gt;to evaluate how well Quality Assurance (QA) personnel perform their&lt;br&gt;monitoring role.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦evaluate how well QA personnel make recommendations for&lt;br&gt;improved standards or processes through interviews, observations, and&lt;br&gt;reviews of documentation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦evaluate how well QA personnel undertake the reporting&lt;br&gt;function and training through interviews, observations, and reviews of&lt;br&gt;documentation.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;VI. Security Management Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ evaluate whether security administrators are conducting&lt;br&gt;ongoing, high-quality security reviews or not;&lt;br&gt;&lt;br&gt;♦check whether the organizations audited have appropriate, high-&lt;br&gt;quality disaster recovery plan in place; and&lt;br&gt;&lt;br&gt;♦ Auditors check whether the organizations have opted for an appropriate&lt;br&gt;insurance plan or not.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;VII. Operations Management Controls&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ see whether the documentation is&lt;br&gt;maintained securely and that it is issued only to authorized personnel.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;♦ Auditors can use interviews, observations, and review of documentation to&lt;br&gt;evaluate -&lt;br&gt;• the activities of documentation librarians;&lt;br&gt;• how well operations management undertakes the capacity planning&lt;br&gt;ad performance monitoring function;&lt;br&gt;• the reliability of outsourcing vendor controls;&lt;br&gt;• whether operations management is monitoring compliance with the&lt;br&gt;outsourcing contract; and&lt;br&gt;• Whether operations management regularly assesses the financial&lt;br&gt;viability of any outsourcing vendors that an organization uses.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" visible="0" parent="1">
-          <mxGeometry x="4570" y="460" width="460" height="2020" as="geometry" />
+          <mxGeometry x="3890" y="455" width="460" height="2020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
