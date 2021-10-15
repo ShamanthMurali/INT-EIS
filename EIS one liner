@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T16:58:31.165Z" agent="5.0 (X11)" etag="wmYAgSBiNaWaUIy0lbIt" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T18:06:12.790Z" agent="5.0 (X11)" etag="zl2q8sZLA9k5BvzzXgT0" version="15.5.2" type="github">
   <diagram id="Vwm7-_AFUp6fgtT029ib" name="Page-1">
-    <mxGraphModel dx="417" dy="198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1446" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MUe2JCuaB744AFQz0DA4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/InxHOuk.jpg;" vertex="1" parent="1">
-          <mxGeometry x="20" width="339" height="520" as="geometry" />
+          <mxGeometry x="-80" width="339" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/XFa0njd.jpg;" vertex="1" parent="1">
-          <mxGeometry x="20" y="520" width="339" height="520" as="geometry" />
+          <mxGeometry x="-80" y="520" width="339" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/mPFxjlK.jpg;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1040" width="348" height="520" as="geometry" />
+          <mxGeometry x="-80" y="1040" width="348" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qQ4kyPP.jpg;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1560" width="343" height="520" as="geometry" />
+          <mxGeometry x="-75" y="1560" width="343" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/izD9hch.jpg;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2080" width="392" height="520" as="geometry" />
+          <mxGeometry x="-90" y="2080" width="392" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/2KiDrBB.jpg;" vertex="1" parent="1">
-          <mxGeometry x="16.5" y="2600" width="379" height="520" as="geometry" />
+          <mxGeometry x="-83.5" y="2600" width="379" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Z2kQDot.jpg;" vertex="1" parent="1">
-          <mxGeometry x="16" y="3120" width="409" height="520" as="geometry" />
+          <mxGeometry x="-84" y="3120" width="409" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1zOb4Ei.jpg;" vertex="1" parent="1">
           <mxGeometry x="420" width="410" height="520" as="geometry" />
@@ -123,6 +123,63 @@
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/KxW99T7.jpg;" vertex="1" parent="1">
           <mxGeometry x="1409" y="5270" width="415" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-45" value="CPR for John Still Pending Call Doctor Monday" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-46" value="Doctor Sees Patient Physically Suffering" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-47" value="Important Lectures Require Timely Completion For Accuracy." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="860" width="110" height="77.07" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-48" value="&amp;nbsp;Train with Top Computer Science Coding people " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1070" width="110" height="77.07" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-49" value="All SET" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-50" value="ACC Product Internally Poor Profits" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-83.5" y="1470" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-51" value="Captain MSD would be Perfect PM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="1870" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-53" value="I am a PCA" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2120.34" width="80" height="39.66" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-54" value="AC &lt;u&gt;Revelations&lt;/u&gt; made Good &lt;u&gt;Revenue&lt;/u&gt; by &lt;u&gt;up&lt;/u&gt; and &lt;u&gt;cross&lt;/u&gt; selling due to good &lt;u&gt;communication&lt;/u&gt; of &lt;u&gt;marketing&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-95.75" y="2640.34" width="133.5" height="89.66" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-55" value="ARTS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-62.5" y="2770" width="67" height="29.66" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-56" value="CoMETS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-38.5" y="3440" width="67" height="29.66" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-57" value="i was a &lt;u&gt;friendly&lt;/u&gt; &lt;u&gt;independent&lt;/u&gt; person. i had &lt;u&gt;consistently&lt;/u&gt; maintained my &lt;u&gt;integrity&lt;/u&gt;. but my &lt;u&gt;development&lt;/u&gt; was under threat so i started &lt;u&gt;sharing data&lt;/u&gt; for my &lt;u&gt;security&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="168.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-58" value="ROHaN" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-59" value="to &lt;u&gt;understand data better&lt;/u&gt; i &lt;u&gt;combined&lt;/u&gt; all the data in a &lt;u&gt;centralized&lt;/u&gt; file in a &lt;u&gt;consistent&lt;/u&gt; manner, so that it is easy to &lt;u&gt;analyze trends&lt;/u&gt;. " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="340" y="970" width="208.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-60" value="the soil that is &lt;u&gt;Integrated&lt;/u&gt; with gold is first &lt;u&gt;selected&lt;/u&gt; and &lt;u&gt;cleaned&lt;/u&gt; so that it &lt;u&gt;transforms&lt;/u&gt; into soil which can be further &lt;u&gt;mined&lt;/u&gt; and the gold is extracted and &lt;u&gt;evaluated&lt;/u&gt; and &lt;u&gt;presented&lt;/u&gt; to customers to make their &lt;u&gt;decisions&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1080" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-61" value="&lt;u&gt;Powerful&lt;/u&gt; &lt;u&gt;resources&lt;/u&gt; are &lt;u&gt;distributed in nature&lt;/u&gt; and can be found by &lt;u&gt;reliable&lt;/u&gt; &lt;u&gt;communication&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+          <mxGeometry x="378.25" y="1290" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-62" value="it a fine afternoon and all of a sudden the &lt;u&gt;fire alarms&lt;/u&gt; went off. i started to wander in a building which is made from &lt;u&gt;fire proof walls, floors and ceiling&lt;/u&gt; how can we have fire. but people started shouting for &lt;u&gt;fire exit&lt;/u&gt; so i got a &lt;u&gt;fire extinguisher&lt;/u&gt; and started to &lt;u&gt;inspect&lt;/u&gt; where the fire is, so that i can &lt;u&gt;suppress&lt;/u&gt; it. i asked the manager, he said there is no fire it is just a &lt;u&gt;emergency&lt;/u&gt; practice to know if the &lt;u&gt;staff know how extinguish fire&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1500" width="258.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-63" value="&lt;font style=&quot;font-size: 9px&quot;&gt;I told the manager, man you should be worried more about &lt;u&gt;electrical surge protectors&lt;/u&gt; in the building. anyways you dont have &lt;u&gt;UPS&lt;/u&gt; and there is continues &lt;u&gt;voltage fluctuations&lt;/u&gt; and &lt;u&gt;circuits breaking&lt;/u&gt;. if &lt;u&gt;power&lt;/u&gt; goes &lt;u&gt;off&lt;/u&gt; it will an &lt;u&gt;emergency&lt;/u&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" vertex="1" parent="1">
+          <mxGeometry x="266.25" y="1690.13" width="282" height="61.87" as="geometry" />
+        </mxCell>
+        <mxCell id="MUe2JCuaB744AFQz0DA4-64" value="i went to the toilet the &lt;u&gt;ceiling was leaking&lt;/u&gt; with &lt;u&gt;drainage&lt;/u&gt; i told the manager to raise the &lt;u&gt;alarm&lt;/u&gt; he said,&quot;it your pants &lt;u&gt;leaking&lt;/u&gt; not the walls&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1770" width="271" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
