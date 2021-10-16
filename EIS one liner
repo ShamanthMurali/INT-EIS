@@ -1,197 +1,227 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T18:53:40.589Z" agent="5.0 (X11)" etag="YBucQwxaslRRijPMR96s" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-16T12:42:17.367Z" agent="5.0 (X11)" etag="qMjunV7pNNPVb_0dIohh" version="15.5.4" type="github">
   <diagram id="Vwm7-_AFUp6fgtT029ib" name="Page-1">
-    <mxGraphModel dx="5854" dy="2168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1721" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MUe2JCuaB744AFQz0DA4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/InxHOuk.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/InxHOuk.jpg;" parent="1" vertex="1">
           <mxGeometry x="-80" width="339" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/XFa0njd.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/XFa0njd.jpg;" parent="1" vertex="1">
           <mxGeometry x="-80" y="520" width="339" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/mPFxjlK.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/mPFxjlK.jpg;" parent="1" vertex="1">
           <mxGeometry x="-80" y="1040" width="348" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qQ4kyPP.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/qQ4kyPP.jpg;" parent="1" vertex="1">
           <mxGeometry x="-75" y="1560" width="343" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/izD9hch.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/izD9hch.jpg;" parent="1" vertex="1">
           <mxGeometry x="-90" y="2080" width="392" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/2KiDrBB.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/2KiDrBB.jpg;" parent="1" vertex="1">
           <mxGeometry x="-83.5" y="2600" width="379" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Z2kQDot.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Z2kQDot.jpg;" parent="1" vertex="1">
           <mxGeometry x="-84" y="3120" width="409" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1zOb4Ei.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1zOb4Ei.jpg;" parent="1" vertex="1">
           <mxGeometry x="420" width="410" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ynqXmFw.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ynqXmFw.jpg;" parent="1" vertex="1">
           <mxGeometry x="456" y="520" width="338" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/WAD88Bv.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/WAD88Bv.jpg;" parent="1" vertex="1">
           <mxGeometry x="449.5" y="1040" width="351" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6a8RMGj.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6a8RMGj.jpg;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="1560" width="361" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/aRIqayl.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/aRIqayl.jpg;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="2080" width="355.5" height="40.34" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ntvbjHi.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ntvbjHi.jpg;" parent="1" vertex="1">
           <mxGeometry x="456" y="2120.34" width="303" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/SpoqsvM.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/SpoqsvM.jpg;" parent="1" vertex="1">
           <mxGeometry x="447" y="2620" width="403" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/TiENdqf.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/TiENdqf.jpg;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="3140" width="405.5" height="198.07" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/dR3vUYr.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/dR3vUYr.jpg;" parent="1" vertex="1">
           <mxGeometry x="461.75" y="3338.07" width="371" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ETglX25.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/ETglX25.jpg;" parent="1" vertex="1">
           <mxGeometry x="471" y="3858.07" width="352.5" height="569.25" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/kiQBKGS.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/kiQBKGS.jpg;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="4428.07" width="352" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/aPHQ7U7.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/aPHQ7U7.jpg;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="4948.07" width="340" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/fML8tKD.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/fML8tKD.jpg;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="5468.07" width="342.5" height="413.23" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/fpzrIPP.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/fpzrIPP.jpg;" parent="1" vertex="1">
           <mxGeometry x="920" width="393" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/eJFcPaq.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/eJFcPaq.jpg;" parent="1" vertex="1">
           <mxGeometry x="933.5" y="520" width="380" height="569.45" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/h0eW0QU.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/h0eW0QU.jpg;" parent="1" vertex="1">
           <mxGeometry x="950" y="1089.45" width="350" height="598.68" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/D41o3fB.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/D41o3fB.jpg;" parent="1" vertex="1">
           <mxGeometry x="950" y="1688.13" width="350" height="561.73" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/FGhyyO3.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/FGhyyO3.jpg;" parent="1" vertex="1">
           <mxGeometry x="940" y="2249.86" width="370" height="595.67" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/eEWA2sX.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/eEWA2sX.jpg;" parent="1" vertex="1">
           <mxGeometry x="933.5" y="2845.53" width="376.5" height="554.62" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/0FiZVOT.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/0FiZVOT.jpg;" parent="1" vertex="1">
           <mxGeometry x="944" y="3400.15" width="356" height="573.13" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BYV9eh3.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/BYV9eh3.jpg;" parent="1" vertex="1">
           <mxGeometry x="927.5" y="3973.28" width="389" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/b20JiBw.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/b20JiBw.jpg;" parent="1" vertex="1">
           <mxGeometry x="920" y="4480" width="377" height="578.29" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/PmV9192.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/PmV9192.jpg;" parent="1" vertex="1">
           <mxGeometry x="914" y="5058.29" width="383" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/hJjyLUe.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/hJjyLUe.jpg;" parent="1" vertex="1">
           <mxGeometry x="1410" width="380" height="572.75" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/xeriEEh.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/xeriEEh.jpg;" parent="1" vertex="1">
           <mxGeometry x="1409" y="572.75" width="381" height="600.36" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/h1QIZCy.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/h1QIZCy.jpg;" parent="1" vertex="1">
           <mxGeometry x="1416" y="1120" width="374" height="609.66" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/oW4hqVr.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/oW4hqVr.jpg;" parent="1" vertex="1">
           <mxGeometry x="1416" y="1729.66" width="379" height="566.32" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1NFEBpT.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/1NFEBpT.jpg;" parent="1" vertex="1">
           <mxGeometry x="1416" y="2287.7" width="374" height="615.44" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/G7LiiaT.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/G7LiiaT.jpg;" parent="1" vertex="1">
           <mxGeometry x="1415.5" y="2840" width="374.5" height="584.8" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6dY5Is1.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/6dY5Is1.jpg;" parent="1" vertex="1">
           <mxGeometry x="1415.5" y="3420" width="374.5" height="640.59" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/xvvoE6e.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/xvvoE6e.jpg;" parent="1" vertex="1">
           <mxGeometry x="1410" y="4060.59" width="380" height="629.3" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Ezn4q8l.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/Ezn4q8l.jpg;" parent="1" vertex="1">
           <mxGeometry x="1414" y="4688.07" width="366" height="596.61" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/KxW99T7.jpg;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/KxW99T7.jpg;" parent="1" vertex="1">
           <mxGeometry x="1409" y="5270" width="415" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-45" value="CPR for John Still Pending Call Doctor Monday" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-45" value="CPR for John Still Pending Call Doctor Monday" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-70" y="300" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-46" value="Doctor Sees Patient Physically Suffering" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-46" value="Doctor Sees Patient Physically Suffering" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-70" y="410" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-47" value="Important Lectures Require Timely Completion For Accuracy." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-47" value="Important Lectures Require Timely Completion For Accuracy." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-84" y="860" width="110" height="77.07" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-48" value="&amp;nbsp;Train with Top Computer Science Coding people " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-48" value="&amp;nbsp;Train with Top Computer Science Coding people " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1070" width="110" height="77.07" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-49" value="All SET" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-49" value="All SET" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-60" y="1220" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-50" value="ACC Product Internally Poor Profits" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-50" value="ACC Product Internally Poor Profits" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-83.5" y="1470" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-51" value="Captain MSD would be Perfect PM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-51" value="Captain MSD would be Perfect PM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-84" y="1870" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-53" value="I am a PCA" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-53" value="I am a PCA" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-60" y="2120.34" width="80" height="39.66" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-54" value="AC &lt;u&gt;Revelations&lt;/u&gt; made Good &lt;u&gt;Revenue&lt;/u&gt; by &lt;u&gt;up&lt;/u&gt; and &lt;u&gt;cross&lt;/u&gt; selling due to good &lt;u&gt;communication&lt;/u&gt; of &lt;u&gt;marketing&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-54" value="AC &lt;u&gt;Revelations&lt;/u&gt; made Good &lt;u&gt;Revenue&lt;/u&gt; by &lt;u&gt;up&lt;/u&gt; and &lt;u&gt;cross&lt;/u&gt; selling due to good &lt;u&gt;communication&lt;/u&gt; of &lt;u&gt;marketing&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-95.75" y="2640.34" width="133.5" height="89.66" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-55" value="ARTS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-55" value="ARTS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-62.5" y="2770" width="67" height="29.66" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-56" value="CoMETS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-56" value="CoMETS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="-38.5" y="3440" width="67" height="29.66" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-57" value="i was a &lt;u&gt;friendly&lt;/u&gt; &lt;u&gt;independent&lt;/u&gt; person. i had &lt;u&gt;consistently&lt;/u&gt; maintained my &lt;u&gt;integrity&lt;/u&gt;. but my &lt;u&gt;development&lt;/u&gt; was under threat so i started &lt;u&gt;sharing data&lt;/u&gt; for my &lt;u&gt;security&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-57" value="i was a &lt;u&gt;friendly&lt;/u&gt; &lt;u&gt;independent&lt;/u&gt; person. i had &lt;u&gt;consistently&lt;/u&gt; maintained my &lt;u&gt;integrity&lt;/u&gt;. but my &lt;u&gt;development&lt;/u&gt; was under threat so i started &lt;u&gt;sharing data&lt;/u&gt; for my &lt;u&gt;security&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
           <mxGeometry x="380" y="550" width="168.25" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-58" value="ROHaN" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-58" value="ROHaN" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-59" value="to &lt;u&gt;understand data better&lt;/u&gt; i &lt;u&gt;combined&lt;/u&gt; all the data in a &lt;u&gt;centralized&lt;/u&gt; file in a &lt;u&gt;consistent&lt;/u&gt; manner, so that it is easy to &lt;u&gt;analyze trends&lt;/u&gt;. " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-59" value="to &lt;u&gt;understand data better&lt;/u&gt; i &lt;u&gt;combined&lt;/u&gt; all the data in a &lt;u&gt;centralized&lt;/u&gt; file in a &lt;u&gt;consistent&lt;/u&gt; manner, so that it is easy to &lt;u&gt;analyze trends&lt;/u&gt;. " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="340" y="970" width="208.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-60" value="the soil that is &lt;u&gt;Integrated&lt;/u&gt; with gold is first &lt;u&gt;selected&lt;/u&gt; and &lt;u&gt;cleaned&lt;/u&gt; so that it &lt;u&gt;transforms&lt;/u&gt; into soil which can be further &lt;u&gt;mined&lt;/u&gt; and the gold is extracted and &lt;u&gt;evaluated&lt;/u&gt; and &lt;u&gt;presented&lt;/u&gt; to customers to make their &lt;u&gt;decisions&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-60" value="the soil that is &lt;u&gt;Integrated&lt;/u&gt; with gold is first &lt;u&gt;selected&lt;/u&gt; and &lt;u&gt;cleaned&lt;/u&gt; so that it &lt;u&gt;transforms&lt;/u&gt; into soil which can be further &lt;u&gt;mined&lt;/u&gt; and the gold is extracted and &lt;u&gt;evaluated&lt;/u&gt; and &lt;u&gt;presented&lt;/u&gt; to customers to make their &lt;u&gt;decisions&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
           <mxGeometry x="370" y="1080" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-61" value="&lt;u&gt;Powerful&lt;/u&gt; &lt;u&gt;resources&lt;/u&gt; are &lt;u&gt;distributed in nature&lt;/u&gt; and can be found by &lt;u&gt;reliable&lt;/u&gt; &lt;u&gt;communication&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-61" value="&lt;u&gt;Powerful&lt;/u&gt; &lt;u&gt;resources&lt;/u&gt; are &lt;u&gt;distributed in nature&lt;/u&gt; and can be found by &lt;u&gt;reliable&lt;/u&gt; &lt;u&gt;communication&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
           <mxGeometry x="378.25" y="1290" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-62" value="it a fine afternoon and all of a sudden the &lt;u&gt;fire alarms&lt;/u&gt; went off. i started to wonder in a building which is made from &lt;u&gt;fire proof walls, floors and ceiling&lt;/u&gt; how can we have fire. but people started shouting for &lt;u&gt;fire exit&lt;/u&gt; so i got a &lt;u&gt;fire extinguisher&lt;/u&gt; and started to &lt;u&gt;inspect&lt;/u&gt; where the fire is, so that i can &lt;u&gt;suppress&lt;/u&gt; it. i asked the manager, he said there is no fire it is just a &lt;u&gt;emergency&lt;/u&gt; practice to know if the &lt;u&gt;staff know how extinguish fire&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-62" value="it a fine afternoon and all of a sudden the &lt;u&gt;fire alarms&lt;/u&gt; went off. i started to wonder in a building which is made from &lt;u&gt;fire proof walls, floors and ceiling&lt;/u&gt; how can we have fire. but people started shouting for &lt;u&gt;fire exit&lt;/u&gt; so i got a &lt;u&gt;fire extinguisher&lt;/u&gt; and started to &lt;u&gt;inspect&lt;/u&gt; where the fire is, so that i can &lt;u&gt;suppress&lt;/u&gt; it. i asked the manager, he said there is no fire it is just a &lt;u&gt;emergency&lt;/u&gt; practice to know if the &lt;u&gt;staff know how extinguish fire&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
           <mxGeometry x="290" y="1500" width="258.25" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-63" value="&lt;font style=&quot;font-size: 9px&quot;&gt;I told the manager, man you should be worried more about &lt;u&gt;electrical surge protectors&lt;/u&gt; in the building. anyways you dont have &lt;u&gt;UPS&lt;/u&gt; and there is continues &lt;u&gt;voltage fluctuations&lt;/u&gt; and &lt;u&gt;circuits breaking&lt;/u&gt;. if &lt;u&gt;power&lt;/u&gt; goes &lt;u&gt;off&lt;/u&gt; it will an &lt;u&gt;emergency&lt;/u&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-63" value="&lt;font style=&quot;font-size: 9px&quot;&gt;I told the manager, man you should be worried more about &lt;u&gt;electrical surge protectors&lt;/u&gt; in the building. anyways you dont have &lt;u&gt;UPS&lt;/u&gt; and there is continues &lt;u&gt;voltage fluctuations&lt;/u&gt; and &lt;u&gt;circuits breaking&lt;/u&gt;. if &lt;u&gt;power&lt;/u&gt; goes &lt;u&gt;off&lt;/u&gt; it will an &lt;u&gt;emergency&lt;/u&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="266.25" y="1690.13" width="282" height="61.87" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-64" value="i went to the toilet the &lt;u&gt;ceiling was leaking&lt;/u&gt; with &lt;u&gt;drainage&lt;/u&gt; i told the manager to raise the &lt;u&gt;alarm&lt;/u&gt; he said,&quot;its your pant &lt;u&gt;leaking,&lt;/u&gt; not the walls&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-64" value="i went to the toilet the &lt;u&gt;ceiling was leaking&lt;/u&gt; with &lt;u&gt;drainage&lt;/u&gt; i told the manager to raise the &lt;u&gt;alarm&lt;/u&gt; he said,&quot;its your pant &lt;u&gt;leaking,&lt;/u&gt; not the walls&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="1770" width="271" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-65" value="see to get into office illegally first you have to pick the &lt;u&gt;lock on the doors&lt;/u&gt;, and steal a employees &lt;u&gt;ID card&lt;/u&gt; and &lt;u&gt;login&lt;/u&gt;. but this is just the beginning. then you disable the &lt;u&gt;cameras&lt;/u&gt; and &lt;u&gt;alarms&lt;/u&gt; and be careful of the &lt;u&gt;security guards&lt;/u&gt; they can &lt;u&gt;trap&lt;/u&gt; you, find the &lt;u&gt;perimeter fence&lt;/u&gt; and that will be your &lt;u&gt;entry point&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-65" value="see to get into office illegally first you have to pick the &lt;u&gt;lock on the doors&lt;/u&gt;, and steal a employees &lt;u&gt;ID card&lt;/u&gt; and &lt;u&gt;login&lt;/u&gt;. but this is just the beginning. then you disable the &lt;u&gt;cameras&lt;/u&gt; and &lt;u&gt;alarms&lt;/u&gt; and be careful of the &lt;u&gt;security guards&lt;/u&gt; they can &lt;u&gt;trap&lt;/u&gt; you, find the &lt;u&gt;perimeter fence&lt;/u&gt; and that will be your &lt;u&gt;entry point&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
           <mxGeometry x="276.38" y="1962.99" width="258.25" height="117.01" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-66" value="i &lt;u&gt;mail&lt;/u&gt;ed a &lt;u&gt;shop&lt;/u&gt; owner for a &lt;u&gt;portal&lt;/u&gt; painting, he said there is nobody &lt;u&gt;distributing&lt;/u&gt; it in the &lt;u&gt;market&lt;/u&gt;. but still if you want to &lt;u&gt;procure&lt;/u&gt; it you have for an &lt;u&gt;auction&lt;/u&gt; where there are many &lt;u&gt;buyers aggregated&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.16666666666666666;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-66" value="i &lt;u&gt;mail&lt;/u&gt;ed a &lt;u&gt;shop&lt;/u&gt; owner for a &lt;u&gt;portal&lt;/u&gt; painting, he said there is nobody &lt;u&gt;distributing&lt;/u&gt; it in the &lt;u&gt;market&lt;/u&gt;. but still if you want to &lt;u&gt;procure&lt;/u&gt; it you have for an &lt;u&gt;auction&lt;/u&gt; where there are many &lt;u&gt;buyers aggregated&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.16666666666666666;" parent="1" vertex="1">
           <mxGeometry x="807.5" y="572.75" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-67" value="How to start a ecomm? well it is simple, first you need &lt;u&gt;users&lt;/u&gt; off course, and a lot of &lt;u&gt;tech&lt;/u&gt;. you can first start out by having a &lt;u&gt;web-portal&lt;/u&gt; on the &lt;u&gt;internet&lt;/u&gt; and have some &lt;u&gt;payment gateways&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.10933741526350318;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-67" value="How to start a ecomm? well it is simple, first you need &lt;u&gt;users&lt;/u&gt; off course, and a lot of &lt;u&gt;tech&lt;/u&gt;. you can first start out by having a &lt;u&gt;web-portal&lt;/u&gt; on the &lt;u&gt;internet&lt;/u&gt; and have some &lt;u&gt;payment gateways&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.10933741526350318;" parent="1" vertex="1">
           <mxGeometry x="850" y="868.61" width="160" height="71.46" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-69" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Next, &lt;u&gt;display&lt;/u&gt; you &lt;u&gt;products&lt;/u&gt; on your website. make sure you have a &lt;u&gt;warehouse&lt;/u&gt; to store you inventory with proper &lt;u&gt;supply chain mgt&lt;/u&gt;. Include a &lt;u&gt;privacy policy&lt;/u&gt; and &lt;u&gt;security&lt;/u&gt; policy on the website otherwise people will not even give their phone number. 30 day return &lt;u&gt;guarantee&lt;/u&gt; may help sell better&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.10933741526350318;" vertex="1" parent="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-69" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Next, &lt;u&gt;display&lt;/u&gt; you &lt;u&gt;products&lt;/u&gt; on your website. make sure you have a &lt;u&gt;warehouse&lt;/u&gt; to store you inventory with proper &lt;u&gt;supply chain mgt&lt;/u&gt;. Include a &lt;u&gt;privacy policy&lt;/u&gt; and &lt;u&gt;security&lt;/u&gt; policy on the website otherwise people will not even give their phone number. 30 day return &lt;u&gt;guarantee&lt;/u&gt; may help sell better&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.10933741526350318;" parent="1" vertex="1">
           <mxGeometry x="900" y="940.07" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-1" value="&amp;nbsp;it was an &lt;u&gt;incorrect decision&lt;/u&gt; to &lt;u&gt;abuse&lt;/u&gt; the &lt;u&gt;computer&lt;/u&gt;. now there is a &lt;u&gt;data loss&lt;/u&gt; and we are getting &lt;u&gt;errors&lt;/u&gt;. &lt;u&gt;maintaining&lt;/u&gt; this is very difficult" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="367.88" y="3400.15" width="152.5" height="99.85" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-2" value="if you want to &lt;u&gt;safe guard&lt;/u&gt; yourself &lt;u&gt;efficiently&lt;/u&gt; and &lt;u&gt;effectively&lt;/u&gt; you have to speak with &lt;u&gt;integrity&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="382.13" y="3540.15" width="152.5" height="79.85" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-3" value="i was standing in a railway station and a guy started taking &lt;u&gt;snapshots&lt;/u&gt; of me. i said if you cant &lt;u&gt;control&lt;/u&gt; yourself i will call the cops to &lt;u&gt;review&lt;/u&gt;. he said i am indian railway &lt;u&gt;testing facility&lt;/u&gt;. well if this &lt;u&gt;continues&lt;/u&gt; i will &lt;u&gt;hook&lt;/u&gt; you down i warned." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.07142857142857142;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3680" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-4" value="&lt;div&gt;&lt;u&gt;pirated software&lt;/u&gt; are a threat to &lt;u&gt;quality&lt;/u&gt; software. this is done by &lt;u&gt;thieves&lt;/u&gt; &lt;u&gt;anonymously&lt;/u&gt; &lt;u&gt;hidden&lt;/u&gt; in the &lt;u&gt;internet&lt;/u&gt; &lt;u&gt;hacking&lt;/u&gt; the code in the name of &lt;u&gt;privacy&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" parent="1">
+          <mxGeometry x="845" y="1629.66" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-5" value="piracy can be prevented by &lt;u&gt;educating&lt;/u&gt; and &lt;u&gt;communicating&lt;/u&gt; with users and &lt;u&gt;ensure&lt;/u&gt; that there is &lt;u&gt;industry standard protection&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.2222222222222222;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1810" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-6" value="microsoft &lt;u&gt;workspace&lt;/u&gt; &lt;u&gt;application&lt;/u&gt; &lt;u&gt;testing&lt;/u&gt; on the &lt;u&gt;server&lt;/u&gt; ended in a &lt;u&gt;disaster &lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2760" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-7" value="&amp;nbsp;in our office &lt;u&gt;grid&lt;/u&gt; we have &lt;u&gt;high resource&lt;/u&gt; &lt;u&gt;cpu&lt;/u&gt; which are very &lt;u&gt;reliable&lt;/u&gt; but &lt;u&gt;under utilized&lt;/u&gt; so i told the &lt;u&gt;mgt&lt;/u&gt; that &lt;u&gt;collaboration&lt;/u&gt; would make it every efficient" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2970" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-8" value="metro is on high &lt;u&gt;demand&lt;/u&gt; due to its fast &lt;u&gt;movement&lt;/u&gt; and &lt;u&gt;wide range of network&lt;/u&gt;. and they have introduced &lt;u&gt;pay per use&lt;/u&gt; system which has be &lt;u&gt;elasticity and scalable&lt;/u&gt; for the consumers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3110" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3220" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-10" value="govt is trying to &lt;u&gt;control&lt;/u&gt; the &lt;u&gt;internet&lt;/u&gt; by &lt;u&gt;hiding&lt;/u&gt; and &lt;u&gt;putting restrictions&lt;/u&gt; for the sake of &lt;u&gt;security&lt;/u&gt; but it has made a lot of websites &lt;u&gt;incompatible&lt;/u&gt; which has led to a lot of &lt;u&gt;legal issues&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3430.15" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
