@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T12:42:17.367Z" agent="5.0 (X11)" etag="qMjunV7pNNPVb_0dIohh" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T18:48:14.770Z" agent="5.0 (X11)" etag="jEghzufV8svS4gKXGuuV" version="15.5.8" type="github">
   <diagram id="Vwm7-_AFUp6fgtT029ib" name="Page-1">
-    <mxGraphModel dx="1721" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,35 +193,38 @@
         <mxCell id="MUe2JCuaB744AFQz0DA4-69" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Next, &lt;u&gt;display&lt;/u&gt; you &lt;u&gt;products&lt;/u&gt; on your website. make sure you have a &lt;u&gt;warehouse&lt;/u&gt; to store you inventory with proper &lt;u&gt;supply chain mgt&lt;/u&gt;. Include a &lt;u&gt;privacy policy&lt;/u&gt; and &lt;u&gt;security&lt;/u&gt; policy on the website otherwise people will not even give their phone number. 30 day return &lt;u&gt;guarantee&lt;/u&gt; may help sell better&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;size=0.10933741526350318;" parent="1" vertex="1">
           <mxGeometry x="900" y="940.07" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-1" value="&amp;nbsp;it was an &lt;u&gt;incorrect decision&lt;/u&gt; to &lt;u&gt;abuse&lt;/u&gt; the &lt;u&gt;computer&lt;/u&gt;. now there is a &lt;u&gt;data loss&lt;/u&gt; and we are getting &lt;u&gt;errors&lt;/u&gt;. &lt;u&gt;maintaining&lt;/u&gt; this is very difficult" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-1" value="&amp;nbsp;it was an &lt;u&gt;incorrect decision&lt;/u&gt; to &lt;u&gt;abuse&lt;/u&gt; the &lt;u&gt;computer&lt;/u&gt;. now there is a &lt;u&gt;data loss&lt;/u&gt; and we are getting &lt;u&gt;errors&lt;/u&gt;. &lt;u&gt;maintaining&lt;/u&gt; this is very difficult" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
           <mxGeometry x="367.88" y="3400.15" width="152.5" height="99.85" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-2" value="if you want to &lt;u&gt;safe guard&lt;/u&gt; yourself &lt;u&gt;efficiently&lt;/u&gt; and &lt;u&gt;effectively&lt;/u&gt; you have to speak with &lt;u&gt;integrity&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-2" value="if you want to &lt;u&gt;safe guard&lt;/u&gt; yourself &lt;u&gt;efficiently&lt;/u&gt; and &lt;u&gt;effectively&lt;/u&gt; you have to speak with &lt;u&gt;integrity&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
           <mxGeometry x="382.13" y="3540.15" width="152.5" height="79.85" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-3" value="i was standing in a railway station and a guy started taking &lt;u&gt;snapshots&lt;/u&gt; of me. i said if you cant &lt;u&gt;control&lt;/u&gt; yourself i will call the cops to &lt;u&gt;review&lt;/u&gt;. he said i am indian railway &lt;u&gt;testing facility&lt;/u&gt;. well if this &lt;u&gt;continues&lt;/u&gt; i will &lt;u&gt;hook&lt;/u&gt; you down i warned." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.07142857142857142;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-3" value="i was standing in a railway station and a guy started taking &lt;u&gt;snapshots&lt;/u&gt; of me. i said if you cant &lt;u&gt;control&lt;/u&gt; yourself i will call the cops to &lt;u&gt;review&lt;/u&gt;. he said i am indian railway &lt;u&gt;testing facility&lt;/u&gt;. well if this &lt;u&gt;continues&lt;/u&gt; i will &lt;u&gt;hook&lt;/u&gt; you down i warned." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.07142857142857142;" parent="1" vertex="1">
           <mxGeometry x="340" y="3680" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-4" value="&lt;div&gt;&lt;u&gt;pirated software&lt;/u&gt; are a threat to &lt;u&gt;quality&lt;/u&gt; software. this is done by &lt;u&gt;thieves&lt;/u&gt; &lt;u&gt;anonymously&lt;/u&gt; &lt;u&gt;hidden&lt;/u&gt; in the &lt;u&gt;internet&lt;/u&gt; &lt;u&gt;hacking&lt;/u&gt; the code in the name of &lt;u&gt;privacy&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-4" value="&lt;div&gt;&lt;u&gt;pirated software&lt;/u&gt; are a threat to &lt;u&gt;quality&lt;/u&gt; software. this is done by &lt;u&gt;thieves&lt;/u&gt; &lt;u&gt;anonymously&lt;/u&gt; &lt;u&gt;hidden&lt;/u&gt; in the &lt;u&gt;internet&lt;/u&gt; &lt;u&gt;hacking&lt;/u&gt; the code in the name of &lt;u&gt;privacy&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.14285714285714285;" parent="1" vertex="1">
           <mxGeometry x="845" y="1629.66" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-5" value="piracy can be prevented by &lt;u&gt;educating&lt;/u&gt; and &lt;u&gt;communicating&lt;/u&gt; with users and &lt;u&gt;ensure&lt;/u&gt; that there is &lt;u&gt;industry standard protection&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.2222222222222222;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-5" value="piracy can be prevented by &lt;u&gt;educating&lt;/u&gt; and &lt;u&gt;communicating&lt;/u&gt; with users and &lt;u&gt;ensure&lt;/u&gt; that there is &lt;u&gt;industry standard protection&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.2222222222222222;" parent="1" vertex="1">
           <mxGeometry x="830" y="1810" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-6" value="microsoft &lt;u&gt;workspace&lt;/u&gt; &lt;u&gt;application&lt;/u&gt; &lt;u&gt;testing&lt;/u&gt; on the &lt;u&gt;server&lt;/u&gt; ended in a &lt;u&gt;disaster &lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-6" value="microsoft &lt;u&gt;workspace&lt;/u&gt; &lt;u&gt;application&lt;/u&gt; &lt;u&gt;testing&lt;/u&gt; on the &lt;u&gt;server&lt;/u&gt; ended in a &lt;u&gt;disaster &lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="850" y="2760" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-7" value="&amp;nbsp;in our office &lt;u&gt;grid&lt;/u&gt; we have &lt;u&gt;high resource&lt;/u&gt; &lt;u&gt;cpu&lt;/u&gt; which are very &lt;u&gt;reliable&lt;/u&gt; but &lt;u&gt;under utilized&lt;/u&gt; so i told the &lt;u&gt;mgt&lt;/u&gt; that &lt;u&gt;collaboration&lt;/u&gt; would make it every efficient" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-7" value="&amp;nbsp;in our office &lt;u&gt;grid&lt;/u&gt; we have &lt;u&gt;high resource&lt;/u&gt; &lt;u&gt;cpu&lt;/u&gt; which are very &lt;u&gt;reliable&lt;/u&gt; but &lt;u&gt;under utilized&lt;/u&gt; so i told the &lt;u&gt;mgt&lt;/u&gt; that &lt;u&gt;collaboration&lt;/u&gt; would make it every efficient" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="880" y="2970" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-8" value="metro is on high &lt;u&gt;demand&lt;/u&gt; due to its fast &lt;u&gt;movement&lt;/u&gt; and &lt;u&gt;wide range of network&lt;/u&gt;. and they have introduced &lt;u&gt;pay per use&lt;/u&gt; system which has be &lt;u&gt;elasticity and scalable&lt;/u&gt; for the consumers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-8" value="metro is on high &lt;u&gt;demand&lt;/u&gt; due to its fast &lt;u&gt;movement&lt;/u&gt; and &lt;u&gt;wide range of network&lt;/u&gt;. and they have introduced &lt;u&gt;pay per use&lt;/u&gt; system which has be &lt;u&gt;elasticity and scalable&lt;/u&gt; for the consumers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="850" y="3110" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="850" y="3220" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-10" value="govt is trying to &lt;u&gt;control&lt;/u&gt; the &lt;u&gt;internet&lt;/u&gt; by &lt;u&gt;hiding&lt;/u&gt; and &lt;u&gt;putting restrictions&lt;/u&gt; for the sake of &lt;u&gt;security&lt;/u&gt; but it has made a lot of websites &lt;u&gt;incompatible&lt;/u&gt; which has led to a lot of &lt;u&gt;legal issues&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" vertex="1" parent="1">
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-10" value="govt is trying to &lt;u&gt;control&lt;/u&gt; the &lt;u&gt;internet&lt;/u&gt; by &lt;u&gt;hiding&lt;/u&gt; and &lt;u&gt;putting restrictions&lt;/u&gt; for the sake of &lt;u&gt;security&lt;/u&gt; but it has made a lot of websites &lt;u&gt;incompatible&lt;/u&gt; which has led to a lot of &lt;u&gt;legal issues&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="850" y="3430.15" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tJ-0-pZpOOC7hkOvowkb-1" value="MAD Fucking SiMP" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="640" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
