@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T18:43:58.492Z" agent="5.0 (X11)" etag="u3CrB7DNfhdXqx_mUouH" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T18:57:15.469Z" agent="5.0 (X11)" etag="vAc52NQwMih8DrdwdhC9" version="15.7.3" type="github">
   <diagram id="Vwm7-_AFUp6fgtT029ib" name="Page-1">
     <mxGraphModel dx="2140" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,8 +214,8 @@
         <mxCell id="nMQU-uoX-dvCc0E-h8eT-7" value="&amp;nbsp;in our office &lt;u&gt;grid&lt;/u&gt; we have &lt;u&gt;high resource&lt;/u&gt; &lt;u&gt;cpu&lt;/u&gt; which are very &lt;u&gt;reliable&lt;/u&gt; but &lt;u&gt;under utilized&lt;/u&gt; so i told the &lt;u&gt;mgt&lt;/u&gt; that &lt;u&gt;collaboration&lt;/u&gt; would make it every efficient" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="880" y="2970" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nMQU-uoX-dvCc0E-h8eT-8" value="metro is on high &lt;u&gt;demand&lt;/u&gt; due to its fast &lt;u&gt;movement&lt;/u&gt; and &lt;u&gt;wide range of network&lt;/u&gt;. and they have introduced &lt;u&gt;pay per use&lt;/u&gt; system which has been &lt;u&gt;elasticity and scalable&lt;/u&gt; for the consumers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
-          <mxGeometry x="852" y="3094" width="180" height="100" as="geometry" />
+        <mxCell id="nMQU-uoX-dvCc0E-h8eT-8" value="metro is on high &lt;u&gt;demand&lt;/u&gt; due to its fast &lt;u&gt;movement&lt;/u&gt; and &lt;u&gt;wide range of network&lt;/u&gt;. and they have introduced &lt;u&gt;pay per use&lt;/u&gt; system which has been &lt;u&gt;elastic and scalable&lt;/u&gt; for the consumers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
+          <mxGeometry x="860" y="3110" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nMQU-uoX-dvCc0E-h8eT-10" value="govt is trying to &lt;u&gt;control&lt;/u&gt; the &lt;u&gt;internet&lt;/u&gt; by &lt;u&gt;hiding&lt;/u&gt; and &lt;u&gt;putting restrictions&lt;/u&gt; for the sake of &lt;u&gt;security&lt;/u&gt; but it has made a lot of websites &lt;u&gt;incompatible&lt;/u&gt; which has led to a lot of &lt;u&gt;legal issues&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.0906289650172195;" parent="1" vertex="1">
           <mxGeometry x="850" y="3430.15" width="180" height="110" as="geometry" />
