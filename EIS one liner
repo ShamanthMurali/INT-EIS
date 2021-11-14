@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-14T12:18:01.721Z" agent="5.0 (X11)" etag="xBPp_YgLT4bHjOtkb2Ei" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-14T12:49:47.318Z" agent="5.0 (X11)" etag="s1O8-FpEqBG7UJcmzpWP" version="15.7.3" type="github">
   <diagram id="Vwm7-_AFUp6fgtT029ib" name="Page-1">
-    <mxGraphModel dx="2454" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="MUe2JCuaB744AFQz0DA4-61" value="&lt;u&gt;Powerful&lt;/u&gt; &lt;u&gt;resources&lt;/u&gt; are &lt;u&gt;distributed in nature&lt;/u&gt; and can be found by &lt;u&gt;reliable&lt;/u&gt; &lt;u&gt;communication&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
           <mxGeometry x="360" y="1290" width="188.25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MUe2JCuaB744AFQz0DA4-62" value="it a fine afternoon and all of a sudden the &lt;u&gt;fire alarms&lt;/u&gt; went off. i started to wonder in a building which is made from &lt;u&gt;fire proof walls, floors and ceiling&lt;/u&gt; how can we have fire. but people started shouting for &lt;u&gt;fire exit&lt;/u&gt; so i got a &lt;u&gt;fire extinguisher&lt;/u&gt; and started to &lt;u&gt;inspect&lt;/u&gt; where the fire is, so that i can &lt;u&gt;suppress&lt;/u&gt; it. i asked the manager, he said there is no fire it is just a &lt;u&gt;emergency&lt;/u&gt; practice to know if the &lt;u&gt;staff know how extinguish fire&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
+        <mxCell id="MUe2JCuaB744AFQz0DA4-62" value="it was a fine afternoon and all of a sudden the &lt;u&gt;fire alarms&lt;/u&gt; went off. i started to wonder in a building which is made from &lt;u&gt;fire proof walls, floors and ceiling&lt;/u&gt; how can we have fire. but people started shouting for &lt;u&gt;fire exit&lt;/u&gt; so i got a &lt;u&gt;fire extinguisher&lt;/u&gt; and started to &lt;u&gt;inspect&lt;/u&gt; where the fire is, so that i can &lt;u&gt;suppress&lt;/u&gt; it. i asked the manager, he said there is no fire it is just a &lt;u&gt;emergency&lt;/u&gt; practice to know if the &lt;u&gt;staff know how extinguish fire&lt;/u&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.08333333333333333;" parent="1" vertex="1">
           <mxGeometry x="290" y="1500" width="258.25" height="160" as="geometry" />
         </mxCell>
         <mxCell id="MUe2JCuaB744AFQz0DA4-63" value="&lt;font style=&quot;font-size: 9px&quot;&gt;I told the manager, man you should be worried more about &lt;u&gt;electrical surge protectors&lt;/u&gt; in the building. anyways you dont have &lt;u&gt;UPS&lt;/u&gt; and there is continues &lt;u&gt;voltage fluctuations&lt;/u&gt; and &lt;u&gt;circuits breaking&lt;/u&gt;. if &lt;u&gt;power&lt;/u&gt; goes &lt;u&gt;off&lt;/u&gt; it will an &lt;u&gt;emergency&lt;/u&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0;" parent="1" vertex="1">
