@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T01:18:40.726Z" agent="5.0 (Windows)" etag="6fJuRCFIO1m1cZTbvLTB" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T01:28:45.834Z" agent="5.0 (Windows)" etag="KNwwdGOfuy-7Au-Gwc01" version="15.8.3" type="github">
   <diagram id="Vwm7-_AFUp6fgtT029ib" name="Page-1">
-    <mxGraphModel dx="2569" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3800" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,6 +291,15 @@
         </mxCell>
         <mxCell id="sTSa-h1S5myhmrEGIcmC-4" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Processor controls of any application software are as follows:&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;&lt;div&gt;&lt;b&gt;•&amp;nbsp; Error Detection and Correction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;•&amp;nbsp; Multiple Execution States&lt;/b&gt;&lt;/div&gt;&lt;div&gt; auditors to determine which user&amp;nbsp; processes will be able to carry out unauthorized activities&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;•&amp;nbsp; Timing Controls&lt;/b&gt;&lt;/div&gt;&lt;div&gt; OS might get stuck in an infinite loop.&amp;nbsp; In&amp;nbsp; the &lt;/div&gt;absence of&amp;nbsp; any control, will retain prevent&amp;nbsp; other &lt;br&gt;&lt;div&gt;programs from undertaking their work. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;•&amp;nbsp; Component Replication&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; processor failure can result in significant losses. In multi-computer or multiprocessor architectures, the system might reconfigure itself to isolate the failed processor.&amp;nbsp; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="444.5" y="2120" width="355.5" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sTSa-h1S5myhmrEGIcmC-5" value="[RN21]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="927.5" y="4820" width="45" height="19.85" as="geometry" />
+        </mxCell>
+        <mxCell id="sTSa-h1S5myhmrEGIcmC-6" value="[RN21]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CCCC00;" vertex="1" parent="1">
+          <mxGeometry x="965" y="4610" width="45" height="19.85" as="geometry" />
+        </mxCell>
+        <mxCell id="sTSa-h1S5myhmrEGIcmC-7" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Various Front-end applications of core banking systems are as follows: &lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;b&gt;o&amp;nbsp; Internet Banking&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;o&amp;nbsp; Mobile Banking&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;o&amp;nbsp; Phone Banking (by calling)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;o&amp;nbsp; Branch Banking: &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; CBS enables single view of customer data across all branches in a bank&amp;nbsp; and thus facilitate information across the delivery&amp;nbsp; channels. &lt;br&gt;&lt;/div&gt;The branch confines itself to the following key functions: &amp;nbsp;&lt;br&gt;•&amp;nbsp; Creating manual documents capturing data required for input into software; &amp;nbsp;&lt;br&gt;•&amp;nbsp; Internal authorization; &lt;br&gt;•&amp;nbsp; Initiating Beginning-Of-Day (BOD) operations; &lt;br&gt;•&amp;nbsp; End-Of-Day (EOD) operations; and &lt;br&gt;•&amp;nbsp; Reviewing reports for control and error correction." style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1409" y="5790" width="421" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
