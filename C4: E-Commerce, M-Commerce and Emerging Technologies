@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T05:49:03.319Z" agent="5.0 (X11)" etag="ZhR633ZYhkjbzVv91W2u" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T03:00:28.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="2VkEYlrHSaOrd3gvqs3d" version="20.2.2" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1565,6 +1565,14 @@
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-58" value="The&amp;nbsp; user&amp;nbsp; may&amp;nbsp; be&amp;nbsp; individual&amp;nbsp; /&amp;nbsp; organization&amp;nbsp; or&amp;nbsp; anybody&amp;nbsp; using&amp;nbsp; the&amp;nbsp; e-commerce platforms. vendors&amp;nbsp; need&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; user’s&amp;nbsp; loyalty&amp;nbsp; is&amp;nbsp; built and&amp;nbsp; also&amp;nbsp; that&amp;nbsp; their&amp;nbsp; products&amp;nbsp; are&amp;nbsp; not&amp;nbsp; delivered&amp;nbsp; to&amp;nbsp; wrong&amp;nbsp; person.&amp;nbsp;&amp;nbsp;&amp;nbsp; For Example,&amp;nbsp; e-commerce&amp;nbsp; vendors&amp;nbsp; selling&amp;nbsp; products&amp;nbsp; like&amp;nbsp; medicine&amp;nbsp; /&amp;nbsp; drugs&amp;nbsp; need&amp;nbsp; to&amp;nbsp; ensure&amp;nbsp; that&amp;nbsp; their&amp;nbsp; products&amp;nbsp; are&amp;nbsp; not&amp;nbsp; delivered&amp;nbsp; to&amp;nbsp; wrong&amp;nbsp; person/user. " style="rounded=0;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-57" vertex="1">
           <mxGeometry y="40" width="210" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-67" value="Payment Gateway" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="600" y="520" width="120" height="40" as="geometry">
+            <mxRectangle x="600" y="520" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V5_Tny7rc_aiCJH9v1E-68" value="Payment&amp;nbsp; gateway&amp;nbsp; represents&amp;nbsp; the&amp;nbsp; way&amp;nbsp; e-commerce/m-commerce&amp;nbsp; vendors&amp;nbsp; collects&amp;nbsp;&amp;nbsp; their&amp;nbsp;&amp;nbsp; payments.&amp;nbsp;&amp;nbsp; It&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; system&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; computer&amp;nbsp;&amp;nbsp; processes&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; authorizes, verifies, and accepts or declines credit/debit card transactions on behalf of the merchant through secure Internet connections." style="rounded=0;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-67" vertex="1">
+          <mxGeometry y="40" width="200" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-28" value="Business models" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="360" y="420" width="120" height="40" as="geometry">
             <mxRectangle x="360" y="420" width="310" height="400" as="alternateBounds" />
@@ -1674,14 +1682,6 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="_V5_Tny7rc_aiCJH9v1E-4" source="_V5_Tny7rc_aiCJH9v1E-5" target="_V5_Tny7rc_aiCJH9v1E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-67" value="Payment Gateway" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="600" y="520" width="120" height="40" as="geometry">
-            <mxRectangle x="600" y="520" width="200" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_V5_Tny7rc_aiCJH9v1E-68" value="Payment&amp;nbsp; gateway&amp;nbsp; represents&amp;nbsp; the&amp;nbsp; way&amp;nbsp; e-commerce/m-commerce&amp;nbsp; vendors&amp;nbsp; collects&amp;nbsp;&amp;nbsp; their&amp;nbsp;&amp;nbsp; payments.&amp;nbsp;&amp;nbsp; It&amp;nbsp;&amp;nbsp; is&amp;nbsp;&amp;nbsp; a&amp;nbsp;&amp;nbsp; system&amp;nbsp;&amp;nbsp; of&amp;nbsp;&amp;nbsp; computer&amp;nbsp;&amp;nbsp; processes&amp;nbsp;&amp;nbsp; that&amp;nbsp;&amp;nbsp; authorizes, verifies, and accepts or declines credit/debit card transactions on behalf of the merchant through secure Internet connections." style="rounded=0;whiteSpace=wrap;html=1;" parent="_V5_Tny7rc_aiCJH9v1E-67" vertex="1">
-          <mxGeometry y="40" width="200" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
