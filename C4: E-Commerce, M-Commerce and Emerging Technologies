@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T07:25:57.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="7TMaI2897Sp9AomKkHR6" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T11:07:54.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="gqEMXlCQ9YsrIFiw3I-h" version="20.2.2" type="github">
   <diagram id="2g9G_qZVQDYAYwBl_Ek2" name="Page-1">
-    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,54 +309,6 @@
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="Cj6t33-h_uaLePJBkrsk-77" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-76" value="&lt;div&gt;Unified&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment&amp;nbsp; Interface&lt;br&gt;&lt;/div&gt;&lt;div&gt;(UPI)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="1200" y="400" width="110" height="60" as="geometry">
-            <mxRectangle x="1200" y="400" width="240" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-94" value="UPI or Unified Payment Interface is a payment mode which is used&amp;nbsp; to&amp;nbsp; make&amp;nbsp; instant&amp;nbsp; fund&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; the&amp;nbsp; sender’s&amp;nbsp; bank&amp;nbsp; account&amp;nbsp; to&amp;nbsp; the&amp;nbsp; receiver’s&amp;nbsp; bank&amp;nbsp; account&amp;nbsp; through&amp;nbsp; the&amp;nbsp; mobile&amp;nbsp; app.&amp;nbsp; User&amp;nbsp; can&amp;nbsp; transfer&amp;nbsp; funds&amp;nbsp; between&amp;nbsp; two&amp;nbsp; accounts&amp;nbsp; using&amp;nbsp; UPI&amp;nbsp; apps." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-76" vertex="1">
-          <mxGeometry y="60" width="240" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-77" value="&lt;div&gt;Immediate&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment&amp;nbsp;&amp;nbsp; Service&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt; (IMPS)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="1460" y="400" width="110" height="60" as="geometry">
-            <mxRectangle x="1470" y="400" width="240" height="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-96" value="s&amp;nbsp; a&amp;nbsp; Mobile&amp;nbsp; App&amp;nbsp; developed by National Payments Corporation of India (NPCI) based on UPI (Unified&amp;nbsp; Payment&amp;nbsp; Interface).&amp;nbsp; It&amp;nbsp; facilitates&amp;nbsp; e-payments&amp;nbsp; directly&amp;nbsp; through&amp;nbsp; banks and supports all Indian banks which use that platform." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-77" vertex="1">
-          <mxGeometry y="60" width="240" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-80" value="Mobile&amp;nbsp; Wallets" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="1590" y="400" width="110" height="60" as="geometry">
-            <mxRectangle x="1600" y="400" width="260" height="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-97" value="A&amp;nbsp; mobile&amp;nbsp; wallet&amp;nbsp; or&amp;nbsp; e-wallet&amp;nbsp; is&amp;nbsp; nothing&amp;nbsp; but&amp;nbsp; a&amp;nbsp; digital&amp;nbsp; version of a physical or real-life wallet, in which one can add money to purchase&amp;nbsp; various&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; (both&amp;nbsp; online&amp;nbsp; and&amp;nbsp; offline)&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; money&amp;nbsp; with&amp;nbsp; this&amp;nbsp; technology." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-80" vertex="1">
-          <mxGeometry y="60" width="260" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-81" value="&lt;div&gt;Aadhar Enabled &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Service &lt;br&gt;&lt;/div&gt;&lt;div&gt; (AEPS)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="1720" y="400" width="110" height="60" as="geometry">
-            <mxRectangle x="1730" y="400" width="250" height="200" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-98" value="ustomer&amp;nbsp; needs&amp;nbsp; only&amp;nbsp; his&amp;nbsp; or&amp;nbsp; her&amp;nbsp; Aadhaar&amp;nbsp; number&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; pay&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; merchant.&amp;nbsp;&amp;nbsp; AEPS&amp;nbsp;&amp;nbsp; allows&amp;nbsp;&amp;nbsp; bank&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; bank&amp;nbsp;&amp;nbsp; transactions. It means the money you pay will be deducted from your account&amp;nbsp; and&amp;nbsp; credited&amp;nbsp; to&amp;nbsp; the&amp;nbsp; payee’s&amp;nbsp; account&amp;nbsp; directly.&amp;nbsp; Customers&amp;nbsp; will&amp;nbsp; need to link their AADHAR numbers to their bank accounts. " style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-81" vertex="1">
-          <mxGeometry y="60" width="250" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-82" value="&lt;div&gt;BHIM&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Bharat&amp;nbsp; Interface &lt;br&gt;&lt;/div&gt;&lt;div&gt; for&amp;nbsp; Money)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="1330" y="400" width="110" height="60" as="geometry">
-            <mxRectangle x="1340" y="400" width="230" height="150" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-95" value="ransfer&amp;nbsp; money&amp;nbsp; instantly&amp;nbsp; within&amp;nbsp; banks&amp;nbsp; across&amp;nbsp; India through Mobile, Internet Banking and ATM, which is not only safe but economical also." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-82" vertex="1">
-          <mxGeometry y="60" width="230" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-84" value="&lt;div&gt;Unstructured &lt;br&gt;&lt;/div&gt;&lt;div&gt;Supplementary &lt;br&gt;&lt;/div&gt;&lt;div&gt;Service &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data (USSD)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
-          <mxGeometry x="1850" y="400" width="120" height="60" as="geometry">
-            <mxRectangle x="1860" y="400" width="240" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-99" value="User does not need to&amp;nbsp; have&amp;nbsp; a&amp;nbsp; smartphone&amp;nbsp; or&amp;nbsp; internet&amp;nbsp; connection&amp;nbsp; to&amp;nbsp; use&amp;nbsp; USSD&amp;nbsp; banking. S/he&amp;nbsp; can&amp;nbsp; use&amp;nbsp; this&amp;nbsp; service&amp;nbsp; for&amp;nbsp; many financial and non-financial operations such as checking balance, sending&amp;nbsp;&amp;nbsp; money,&amp;nbsp;&amp;nbsp; changing&amp;nbsp;&amp;nbsp; Mobile&amp;nbsp;&amp;nbsp; Banking&amp;nbsp;&amp;nbsp; Personal&amp;nbsp;&amp;nbsp; Identification&amp;nbsp;&amp;nbsp; number (MPIN) and getting Mobile Money Identifier (MMID)." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-84" vertex="1">
-          <mxGeometry y="60" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Cj6t33-h_uaLePJBkrsk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cj6t33-h_uaLePJBkrsk-90" target="Cj6t33-h_uaLePJBkrsk-100" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -1216,36 +1168,6 @@
         <mxCell id="2BL4Y43nh_PBAezUoOyc-5" value="&lt;div&gt;1. Server Consolidation&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Virtual machines are used to consolidate many physical servers into fewer servers, which in turn host virtual machines. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Disaster Recovery&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Virtual&amp;nbsp; machines&amp;nbsp; can&amp;nbsp; be&amp;nbsp; used&amp;nbsp; as&amp;nbsp; “hot&amp;nbsp; standby”&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Testing and Training&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Portable Applications&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;running an application from a removable drive, without installing it on the system’s main disk drive.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Portable Work spaces&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2BL4Y43nh_PBAezUoOyc-4" vertex="1">
           <mxGeometry y="40" width="390" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-90" value="Traditional methods" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1680" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-74" value="Digital Payments" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1520" y="320" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-114" value="Drawbacks" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1760" y="170" width="120" height="40" as="geometry">
-            <mxRectangle x="1760" y="170" width="200" height="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-115" value="&lt;div&gt;1. Difficult for a Non-technical&amp;nbsp; person&lt;/div&gt;&lt;div&gt;2. The risk of data theft&lt;/div&gt;&lt;div&gt;3. Overspending&lt;/div&gt;&lt;div&gt;4. Disputed transactions&lt;/div&gt;&lt;div&gt;5. Increased business costs&lt;/div&gt;&lt;div&gt;6. The necessity of internet access&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-114" vertex="1">
-          <mxGeometry y="40" width="200" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-112" value="Advantages" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1440" y="170" width="120" height="40" as="geometry">
-            <mxRectangle x="1440" y="170" width="170" height="180" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-113" value="&lt;div&gt;1. Easy and convenient&lt;/div&gt;&lt;div&gt;2. Pay or send money from anywhere&lt;/div&gt;&lt;div&gt;3. Discounts from taxes&lt;/div&gt;&lt;div&gt;4. Written record&lt;/div&gt;&lt;div&gt;5. Less Risk&lt;/div&gt;&lt;div&gt;6. Competitive advantage to business&lt;/div&gt;&lt;div&gt;7. Environment Friendly&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-112" vertex="1">
-          <mxGeometry y="40" width="170" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-65" value="Trends in &#xa;E-Commerce " style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1600" y="110" width="120" height="40" as="geometry">
-            <mxRectangle x="1600" y="110" width="520" height="300" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj6t33-h_uaLePJBkrsk-66" value="&lt;div&gt;1. Content&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;visually&amp;nbsp; attractive&amp;nbsp; website&amp;nbsp; and&amp;nbsp; interesting&amp;nbsp; display&amp;nbsp; of&amp;nbsp; products &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Social&amp;nbsp; Commerce&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;inclusion&amp;nbsp; of&amp;nbsp; e-commerce&amp;nbsp; in&amp;nbsp; social&amp;nbsp; networks,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; Facebook,&amp;nbsp; Twitter,&amp;nbsp; YouTube,&amp;nbsp; etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Mobile&amp;nbsp; Commerce&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;55%&amp;nbsp; of&amp;nbsp; the&amp;nbsp; online&amp;nbsp; traffic&amp;nbsp; is&amp;nbsp; generated from mobile devices and still it is on the increase. Mobile marketing is&amp;nbsp; an&amp;nbsp; important&amp;nbsp; e-commerce&amp;nbsp; trend.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Biometrics&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Biometric&amp;nbsp; verification&amp;nbsp; is&amp;nbsp; a&amp;nbsp; recent&amp;nbsp; e-commerce&amp;nbsp; technology&amp;nbsp; trends&amp;nbsp; that&amp;nbsp; measure&amp;nbsp; the&amp;nbsp; physical&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; users&amp;nbsp; such&amp;nbsp; as&amp;nbsp; fingerprints,&amp;nbsp; palm,&amp;nbsp; face,&amp;nbsp; or&amp;nbsp; voice&amp;nbsp; to&amp;nbsp; solve&amp;nbsp; security&amp;nbsp; issues.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Artificial&amp;nbsp; Intelligence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Predictive Analysis&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;the right customer, the right product ,in the right way and at the right time. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-65" vertex="1">
-          <mxGeometry y="40" width="520" height="260" as="geometry" />
-        </mxCell>
         <UserObject label="Significant sections" treeRoot="1" id="Cj6t33-h_uaLePJBkrsk-50">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=1;" parent="1" vertex="1" collapsed="1" visible="0">
             <mxGeometry x="920" y="620" width="120" height="40" as="geometry" />
@@ -1671,6 +1593,131 @@
         </mxCell>
         <mxCell id="_V5_Tny7rc_aiCJH9v1E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="_V5_Tny7rc_aiCJH9v1E-4" source="_V5_Tny7rc_aiCJH9v1E-5" target="_V5_Tny7rc_aiCJH9v1E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-3" value="e-Rupi" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="2130" y="400" width="120" height="60" as="geometry">
+            <mxRectangle x="2130" y="400" width="360" height="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-4" value="&lt;div&gt;Recently, the Government of&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;India has launched a new mode of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cashless and contactless digital&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;payment named e-Rupi based on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UPI systems to ensure seamless&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;transfer of benefits to the citizens&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;in a “leak-proof” manner. Fig. 4.7.3: e-Rupi&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;It is an e-voucher, which will be delivered to beneficiaries in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the form of a QR code and SMS-string-based voucher through&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;which funds will be directly transferred to their bank account.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;These vouchers are person- and purpose-specific, meaning if&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;they are released by the government for the purpose of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;vaccination, for instance, then they can be redeemed only for&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;that. This contactless e-RUPI is easy, safe, and secure as it&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;keeps the details of the beneficiaries completely confidential.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The entire transaction process through this voucher is relatively&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;faster and at the same time reliable, as the required amount is&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;already stored in the voucher. Any government agency and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;corporation can generate e-RUPI vouchers via their partner&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;banks.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fMWRl0BQs7rZMJ10zekE-3">
+          <mxGeometry y="60" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-1" value="Cryptocurrency" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" vertex="1" visible="0" collapsed="1" parent="1">
+          <mxGeometry x="1990" y="400" width="120" height="60" as="geometry">
+            <mxRectangle x="1990" y="400" width="390" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-2" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cryptocurrency is a&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;digital currency produced by a public network, rather than any&lt;/div&gt;&lt;div&gt;government, that uses cryptography to ensure that payments are sent&lt;/div&gt;&lt;div&gt;and received safely. A cryptocurrency is a medium of exchange&lt;/div&gt;&lt;div&gt;wherein records of individual coin ownership are stored in a&lt;/div&gt;&lt;div&gt;computerized database using strong cryptography.&lt;/div&gt;&lt;div&gt;Cryptocurrency is called so because all the data is ensured with strong&lt;/div&gt;&lt;div&gt;cryptography. The strong cryptography makes it almost impossible to&lt;/div&gt;&lt;div&gt;counterfeit or double spend.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fMWRl0BQs7rZMJ10zekE-1">
+          <mxGeometry y="60" width="390" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-84" value="&lt;div&gt;Unstructured &lt;br&gt;&lt;/div&gt;&lt;div&gt;Supplementary &lt;br&gt;&lt;/div&gt;&lt;div&gt;Service &lt;br&gt;&lt;/div&gt;&lt;div&gt;Data (USSD)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="1850" y="400" width="120" height="60" as="geometry">
+            <mxRectangle x="1860" y="400" width="240" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-99" value="User does not need to&amp;nbsp; have&amp;nbsp; a&amp;nbsp; smartphone&amp;nbsp; or&amp;nbsp; internet&amp;nbsp; connection&amp;nbsp; to&amp;nbsp; use&amp;nbsp; USSD&amp;nbsp; banking. S/he&amp;nbsp; can&amp;nbsp; use&amp;nbsp; this&amp;nbsp; service&amp;nbsp; for&amp;nbsp; many financial and non-financial operations such as checking balance, sending&amp;nbsp;&amp;nbsp; money,&amp;nbsp;&amp;nbsp; changing&amp;nbsp;&amp;nbsp; Mobile&amp;nbsp;&amp;nbsp; Banking&amp;nbsp;&amp;nbsp; Personal&amp;nbsp;&amp;nbsp; Identification&amp;nbsp;&amp;nbsp; number (MPIN) and getting Mobile Money Identifier (MMID)." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-84" vertex="1">
+          <mxGeometry y="60" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-81" value="&lt;div&gt;Aadhar Enabled &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment Service &lt;br&gt;&lt;/div&gt;&lt;div&gt; (AEPS)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="1720" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1730" y="400" width="250" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-98" value="ustomer&amp;nbsp; needs&amp;nbsp; only&amp;nbsp; his&amp;nbsp; or&amp;nbsp; her&amp;nbsp; Aadhaar&amp;nbsp; number&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; pay&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; any&amp;nbsp;&amp;nbsp; merchant.&amp;nbsp;&amp;nbsp; AEPS&amp;nbsp;&amp;nbsp; allows&amp;nbsp;&amp;nbsp; bank&amp;nbsp;&amp;nbsp; to&amp;nbsp;&amp;nbsp; bank&amp;nbsp;&amp;nbsp; transactions. It means the money you pay will be deducted from your account&amp;nbsp; and&amp;nbsp; credited&amp;nbsp; to&amp;nbsp; the&amp;nbsp; payee’s&amp;nbsp; account&amp;nbsp; directly.&amp;nbsp; Customers&amp;nbsp; will&amp;nbsp; need to link their AADHAR numbers to their bank accounts. " style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-81" vertex="1">
+          <mxGeometry y="60" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-80" value="Mobile&amp;nbsp; Wallets" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="1590" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1600" y="400" width="260" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-97" value="A&amp;nbsp; mobile&amp;nbsp; wallet&amp;nbsp; or&amp;nbsp; e-wallet&amp;nbsp; is&amp;nbsp; nothing&amp;nbsp; but&amp;nbsp; a&amp;nbsp; digital&amp;nbsp; version of a physical or real-life wallet, in which one can add money to purchase&amp;nbsp; various&amp;nbsp; goods&amp;nbsp; and&amp;nbsp; services&amp;nbsp; (both&amp;nbsp; online&amp;nbsp; and&amp;nbsp; offline)&amp;nbsp; and&amp;nbsp; transfer&amp;nbsp; money&amp;nbsp; with&amp;nbsp; this&amp;nbsp; technology." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-80" vertex="1">
+          <mxGeometry y="60" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-77" value="&lt;div&gt;Immediate&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment&amp;nbsp;&amp;nbsp; Service&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt; (IMPS)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="1460" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1470" y="400" width="240" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-96" value="s&amp;nbsp; a&amp;nbsp; Mobile&amp;nbsp; App&amp;nbsp; developed by National Payments Corporation of India (NPCI) based on UPI (Unified&amp;nbsp; Payment&amp;nbsp; Interface).&amp;nbsp; It&amp;nbsp; facilitates&amp;nbsp; e-payments&amp;nbsp; directly&amp;nbsp; through&amp;nbsp; banks and supports all Indian banks which use that platform." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-77" vertex="1">
+          <mxGeometry y="60" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-82" value="&lt;div&gt;BHIM&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Bharat&amp;nbsp; Interface &lt;br&gt;&lt;/div&gt;&lt;div&gt; for&amp;nbsp; Money)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="1330" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1340" y="400" width="230" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-95" value="ransfer&amp;nbsp; money&amp;nbsp; instantly&amp;nbsp; within&amp;nbsp; banks&amp;nbsp; across&amp;nbsp; India through Mobile, Internet Banking and ATM, which is not only safe but economical also." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-82" vertex="1">
+          <mxGeometry y="60" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-76" value="&lt;div&gt;Unified&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Payment&amp;nbsp; Interface&lt;br&gt;&lt;/div&gt;&lt;div&gt;(UPI)&lt;/div&gt;" style="swimlane;startSize=60;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;html=1;" parent="1" vertex="1" visible="0" collapsed="1">
+          <mxGeometry x="1200" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="1200" y="400" width="240" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-94" value="UPI or Unified Payment Interface is a payment mode which is used&amp;nbsp; to&amp;nbsp; make&amp;nbsp; instant&amp;nbsp; fund&amp;nbsp; transfers&amp;nbsp; from&amp;nbsp; the&amp;nbsp; sender’s&amp;nbsp; bank&amp;nbsp; account&amp;nbsp; to&amp;nbsp; the&amp;nbsp; receiver’s&amp;nbsp; bank&amp;nbsp; account&amp;nbsp; through&amp;nbsp; the&amp;nbsp; mobile&amp;nbsp; app.&amp;nbsp; User&amp;nbsp; can&amp;nbsp; transfer&amp;nbsp; funds&amp;nbsp; between&amp;nbsp; two&amp;nbsp; accounts&amp;nbsp; using&amp;nbsp; UPI&amp;nbsp; apps." style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-76" vertex="1">
+          <mxGeometry y="60" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-90" value="Traditional methods" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1680" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="fMWRl0BQs7rZMJ10zekE-1" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="380" />
+              <mxPoint x="2050" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cj6t33-h_uaLePJBkrsk-74" target="fMWRl0BQs7rZMJ10zekE-3" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="380" />
+              <mxPoint x="2190" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-74" value="Digital Payments" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#000000;gradientColor=none;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1520" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-114" value="Drawbacks" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1760" y="170" width="120" height="40" as="geometry">
+            <mxRectangle x="1760" y="170" width="200" height="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-115" value="&lt;div&gt;1. Difficult for a Non-technical&amp;nbsp; person&lt;/div&gt;&lt;div&gt;2. The risk of data theft&lt;/div&gt;&lt;div&gt;3. Overspending&lt;/div&gt;&lt;div&gt;4. Disputed transactions&lt;/div&gt;&lt;div&gt;5. Increased business costs&lt;/div&gt;&lt;div&gt;6. The necessity of internet access&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-114" vertex="1">
+          <mxGeometry y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-112" value="Advantages" style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1440" y="170" width="120" height="40" as="geometry">
+            <mxRectangle x="1440" y="170" width="170" height="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-113" value="&lt;div&gt;1. Easy and convenient&lt;/div&gt;&lt;div&gt;2. Pay or send money from anywhere&lt;/div&gt;&lt;div&gt;3. Discounts from taxes&lt;/div&gt;&lt;div&gt;4. Written record&lt;/div&gt;&lt;div&gt;5. Less Risk&lt;/div&gt;&lt;div&gt;6. Competitive advantage to business&lt;/div&gt;&lt;div&gt;7. Environment Friendly&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-112" vertex="1">
+          <mxGeometry y="40" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-65" value="Trends in &#xa;E-Commerce " style="swimlane;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1600" y="110" width="120" height="40" as="geometry">
+            <mxRectangle x="1600" y="110" width="520" height="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cj6t33-h_uaLePJBkrsk-66" value="&lt;div&gt;1. Content&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;visually&amp;nbsp; attractive&amp;nbsp; website&amp;nbsp; and&amp;nbsp; interesting&amp;nbsp; display&amp;nbsp; of&amp;nbsp; products &lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Social&amp;nbsp; Commerce&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;inclusion&amp;nbsp; of&amp;nbsp; e-commerce&amp;nbsp; in&amp;nbsp; social&amp;nbsp; networks,&amp;nbsp; such&amp;nbsp; as&amp;nbsp; Facebook,&amp;nbsp; Twitter,&amp;nbsp; YouTube,&amp;nbsp; etc.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Mobile&amp;nbsp; Commerce&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;55%&amp;nbsp; of&amp;nbsp; the&amp;nbsp; online&amp;nbsp; traffic&amp;nbsp; is&amp;nbsp; generated from mobile devices and still it is on the increase. Mobile marketing is&amp;nbsp; an&amp;nbsp; important&amp;nbsp; e-commerce&amp;nbsp; trend.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Biometrics&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Biometric&amp;nbsp; verification&amp;nbsp; is&amp;nbsp; a&amp;nbsp; recent&amp;nbsp; e-commerce&amp;nbsp; technology&amp;nbsp; trends&amp;nbsp; that&amp;nbsp; measure&amp;nbsp; the&amp;nbsp; physical&amp;nbsp; characteristics&amp;nbsp; of&amp;nbsp; users&amp;nbsp; such&amp;nbsp; as&amp;nbsp; fingerprints,&amp;nbsp; palm,&amp;nbsp; face,&amp;nbsp; or&amp;nbsp; voice&amp;nbsp; to&amp;nbsp; solve&amp;nbsp; security&amp;nbsp; issues.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Artificial&amp;nbsp; Intelligence&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Predictive Analysis&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;the right customer, the right product ,in the right way and at the right time. &lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Cj6t33-h_uaLePJBkrsk-65" vertex="1">
+          <mxGeometry y="40" width="520" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-5" value="Blockchain" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-6" value="&lt;div&gt;Definition&lt;/div&gt;&lt;div&gt;Blockchain, sometimes referred to as Distributed Ledger Technology&lt;/div&gt;&lt;div&gt;(DLT) is a shared, peer-to-peer, and decentralized open ledger of&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;transactions system with no trusted third parties in between. This&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ledger database has every entry as permanent as it is an append-only&lt;/div&gt;&lt;div&gt;database which cannot be changed or altered. All transactions are fully&lt;/div&gt;&lt;div&gt;irreversible with any change in the transaction being recorded as new&lt;/div&gt;&lt;div&gt;transaction. The decentralised network refers to the network which is&lt;/div&gt;&lt;div&gt;not controlled by any bank, corporation, or government. A blockchain&lt;/div&gt;&lt;div&gt;generally uses a chain of blocks, with each block representing the&lt;/div&gt;&lt;div&gt;digital information stored in public database (“the chain”).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="180" width="590" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-7" value="&lt;div&gt;I. Applications&lt;/div&gt;&lt;div&gt;Some initiatives that are already existing in various fields like financial&lt;/div&gt;&lt;div&gt;services, healthcare, government, travel industry, economic forecasts&lt;/div&gt;&lt;div&gt;etc. are discussed below:&lt;/div&gt;&lt;div&gt;• Financial Services: Blockchain can be used to provide an&lt;/div&gt;&lt;div&gt;automated trade lifecycle in terms of the transaction log of any&lt;/div&gt;&lt;div&gt;transaction of asset or property - whether physical or digital such&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;as laptops, smartphones, automobiles, real estate, etc. from one&lt;/span&gt;&lt;/div&gt;&lt;div&gt;person to another.&lt;/div&gt;&lt;div&gt;• Healthcare: Blockchain provides secure sharing of data in&lt;/div&gt;&lt;div&gt;healthcare industry by increasing the privacy, security, and&lt;/div&gt;&lt;div&gt;interoperability of the data by eliminating the interference of&lt;/div&gt;&lt;div&gt;third party and avoiding the overhead costs.&lt;/div&gt;&lt;div&gt;• Government: At the government front, there are instances where&lt;/div&gt;&lt;div&gt;the technical decentralization is necessary but politically should&lt;/div&gt;&lt;div&gt;be governed by governments like land registration, vehicle&lt;/div&gt;&lt;div&gt;registration and management, e-voting etc. Blockchain improves&lt;/div&gt;&lt;div&gt;the transparency and provides a better way to monitor and audit&lt;/div&gt;&lt;div&gt;the transactions in these systems.&lt;/div&gt;&lt;div&gt;• Travel Industry: Blockchain can be applied in money transactions&lt;/div&gt;&lt;div&gt;and in storing important documents like passports/other&lt;/div&gt;&lt;div&gt;identification cards, reservations and managing travel insurance,&lt;/div&gt;&lt;div&gt;loyalty, and rewards thus, changing the working of travel and&lt;/div&gt;&lt;div&gt;hospitality industry.&lt;/div&gt;&lt;div&gt;• Economic Forecasts: Blockchain makes possible the financial and&lt;/div&gt;&lt;div&gt;economic forecasts based on decentralized prediction markets,&lt;/div&gt;&lt;div&gt;decentralized voting, and stock trading, thus enabling the&lt;/div&gt;&lt;div&gt;organizations to plan and shape their businesses&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="420" width="590" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-8" value="&lt;div&gt;III. Risks&lt;/div&gt;&lt;div&gt;• With the use of blockchain, organizations need to consider risks&lt;/div&gt;&lt;div&gt;with a wider perspective as different members of a particular&lt;/div&gt;&lt;div&gt;blockchain may have different risk appetite/risk tolerances that&lt;/div&gt;&lt;div&gt;may further lead to conflict when monitoring controls are&lt;/div&gt;&lt;div&gt;designed for a blockchain. There may be questions about who is&lt;/div&gt;&lt;div&gt;responsible for managing risks if no one party is in-charge and&lt;/div&gt;&lt;div&gt;how proper accountability is to be achieved in a blockchain.&lt;/div&gt;&lt;div&gt;• The reliability of financial transactions is dependent on the&lt;/div&gt;&lt;div&gt;underlying technology and if this underlying consensus&lt;/div&gt;&lt;div&gt;mechanism has been tampered with, it could render the financial&lt;/div&gt;&lt;div&gt;information stored in the ledger to be inaccurate and unreliable.&lt;/div&gt;&lt;div&gt;• In the absence of any central authority to administer and enforce&lt;/div&gt;&lt;div&gt;protocol amendments, there could be a challenge in the&lt;/div&gt;&lt;div&gt;establishment of development and maintenance of process control&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;activities and in such case, users of public blockchains find&lt;/span&gt;&lt;/div&gt;&lt;div&gt;difficult to obtain an understanding of the general IT controls&lt;/div&gt;&lt;div&gt;implemented and the effectiveness of these controls.&lt;/div&gt;&lt;div&gt;• As blockchain involves humongous data getting updated&lt;/div&gt;&lt;div&gt;frequently, risk related to information overload could potentially&lt;/div&gt;&lt;div&gt;challenge the level of monitoring required. Furthermore, to find&lt;/div&gt;&lt;div&gt;competent people to design and perform effective monitoring&lt;/div&gt;&lt;div&gt;controls may again prove to be difficult.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="860" width="590" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWRl0BQs7rZMJ10zekE-9" value="&lt;div&gt;IV. Controls&lt;/div&gt;&lt;div&gt;Though there could be many ways, however, some activities that may help&lt;/div&gt;&lt;div&gt;in mitigating the possible threats and risks to blockchain are as follows:&lt;/div&gt;&lt;div&gt;• As opposed to traditional manual techniques, computerized&lt;/div&gt;&lt;div&gt;continuous monitoring techniques shall be used to perform&lt;/div&gt;&lt;div&gt;ongoing evaluations, considering the large volume of data&lt;/div&gt;&lt;div&gt;processed and the frequency at which these transactions are&lt;/div&gt;&lt;div&gt;getting processed.&lt;/div&gt;&lt;div&gt;• Suitable data analytics procedures shall be developed to identify and&lt;/div&gt;&lt;div&gt;obtain relevant and quality data from the blockchain so that it can&lt;/div&gt;&lt;div&gt;then be processed into information that subsequently can be used to&lt;/div&gt;&lt;div&gt;support management’s business processes and reporting objectives.&lt;/div&gt;&lt;div&gt;• Communication methods shall be developed to ensure that&lt;/div&gt;&lt;div&gt;operational changes and updates relating to the use of blockchain&lt;/div&gt;&lt;div&gt;are communicated to appropriate personnel so that internal&lt;/div&gt;&lt;div&gt;control related responsibilities are carried out in proper manner.&lt;/div&gt;&lt;div&gt;• The unique aspects of blockchain such as consensus protocols,&lt;/div&gt;&lt;div&gt;smart contracts, and private keys, as well as factors relating to the&lt;/div&gt;&lt;div&gt;ongoing health, governance, and overall reliability of the&lt;/div&gt;&lt;div&gt;blockchain in use; shall be assessed thoroughly.&lt;/div&gt;&lt;div&gt;• Both internal and external auditors shall be engaged in&lt;/div&gt;&lt;div&gt;discussions during the development or identification of a&lt;/div&gt;&lt;div&gt;blockchain so as to make the management understand the typical&lt;/div&gt;&lt;div&gt;auditability issues associated with using blockchain.&lt;/div&gt;&lt;div&gt;Subsequently, processes can be established to mitigate against&lt;/div&gt;&lt;div&gt;those issues so that the appropriate information and support for&lt;/div&gt;&lt;div&gt;transactions is available.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="1300" width="590" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
